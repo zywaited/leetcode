@@ -13,6 +13,10 @@
 * 养成考虑和处理边界值的习惯
 * 养成优化代码的习惯（时间和空间方面）
 
+#### 1.3 注意
+
+* 实现后的方法名和返回值有微调，为了方便写单元测试，如果直接用在力扣上要调整一下
+
 ### 二：题目
 
 点击序号跳转力扣，点击题目名称跳转到实现代码
@@ -78,7 +82,7 @@
 | [32](https://leetcode-cn.com/problems/longest-valid-parentheses) | [最长有效括号](https://github.com/zywaited/leetcode/tree/master/1_50/32/) | 1            |
 | [37](https://leetcode-cn.com/problems/sudoku-solver)         | [解数独](https://github.com/zywaited/leetcode/tree/master/1_50/37/) | 1            |
 | [41](https://leetcode-cn.com/problems/first-missing-positive) | [缺失的第一个正数](https://github.com/zywaited/leetcode/tree/master/1_50/41/) | 1            |
-| [44](https://leetcode-cn.com/problems/wildcard-matching)     | [通配符匹配](https://github.com/zywaited/leetcode/tree/master/1_50/44/) | 1            |
+| [44](https://leetcode-cn.com/problems/wildcard-matching)     | [通配符匹配](https://github.com/zywaited/leetcode/tree/master/1_50/44/) | 2            |
 | [51](https://leetcode-cn.com/problems/n-queens)              | [N皇后](https://github.com/zywaited/leetcode/tree/master/51_100/51/) | 1            |
 | [76](https://leetcode-cn.com/problems/minimum-window-substring) | [最小覆盖子串](https://github.com/zywaited/leetcode/tree/master/51_100/76/) | 1            |
 | [128](https://leetcode-cn.com/problems/longest-consecutive-sequence) | [最长连续序列](https://github.com/zywaited/leetcode/tree/master/101_150/128/) | 1            |
