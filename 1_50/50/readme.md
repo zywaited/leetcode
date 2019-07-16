@@ -1,0 +1,18 @@
+## [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/solution/powx-n-by-leetcode/)
+### 说明
+
+实现 pow(x, n) ，即计算 x 的 n 次幂函数。
+
+### 实例
+#### 1
+
+输入: 2.00000, 10
+输出: 1024.00000
+
+#### 2
+输入: 2.10000, 3
+输出: 9.26100
+
+### 实现
+* one 快速幂
+* two 循环作乘法(自行实现)
