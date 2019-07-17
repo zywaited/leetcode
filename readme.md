@@ -61,6 +61,7 @@
 | [39](https://leetcode-cn.com/problems/combination-sum) | [组合总和](https://github.com/zywaited/leetcode/tree/master/1_50/39/) | 1 |
 | [40](https://leetcode-cn.com/problems/combination-sum-ii) | [组合总和 II](https://github.com/zywaited/leetcode/tree/master/1_50/40/) | 1 |
 | [50](https://leetcode-cn.com/problems/powx-n) | [Pow(x, n)](https://github.com/zywaited/leetcode/tree/master/1_50/50/) | 1 |
+| [56](https://leetcode-cn.com/problems/merge-intervals/) | [合并区间](https://github.com/zywaited/leetcode/tree/master/51_100/56/) | 2 |
 | [61](https://leetcode-cn.com/problems/rotate-list) | [旋转链表](https://github.com/zywaited/leetcode/tree/master/51_100/61/) | 1 |
 | [80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | [删除排序数组中的重复项 II](https://github.com/zywaited/leetcode/tree/master/51_100/80/) | 1 |
 | [82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii) | [删除排序链表中的重复元素 II](https://github.com/zywaited/leetcode/tree/master/51_100/82/) | 1 |
