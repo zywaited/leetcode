@@ -1,4 +1,4 @@
-package one
+package _1125
 
 import (
 	"leetcode/1101_1150/1125/one"

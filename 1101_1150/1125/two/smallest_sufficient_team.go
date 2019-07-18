@@ -53,6 +53,7 @@ func SmallestSufficientTeam(skills []string, people [][]string) []int {
 	// 添加单独的技能人员
 	cs := 0
 	for _, p := range sp {
+		// 可能一个同学拥有多个独有技能，所以去重
 		if len(p) > 1 || ps[p[0]] == 0 {
 			continue
 		}
