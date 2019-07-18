@@ -90,5 +90,5 @@
 | [212](https://leetcode-cn.com/problems/word-search-ii)       | [单词搜索 II](https://github.com/zywaited/leetcode/tree/master/201_250/212/) | 1            |
 | [214](https://leetcode-cn.com/problems/shortest-palindrome)  | [最短回文串](https://github.com/zywaited/leetcode/tree/master/201_250/214/) | 2            |
 | [239](https://leetcode-cn.com/problems/sliding-window-maximum) | [滑动窗口最大值](https://github.com/zywaited/leetcode/tree/master/201_250/239/) | 1            |
-| [1125](https://leetcode-cn.com/problems/smallest-sufficient-team/) | [最小的必要团队](https://github.com/zywaited/leetcode/tree/master/1101_1150/1125/) | 1            |
+| [1125](https://leetcode-cn.com/problems/smallest-sufficient-team/) | [最小的必要团队](https://github.com/zywaited/leetcode/tree/master/1101_1150/1125/) | 2            |
 

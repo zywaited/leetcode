@@ -29,3 +29,4 @@ people = [["algorithms","math","java"],["algorithms","math","reactjs"],["java","
 
 ### 实现
 * one 位图 + 动态规划（保存了所有技能所需的最小团队人员）
+* two 位图 + 回溯(效率很低，经常超时)
