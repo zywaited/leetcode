@@ -70,7 +70,7 @@
 | [208](https://leetcode-cn.com/problems/implement-trie-prefix-tree) | [实现 Trie (前缀树)](https://github.com/zywaited/leetcode/tree/master/201_250/208/)(同时实现Go echo框架路由前缀树) | 2 |
 | [229](https://leetcode-cn.com/problems/majority-element-ii) | [求众数 II](https://github.com/zywaited/leetcode/tree/master/201_250/229/) | 1 |
 | [260](https://leetcode-cn.com/problems/single-number-iii) | [只出现一次的数字 III](https://github.com/zywaited/leetcode/tree/master/251_300/260/) | 1 |
-| [287](https://leetcode-cn.com/problems/find-the-duplicate-number) | [寻找重复数](https://github.com/zywaited/leetcode/tree/master/251_300/287/) | 1 |
+| [287](https://leetcode-cn.com/problems/find-the-duplicate-number) | [寻找重复数](https://github.com/zywaited/leetcode/tree/master/251_300/287/) | 2 |
 | [397](https://leetcode-cn.com/problems/integer-replacement) | [整数替换](https://github.com/zywaited/leetcode/tree/master/351_400/397/) | 2 |
 
 
@@ -91,5 +91,5 @@
 | [212](https://leetcode-cn.com/problems/word-search-ii)       | [单词搜索 II](https://github.com/zywaited/leetcode/tree/master/201_250/212/) | 1            |
 | [214](https://leetcode-cn.com/problems/shortest-palindrome)  | [最短回文串](https://github.com/zywaited/leetcode/tree/master/201_250/214/) | 2            |
 | [239](https://leetcode-cn.com/problems/sliding-window-maximum) | [滑动窗口最大值](https://github.com/zywaited/leetcode/tree/master/201_250/239/) | 1            |
-| [1125](https://leetcode-cn.com/problems/smallest-sufficient-team/) | [最小的必要团队](https://github.com/zywaited/leetcode/tree/master/1101_1150/1125/) | 2            |
+| [1125](https://leetcode-cn.com/problems/smallest-sufficient-team/) | [最小的必要团队](https://github.com/zywaited/leetcode/tree/master/1101_1150/1125/) | 3            |
 

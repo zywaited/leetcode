@@ -1,11 +1,13 @@
 package _1125
 
 import (
-	"leetcode/1101_1150/1125/one"
-	"leetcode/1101_1150/1125/two"
 	"testing"
 
 	"github.com/stretchr/testify/require"
+
+	"leetcode/1101_1150/1125/one"
+	"leetcode/1101_1150/1125/three"
+	"leetcode/1101_1150/1125/two"
 )
 
 type smallestSufficientTeam func([]string, [][]string) []int
@@ -76,4 +78,5 @@ func test(t *testing.T, fn smallestSufficientTeam) {
 func TestSmallestSufficientTeam(t *testing.T) {
 	test(t, one.SmallestSufficientTeam)
 	test(t, two.SmallestSufficientTeam)
+	test(t, three.SmallestSufficientTeam)
 }
