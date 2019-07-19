@@ -79,4 +79,5 @@ func TestSmallestSufficientTeam(t *testing.T) {
 	test(t, one.SmallestSufficientTeam)
 	test(t, two.SmallestSufficientTeam)
 	test(t, three.SmallestSufficientTeam)
+	test(t, three.OptimizeSmallestSufficientTeam)
 }
