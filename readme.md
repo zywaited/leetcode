@@ -66,6 +66,8 @@
 | [80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | [删除排序数组中的重复项 II](https://github.com/zywaited/leetcode/tree/master/51_100/80/) | 1 |
 | [82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii) | [删除排序链表中的重复元素 II](https://github.com/zywaited/leetcode/tree/master/51_100/82/) | 1 |
 | [137](https://leetcode-cn.com/problems/single-number-ii) | [只出现一次的数字 II](https://github.com/zywaited/leetcode/tree/master/101_150/137/) | 1 |
+| [139](https://leetcode-cn.com/problems/word-break/) | [单词拆分](https://github.com/zywaited/leetcode/tree/master/101_150/139/) | 1 |
+| [140](https://leetcode-cn.com/problems/word-break-ii/) | [单词拆分II](https://github.com/zywaited/leetcode/tree/master/101_150/140/) | 1 |
 | [142](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [环形链表 II](https://github.com/zywaited/leetcode/tree/master/101_150/142/) | 2 |
 | [146](https://leetcode-cn.com/problems/lru-cache/) | [LRU缓存机制](https://github.com/zywaited/leetcode/tree/master/101_150/146/) | 2 |
 | [208](https://leetcode-cn.com/problems/implement-trie-prefix-tree) | [实现 Trie (前缀树)](https://github.com/zywaited/leetcode/tree/master/201_250/208/)(同时实现Go echo框架路由前缀树) | 2 |
