@@ -29,6 +29,7 @@
 | [7](https://leetcode-cn.com/problems/reverse-integer/)       | [整数反转](https://github.com/zywaited/leetcode/tree/master/1_50/7/) | 1            |
 | [9](https://leetcode-cn.com/problems/palindrome-number)      | [回文数](https://github.com/zywaited/leetcode/tree/master/1_50/9/) | 1            |
 | [110](https://leetcode-cn.com/problems/balanced-binary-tree) | [平衡二叉树](https://github.com/zywaited/leetcode/tree/master/101_150/110/) | 1            |
+| [112](https://leetcode-cn.com/problems/path-sum/)            | [路径总和](https://github.com/zywaited/leetcode/tree/master/101_150/112/) | 1            |
 | [136](https://leetcode-cn.com/problems/single-number)        | [只出现一次的数字](https://github.com/zywaited/leetcode/tree/master/101_150/136/) | 1            |
 | [169](https://leetcode-cn.com/problems/majority-element)     | [求众数](https://github.com/zywaited/leetcode/tree/master/151_200/169/) | 1            |
 | [190](https://leetcode-cn.com/problems/reverse-bits)         | [颠倒二进制位](https://github.com/zywaited/leetcode/tree/master/151_200/190/) | 1            |
@@ -66,6 +67,7 @@
 | [61](https://leetcode-cn.com/problems/rotate-list) | [旋转链表](https://github.com/zywaited/leetcode/tree/master/51_100/61/) | 1 |
 | [80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | [删除排序数组中的重复项 II](https://github.com/zywaited/leetcode/tree/master/51_100/80/) | 1 |
 | [82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii) | [删除排序链表中的重复元素 II](https://github.com/zywaited/leetcode/tree/master/51_100/82/) | 1 |
+| [113](https://leetcode-cn.com/problems/path-sum-ii/) | [路径总和 II](https://github.com/zywaited/leetcode/tree/master/101_150/113/) | 1 |
 | [127](https://leetcode-cn.com/problems/word-ladder/) | [单词接龙](https://github.com/zywaited/leetcode/tree/master/101_150/127/) | 1 |
 | [137](https://leetcode-cn.com/problems/single-number-ii) | [只出现一次的数字 II](https://github.com/zywaited/leetcode/tree/master/101_150/137/) | 1 |
 | [139](https://leetcode-cn.com/problems/word-break/) | [单词拆分](https://github.com/zywaited/leetcode/tree/master/101_150/139/) | 1 |
