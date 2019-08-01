@@ -62,6 +62,7 @@
 | [33](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | [搜索旋转排序数组](https://github.com/zywaited/leetcode/tree/master/1_50/33/) | 1 |
 | [39](https://leetcode-cn.com/problems/combination-sum) | [组合总和](https://github.com/zywaited/leetcode/tree/master/1_50/39/) | 1 |
 | [40](https://leetcode-cn.com/problems/combination-sum-ii) | [组合总和 II](https://github.com/zywaited/leetcode/tree/master/1_50/40/) | 1 |
+| [46](https://leetcode-cn.com/problems/permutations/) | [全排列](https://github.com/zywaited/leetcode/tree/master/1_50/46/) | 1 |
 | [50](https://leetcode-cn.com/problems/powx-n) | [Pow(x, n)](https://github.com/zywaited/leetcode/tree/master/1_50/50/) | 1 |
 | [55](https://leetcode-cn.com/problems/jump-game/) | [跳跃游戏](https://github.com/zywaited/leetcode/tree/master/51_100/55/) | 4 |
 | [56](https://leetcode-cn.com/problems/merge-intervals/) | [合并区间](https://github.com/zywaited/leetcode/tree/master/51_100/56/) | 2 |
@@ -89,6 +90,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
 | [4](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [寻找两个有序数组的中位数](https://github.com/zywaited/leetcode/tree/master/1_50/4/) | 1            |
 | [10](https://leetcode-cn.com/problems/regular-expression-matching) | [正则表达式匹配](https://github.com/zywaited/leetcode/tree/master/1_50/10/) | 2            |
+| [30](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [串联所有单词的子串](https://github.com/zywaited/leetcode/tree/master/1_50/30/) | 2            |
 | [32](https://leetcode-cn.com/problems/longest-valid-parentheses) | [最长有效括号](https://github.com/zywaited/leetcode/tree/master/1_50/32/) | 1            |
 | [37](https://leetcode-cn.com/problems/sudoku-solver)         | [解数独](https://github.com/zywaited/leetcode/tree/master/1_50/37/) | 1            |
 | [41](https://leetcode-cn.com/problems/first-missing-positive) | [缺失的第一个正数](https://github.com/zywaited/leetcode/tree/master/1_50/41/) | 1            |
