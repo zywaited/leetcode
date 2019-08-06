@@ -81,6 +81,7 @@
 | [260](https://leetcode-cn.com/problems/single-number-iii) | [只出现一次的数字 III](https://github.com/zywaited/leetcode/tree/master/251_300/260/) | 1 |
 | [287](https://leetcode-cn.com/problems/find-the-duplicate-number) | [寻找重复数](https://github.com/zywaited/leetcode/tree/master/251_300/287/) | 2 |
 | [397](https://leetcode-cn.com/problems/integer-replacement) | [整数替换](https://github.com/zywaited/leetcode/tree/master/351_400/397/) | 2 |
+| [567](https://leetcode-cn.com/problems/permutation-in-string/) | [字符串的排列](https://github.com/zywaited/leetcode/tree/master/551_600/567/) | 2 |
 
 
 
