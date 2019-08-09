@@ -102,6 +102,7 @@
 | [126](https://leetcode-cn.com/problems/word-ladder-ii/)      | [单词接龙 II](https://github.com/zywaited/leetcode/tree/master/101_150/126/) | 1            |
 | [128](https://leetcode-cn.com/problems/longest-consecutive-sequence) | [最长连续序列](https://github.com/zywaited/leetcode/tree/master/101_150/128/) | 1            |
 | [135](https://leetcode-cn.com/problems/candy/)               | [分发糖果](https://github.com/zywaited/leetcode/tree/master/101_150/135/) | 1            |
+| [149](https://leetcode-cn.com/problems/max-points-on-a-line/) | [直线上最多的点数](https://github.com/zywaited/leetcode/tree/master/101_150/149/) | 1            |
 | [212](https://leetcode-cn.com/problems/word-search-ii)       | [单词搜索 II](https://github.com/zywaited/leetcode/tree/master/201_250/212/) | 1            |
 | [214](https://leetcode-cn.com/problems/shortest-palindrome)  | [最短回文串](https://github.com/zywaited/leetcode/tree/master/201_250/214/) | 2            |
 | [239](https://leetcode-cn.com/problems/sliding-window-maximum) | [滑动窗口最大值](https://github.com/zywaited/leetcode/tree/master/201_250/239/) | 1            |
