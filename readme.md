@@ -34,6 +34,7 @@
 | [169](https://leetcode-cn.com/problems/majority-element)     | [求众数](https://github.com/zywaited/leetcode/tree/master/151_200/169/) | 1            |
 | [190](https://leetcode-cn.com/problems/reverse-bits)         | [颠倒二进制位](https://github.com/zywaited/leetcode/tree/master/151_200/190/) | 1            |
 | [191](https://leetcode-cn.com/problems/number-of-1-bits)     | [位1的个数](https://github.com/zywaited/leetcode/tree/master/151_200/191/) | 1            |
+| [206](https://leetcode-cn.com/problems/reverse-linked-list/) | [反转链表](https://github.com/zywaited/leetcode/tree/master/201_250/206/) | 2            |
 | [226](https://leetcode-cn.com/problems/invert-binary-tree)   | [翻转二叉树](https://github.com/zywaited/leetcode/tree/master/201_250/226/) | 1            |
 | [231](https://leetcode-cn.com/problems/power-of-two)         | [2的幂](https://github.com/zywaited/leetcode/tree/master/201_250/231/) | 1            |
 | [268](https://leetcode-cn.com/problems/missing-number)       | [缺失数字](https://github.com/zywaited/leetcode/tree/master/251_300/268/) | 2            |
