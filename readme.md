@@ -28,6 +28,8 @@
 | [1](https://leetcode-cn.com/problems/two-sum/)               | [两数之和](https://github.com/zywaited/leetcode/tree/master/1_50/1) | 1            |
 | [7](https://leetcode-cn.com/problems/reverse-integer/)       | [整数反转](https://github.com/zywaited/leetcode/tree/master/1_50/7/) | 1            |
 | [9](https://leetcode-cn.com/problems/palindrome-number)      | [回文数](https://github.com/zywaited/leetcode/tree/master/1_50/9/) | 1            |
+| [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [删除排序数组中的重复项](https://github.com/zywaited/leetcode/tree/master/1_50/26/) | 1            |
+| [27](https://leetcode-cn.com/problems/remove-element/)       | [移除元素](https://github.com/zywaited/leetcode/tree/master/1_50/27/) | 1            |
 | [110](https://leetcode-cn.com/problems/balanced-binary-tree) | [平衡二叉树](https://github.com/zywaited/leetcode/tree/master/101_150/110/) | 1            |
 | [112](https://leetcode-cn.com/problems/path-sum/)            | [路径总和](https://github.com/zywaited/leetcode/tree/master/101_150/112/) | 1            |
 | [136](https://leetcode-cn.com/problems/single-number)        | [只出现一次的数字](https://github.com/zywaited/leetcode/tree/master/101_150/136/) | 1            |
@@ -59,6 +61,7 @@
 | [17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | [电话号码的字母组合](https://github.com/zywaited/leetcode/tree/master/1_50/17/) | 1 |
 | [18](https://leetcode-cn.com/problems/4sum) | [四数之和](https://github.com/zywaited/leetcode/tree/master/1_50/18/) | 1 |
 | [19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) | [删除链表的倒数第N个节点](https://github.com/zywaited/leetcode/tree/master/1_50/19/) | 1 |
+| [22](https://leetcode-cn.com/problems/generate-parentheses/) | [括号生成](https://github.com/zywaited/leetcode/tree/master/1_50/22/) | 1 |
 | [29](https://leetcode-cn.com/problems/divide-two-integers) | [两数相除](https://github.com/zywaited/leetcode/tree/master/1_50/29/) | 1 |
 | [33](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | [搜索旋转排序数组](https://github.com/zywaited/leetcode/tree/master/1_50/33/) | 1 |
 | [39](https://leetcode-cn.com/problems/combination-sum) | [组合总和](https://github.com/zywaited/leetcode/tree/master/1_50/39/) | 1 |
@@ -92,6 +95,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
 | [4](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [寻找两个有序数组的中位数](https://github.com/zywaited/leetcode/tree/master/1_50/4/) | 1            |
 | [10](https://leetcode-cn.com/problems/regular-expression-matching) | [正则表达式匹配](https://github.com/zywaited/leetcode/tree/master/1_50/10/) | 2            |
+| [23](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [合并K个排序链表](https://github.com/zywaited/leetcode/tree/master/1_50/23/) | 4            |
 | [30](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [串联所有单词的子串](https://github.com/zywaited/leetcode/tree/master/1_50/30/) | 2            |
 | [32](https://leetcode-cn.com/problems/longest-valid-parentheses) | [最长有效括号](https://github.com/zywaited/leetcode/tree/master/1_50/32/) | 1            |
 | [37](https://leetcode-cn.com/problems/sudoku-solver)         | [解数独](https://github.com/zywaited/leetcode/tree/master/1_50/37/) | 1            |
