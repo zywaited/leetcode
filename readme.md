@@ -43,6 +43,7 @@
 | [268](https://leetcode-cn.com/problems/missing-number)       | [缺失数字](https://github.com/zywaited/leetcode/tree/master/251_300/268/) | 2            |
 | [342](https://leetcode-cn.com/problems/power-of-four)        | [4的幂](https://github.com/zywaited/leetcode/tree/master/301_350/342/) | 1            |
 | [389](https://leetcode-cn.com/problems/find-the-difference)  | [找不同](https://github.com/zywaited/leetcode/tree/master/351_400/389/) | 2            |
+| [415](https://leetcode-cn.com/problems/add-strings/)         | [字符串相加](https://github.com/zywaited/leetcode/tree/master/401_450/415/) | 1            |
 | [437](https://leetcode-cn.com/problems/path-sum-iii/)        | [路径总和 III](https://github.com/zywaited/leetcode/tree/master/401_450/437/) | 1            |
 | [944](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/solution/shan-lie-zao-xu-by-leetcode/) | [删列造序](https://github.com/zywaited/leetcode/tree/master/901_950/944/) | 1            |
 
@@ -67,6 +68,8 @@
 | [24](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [两两交换链表中的节点](https://github.com/zywaited/leetcode/tree/master/1_50/24/) | 2 |
 | [29](https://leetcode-cn.com/problems/divide-two-integers) | [两数相除](https://github.com/zywaited/leetcode/tree/master/1_50/29/) | 1 |
 | [33](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | [搜索旋转排序数组](https://github.com/zywaited/leetcode/tree/master/1_50/33/) | 1 |
+| [34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [在排序数组中查找元素的第一个和最后一个位置](https://github.com/zywaited/leetcode/tree/master/1_50/34/) | 2 |
+| [36](https://leetcode-cn.com/problems/valid-sudoku/) | [有效的数独](https://github.com/zywaited/leetcode/tree/master/1_50/36/) | 1 |
 | [39](https://leetcode-cn.com/problems/combination-sum) | [组合总和](https://github.com/zywaited/leetcode/tree/master/1_50/39/) | 1 |
 | [40](https://leetcode-cn.com/problems/combination-sum-ii) | [组合总和 II](https://github.com/zywaited/leetcode/tree/master/1_50/40/) | 1 |
 | [46](https://leetcode-cn.com/problems/permutations/) | [全排列](https://github.com/zywaited/leetcode/tree/master/1_50/46/) | 1 |
