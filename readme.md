@@ -31,10 +31,12 @@
 | [21](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [合并两个有序链表](https://github.com/zywaited/leetcode/tree/master/1_50/21/) | 1            |
 | [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [删除排序数组中的重复项](https://github.com/zywaited/leetcode/tree/master/1_50/26/) | 1            |
 | [27](https://leetcode-cn.com/problems/remove-element/)       | [移除元素](https://github.com/zywaited/leetcode/tree/master/1_50/27/) | 1            |
+| [53](https://leetcode-cn.com/problems/maximum-subarray/)     | [最大子序和](https://github.com/zywaited/leetcode/tree/master/51_100/53/) | 1            |
 | [70](https://leetcode-cn.com/problems/climbing-stairs/)      | [爬楼梯](https://github.com/zywaited/leetcode/tree/master/51_100/70/) | 3            |
 | [110](https://leetcode-cn.com/problems/balanced-binary-tree) | [平衡二叉树](https://github.com/zywaited/leetcode/tree/master/101_150/110/) | 1            |
 | [112](https://leetcode-cn.com/problems/path-sum/)            | [路径总和](https://github.com/zywaited/leetcode/tree/master/101_150/112/) | 1            |
 | [136](https://leetcode-cn.com/problems/single-number)        | [只出现一次的数字](https://github.com/zywaited/leetcode/tree/master/101_150/136/) | 1            |
+| [155](https://leetcode-cn.com/problems/min-stack/)           | [最小栈](https://github.com/zywaited/leetcode/tree/master/151_200/155/) | 2            |
 | [169](https://leetcode-cn.com/problems/majority-element)     | [求众数](https://github.com/zywaited/leetcode/tree/master/151_200/169/) | 1            |
 | [190](https://leetcode-cn.com/problems/reverse-bits)         | [颠倒二进制位](https://github.com/zywaited/leetcode/tree/master/151_200/190/) | 1            |
 | [191](https://leetcode-cn.com/problems/number-of-1-bits)     | [位1的个数](https://github.com/zywaited/leetcode/tree/master/151_200/191/) | 1            |
@@ -43,6 +45,7 @@
 | [226](https://leetcode-cn.com/problems/invert-binary-tree)   | [翻转二叉树](https://github.com/zywaited/leetcode/tree/master/201_250/226/) | 1            |
 | [231](https://leetcode-cn.com/problems/power-of-two)         | [2的幂](https://github.com/zywaited/leetcode/tree/master/201_250/231/) | 1            |
 | [268](https://leetcode-cn.com/problems/missing-number)       | [缺失数字](https://github.com/zywaited/leetcode/tree/master/251_300/268/) | 2            |
+| [283](https://leetcode-cn.com/problems/move-zeroes/)         | [移动零](https://github.com/zywaited/leetcode/tree/master/251_300/283/) | 2            |
 | [342](https://leetcode-cn.com/problems/power-of-four)        | [4的幂](https://github.com/zywaited/leetcode/tree/master/301_350/342/) | 1            |
 | [389](https://leetcode-cn.com/problems/find-the-difference)  | [找不同](https://github.com/zywaited/leetcode/tree/master/351_400/389/) | 2            |
 | [415](https://leetcode-cn.com/problems/add-strings/)         | [字符串相加](https://github.com/zywaited/leetcode/tree/master/401_450/415/) | 1            |
@@ -86,16 +89,19 @@
 | [62](https://leetcode-cn.com/problems/unique-paths/) | [不同路径](https://github.com/zywaited/leetcode/tree/master/51_100/62/) | 1 |
 | [63](https://leetcode-cn.com/problems/unique-paths-ii/) | [不同路径II](https://github.com/zywaited/leetcode/tree/master/51_100/63/) | 1 |
 | [64](https://leetcode-cn.com/problems/minimum-path-sum/) | [最小路径和](https://github.com/zywaited/leetcode/tree/master/51_100/64/) | 1 |
+| [75](https://leetcode-cn.com/problems/sort-colors/) | [颜色分类](https://github.com/zywaited/leetcode/tree/master/51_100/64/) | 1 |
 | [80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | [删除排序数组中的重复项 II](https://github.com/zywaited/leetcode/tree/master/51_100/80/) | 1 |
 | [81](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [搜索旋转排序数组 II](https://github.com/zywaited/leetcode/tree/master/51_100/81/) | 1 |
 | [82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii) | [删除排序链表中的重复元素 II](https://github.com/zywaited/leetcode/tree/master/51_100/82/) | 1 |
 | [113](https://leetcode-cn.com/problems/path-sum-ii/) | [路径总和 II](https://github.com/zywaited/leetcode/tree/master/101_150/113/) | 1 |
 | [127](https://leetcode-cn.com/problems/word-ladder/) | [单词接龙](https://github.com/zywaited/leetcode/tree/master/101_150/127/) | 1 |
+| [134](https://leetcode-cn.com/problems/gas-station/) | [加油站](https://github.com/zywaited/leetcode/tree/master/101_150/134/) | 1 |
 | [137](https://leetcode-cn.com/problems/single-number-ii) | [只出现一次的数字 II](https://github.com/zywaited/leetcode/tree/master/101_150/137/) | 1 |
 | [139](https://leetcode-cn.com/problems/word-break/) | [单词拆分](https://github.com/zywaited/leetcode/tree/master/101_150/139/) | 1 |
 | [140](https://leetcode-cn.com/problems/word-break-ii/) | [单词拆分II](https://github.com/zywaited/leetcode/tree/master/101_150/140/) | 1 |
 | [142](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [环形链表 II](https://github.com/zywaited/leetcode/tree/master/101_150/142/) | 2 |
 | [146](https://leetcode-cn.com/problems/lru-cache/) | [LRU缓存机制](https://github.com/zywaited/leetcode/tree/master/101_150/146/) | 2 |
+| [179](https://leetcode-cn.com/problems/largest-number/) | [最大数](https://github.com/zywaited/leetcode/tree/master/151_200/170/) | 1 |
 | [208](https://leetcode-cn.com/problems/implement-trie-prefix-tree) | [实现 Trie (前缀树)](https://github.com/zywaited/leetcode/tree/master/201_250/208/)(同时实现Go echo框架路由前缀树) | 2 |
 | [215](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [数组中的第K个最大元素](https://github.com/zywaited/leetcode/tree/master/201_250/215/) | 4 |
 | [221](https://leetcode-cn.com/problems/house-robber-ii/) | [打家劫舍 II](https://github.com/zywaited/leetcode/tree/master/201_250/221/) | 1 |
@@ -137,6 +143,7 @@
 | [214](https://leetcode-cn.com/problems/shortest-palindrome)  | [最短回文串](https://github.com/zywaited/leetcode/tree/master/201_250/214/) | 2            |
 | [239](https://leetcode-cn.com/problems/sliding-window-maximum) | [滑动窗口最大值](https://github.com/zywaited/leetcode/tree/master/201_250/239/) | 1            |
 | [316](https://leetcode-cn.com/problems/remove-duplicate-letters/) | [去除重复字母](https://github.com/zywaited/leetcode/tree/master/301_350/316/) | 1            |
+| [330](https://leetcode-cn.com/problems/patching-array/)      | [按要求补齐数组](https://github.com/zywaited/leetcode/tree/master/301_350/330/) | 1            |
 | [458](https://leetcode-cn.com/problems/poor-pigs/)           | [可怜的小猪](https://github.com/zywaited/leetcode/tree/master/451_500/458/) | 1            |
 | [1125](https://leetcode-cn.com/problems/smallest-sufficient-team/) | [最小的必要团队](https://github.com/zywaited/leetcode/tree/master/1101_1150/1125/) | 3            |
 | [1163](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order/) | [按字典序排在最后的子串](https://github.com/zywaited/leetcode/tree/master/1151_1200/1163/) | 2            |
