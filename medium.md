@@ -58,7 +58,8 @@
 | [397](https://leetcode-cn.com/problems/integer-replacement)  | [整数替换](https://github.com/zywaited/leetcode/tree/master/351_400/397/) | 2              |
 | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/)  | [两数相加 II](https://github.com/zywaited/leetcode/tree/master/401_450/445/) | 2              |
 | [567](https://leetcode-cn.com/problems/permutation-in-string/) | [字符串的排列](https://github.com/zywaited/leetcode/tree/master/551_600/567/) | 2              |
-| [1094](https://leetcode-cn.com/problems/car-pooling/)        | [拼车](https://github.com/zywaited/leetcode/tree/master/1051_1100/1094/) | 1              |
+| [1094](https://leetcode-cn.com/problems/car-pooling/)        | [拼车](https://github.com/zywaited/leetcode/tree/master/1051_1100/1094/) | 2              |
 | [1156](https://leetcode-cn.com/problems/swap-for-maximum-repeated-substring/) | [单字符重复子串的最大长度](https://github.com/zywaited/leetcode/tree/master/1151_1200/1156/) | 1              |
 | [1161](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree/) | [最大层内元素和](https://github.com/zywaited/leetcode/tree/master/1151_1200/1161/) | 1              |
+| [1171](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [从链表中删去总和值为零的连续节点](https://github.com/zywaited/leetcode/tree/master/1151_1200/1171/) | 1              |
 | [1186](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion/) | [删除一次得到子数组最大和](https://github.com/zywaited/leetcode/tree/master/1151_1200/1186/) | 1              |
