@@ -1,4 +1,4 @@
-## [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/solution/ji-lu-qian-hou-zhui-ji-by-powcai/)
+## [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)
 ### 说明
 
 给定长度为 n 的整数数组 nums，其中 n > 1，返回输出数组 output ，其中 output[i] 等于 nums 中除 nums[i] 之外其余各元素的乘积。

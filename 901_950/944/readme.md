@@ -1,4 +1,4 @@
-## [删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/solution/shan-lie-zao-xu-by-leetcode/)
+## [删列造序](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/)
 ### 说明
 
 给定由 N 个小写字母字符串组成的数组 A，其中每个字符串长度相等。

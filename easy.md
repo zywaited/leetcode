@@ -5,6 +5,7 @@
 | [1](https://leetcode-cn.com/problems/two-sum/)               | [两数之和](https://github.com/zywaited/leetcode/tree/master/1_50/1) | 1            |
 | [7](https://leetcode-cn.com/problems/reverse-integer/)       | [整数反转](https://github.com/zywaited/leetcode/tree/master/1_50/7/) | 1            |
 | [9](https://leetcode-cn.com/problems/palindrome-number)      | [回文数](https://github.com/zywaited/leetcode/tree/master/1_50/9/) | 1            |
+| [20](https://leetcode-cn.com/problems/valid-parentheses/)    | [有效的括号](https://github.com/zywaited/leetcode/tree/master/1_50/20/) | 1            |
 | [21](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [合并两个有序链表](https://github.com/zywaited/leetcode/tree/master/1_50/21/) | 1            |
 | [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [删除排序数组中的重复项](https://github.com/zywaited/leetcode/tree/master/1_50/26/) | 1            |
 | [27](https://leetcode-cn.com/problems/remove-element/)       | [移除元素](https://github.com/zywaited/leetcode/tree/master/1_50/27/) | 1            |
@@ -27,4 +28,4 @@
 | [389](https://leetcode-cn.com/problems/find-the-difference)  | [找不同](https://github.com/zywaited/leetcode/tree/master/351_400/389/) | 2            |
 | [415](https://leetcode-cn.com/problems/add-strings/)         | [字符串相加](https://github.com/zywaited/leetcode/tree/master/401_450/415/) | 1            |
 | [437](https://leetcode-cn.com/problems/path-sum-iii/)        | [路径总和 III](https://github.com/zywaited/leetcode/tree/master/401_450/437/) | 1            |
-| [944](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/solution/shan-lie-zao-xu-by-leetcode/) | [删列造序](https://github.com/zywaited/leetcode/tree/master/901_950/944/) | 1            |
+| [944](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/) | [删列造序](https://github.com/zywaited/leetcode/tree/master/901_950/944/) | 1            |

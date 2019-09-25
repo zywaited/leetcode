@@ -33,6 +33,7 @@
 | [62](https://leetcode-cn.com/problems/unique-paths/)         | [不同路径](https://github.com/zywaited/leetcode/tree/master/51_100/62/) | 1              |
 | [63](https://leetcode-cn.com/problems/unique-paths-ii/)      | [不同路径II](https://github.com/zywaited/leetcode/tree/master/51_100/63/) | 1              |
 | [64](https://leetcode-cn.com/problems/minimum-path-sum/)     | [最小路径和](https://github.com/zywaited/leetcode/tree/master/51_100/64/) | 1              |
+| [71](https://leetcode-cn.com/problems/simplify-path/submissions/) | [简化路径](https://github.com/zywaited/leetcode/tree/master/51_100/71/) |                |
 | [75](https://leetcode-cn.com/problems/sort-colors/)          | [颜色分类](https://github.com/zywaited/leetcode/tree/master/51_100/75/) | 1              |
 | [80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | [删除排序数组中的重复项 II](https://github.com/zywaited/leetcode/tree/master/51_100/80/) | 1              |
 | [81](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [搜索旋转排序数组 II](https://github.com/zywaited/leetcode/tree/master/51_100/81/) | 1              |
@@ -47,10 +48,10 @@
 | [146](https://leetcode-cn.com/problems/lru-cache/)           | [LRU缓存机制](https://github.com/zywaited/leetcode/tree/master/101_150/146/) | 2              |
 | [179](https://leetcode-cn.com/problems/largest-number/)      | [最大数](https://github.com/zywaited/leetcode/tree/master/151_200/179/) | 1              |
 | [208](https://leetcode-cn.com/problems/implement-trie-prefix-tree) | [实现 Trie (前缀树)](https://github.com/zywaited/leetcode/tree/master/201_250/208/)(同时实现Go echo框架路由前缀树) | 2              |
+| [213](https://leetcode-cn.com/problems/house-robber-ii/)     | [打家劫舍 II](https://github.com/zywaited/leetcode/tree/master/201_250/213/) | 1              |
 | [215](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [数组中的第K个最大元素](https://github.com/zywaited/leetcode/tree/master/201_250/215/) | 4              |
-| [221](https://leetcode-cn.com/problems/house-robber-ii/)     | [打家劫舍 II](https://github.com/zywaited/leetcode/tree/master/201_250/221/) | 1              |
 | [229](https://leetcode-cn.com/problems/majority-element-ii)  | [求众数 II](https://github.com/zywaited/leetcode/tree/master/201_250/229/) | 1              |
-| [238](https://leetcode-cn.com/problems/product-of-array-except-self/solution/ji-lu-qian-hou-zhui-ji-by-powcai/) | [除自身以外数组的乘积](https://github.com/zywaited/leetcode/tree/master/201_250/238/) | 2              |
+| [238](https://leetcode-cn.com/problems/product-of-array-except-self/) | [除自身以外数组的乘积](https://github.com/zywaited/leetcode/tree/master/201_250/238/) | 2              |
 | [260](https://leetcode-cn.com/problems/single-number-iii)    | [只出现一次的数字 III](https://github.com/zywaited/leetcode/tree/master/251_300/260/) | 1              |
 | [287](https://leetcode-cn.com/problems/find-the-duplicate-number) | [寻找重复数](https://github.com/zywaited/leetcode/tree/master/251_300/287/) | 2              |
 | [337](https://leetcode-cn.com/problems/house-robber-iii/)    | [打家劫舍 III](https://github.com/zywaited/leetcode/tree/master/301_350/337/) | 1              |

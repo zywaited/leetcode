@@ -16,6 +16,7 @@
 | [52](https://leetcode-cn.com/problems/n-queens-ii/)          | [N皇后 II](https://github.com/zywaited/leetcode/tree/master/51_100/52/) | 1            |
 | [57](https://leetcode-cn.com/problems/insert-interval/)      | [插入区间](https://github.com/zywaited/leetcode/tree/master/51_100/57/) | 1            |
 | [76](https://leetcode-cn.com/problems/minimum-window-substring) | [最小覆盖子串](https://github.com/zywaited/leetcode/tree/master/51_100/76/) | 1            |
+| [84](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [柱状图中最大的矩形](https://github.com/zywaited/leetcode/tree/master/51_100/84/) | 2            |
 | [126](https://leetcode-cn.com/problems/word-ladder-ii/)      | [单词接龙 II](https://github.com/zywaited/leetcode/tree/master/101_150/126/) | 1            |
 | [128](https://leetcode-cn.com/problems/longest-consecutive-sequence) | [最长连续序列](https://github.com/zywaited/leetcode/tree/master/101_150/128/) | 1            |
 | [135](https://leetcode-cn.com/problems/candy/)               | [分发糖果](https://github.com/zywaited/leetcode/tree/master/101_150/135/) | 1            |
