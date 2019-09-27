@@ -38,6 +38,7 @@
 | [80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | [删除排序数组中的重复项 II](https://github.com/zywaited/leetcode/tree/master/51_100/80/) | 1              |
 | [81](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [搜索旋转排序数组 II](https://github.com/zywaited/leetcode/tree/master/51_100/81/) | 1              |
 | [82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii) | [删除排序链表中的重复元素 II](https://github.com/zywaited/leetcode/tree/master/51_100/82/) | 1              |
+| [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [二叉树的中序遍历](https://github.com/zywaited/leetcode/tree/master/51_100/94/) | 2              |
 | [113](https://leetcode-cn.com/problems/path-sum-ii/)         | [路径总和 II](https://github.com/zywaited/leetcode/tree/master/101_150/113/) | 1              |
 | [127](https://leetcode-cn.com/problems/word-ladder/)         | [单词接龙](https://github.com/zywaited/leetcode/tree/master/101_150/127/) | 1              |
 | [134](https://leetcode-cn.com/problems/gas-station/)         | [加油站](https://github.com/zywaited/leetcode/tree/master/101_150/134/) | 1              |
@@ -45,6 +46,7 @@
 | [139](https://leetcode-cn.com/problems/word-break/)          | [单词拆分](https://github.com/zywaited/leetcode/tree/master/101_150/139/) | 1              |
 | [140](https://leetcode-cn.com/problems/word-break-ii/)       | [单词拆分II](https://github.com/zywaited/leetcode/tree/master/101_150/140/) | 1              |
 | [142](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [环形链表 II](https://github.com/zywaited/leetcode/tree/master/101_150/142/) | 2              |
+| [144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [二叉树的前序遍历](https://github.com/zywaited/leetcode/tree/master/101_150/144/) | 2              |
 | [146](https://leetcode-cn.com/problems/lru-cache/)           | [LRU缓存机制](https://github.com/zywaited/leetcode/tree/master/101_150/146/) | 2              |
 | [179](https://leetcode-cn.com/problems/largest-number/)      | [最大数](https://github.com/zywaited/leetcode/tree/master/151_200/179/) | 1              |
 | [208](https://leetcode-cn.com/problems/implement-trie-prefix-tree) | [实现 Trie (前缀树)](https://github.com/zywaited/leetcode/tree/master/201_250/208/)(同时实现Go echo框架路由前缀树) | 2              |
