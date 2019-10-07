@@ -22,6 +22,7 @@
 | [39](https://leetcode-cn.com/problems/combination-sum)       | [组合总和](https://github.com/zywaited/leetcode/tree/master/1_50/39/) | 1              |
 | [40](https://leetcode-cn.com/problems/combination-sum-ii)    | [组合总和 II](https://github.com/zywaited/leetcode/tree/master/1_50/40/) | 1              |
 | [46](https://leetcode-cn.com/problems/permutations/)         | [全排列](https://github.com/zywaited/leetcode/tree/master/1_50/46/) | 1              |
+| [47](https://leetcode-cn.com/problems/permutations-ii/)      | [全排列 II](https://github.com/zywaited/leetcode/tree/master/1_50/47/) | 1              |
 | [48](https://leetcode-cn.com/problems/rotate-image/)         | [旋转图像](https://github.com/zywaited/leetcode/tree/master/1_50/48/) | 1              |
 | [50](https://leetcode-cn.com/problems/powx-n)                | [Pow(x, n)](https://github.com/zywaited/leetcode/tree/master/1_50/50/) | 1              |
 | [54](https://leetcode-cn.com/problems/spiral-matrix/)        | [螺旋矩阵](https://github.com/zywaited/leetcode/tree/master/51_100/54/) | 1              |
@@ -39,6 +40,7 @@
 | [80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | [删除排序数组中的重复项 II](https://github.com/zywaited/leetcode/tree/master/51_100/80/) | 1              |
 | [81](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [搜索旋转排序数组 II](https://github.com/zywaited/leetcode/tree/master/51_100/81/) | 1              |
 | [82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii) | [删除排序链表中的重复元素 II](https://github.com/zywaited/leetcode/tree/master/51_100/82/) | 1              |
+| [90](https://leetcode-cn.com/problems/subsets-ii/)           | [子集 II](https://github.com/zywaited/leetcode/tree/master/51_100/90/) | 2              |
 | [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [二叉树的中序遍历](https://github.com/zywaited/leetcode/tree/master/51_100/94/) | 2              |
 | [102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [二叉树的层次遍历](https://github.com/zywaited/leetcode/tree/master/101_150/102/) | 1              |
 | [103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [二叉树的锯齿形层次遍历](https://github.com/zywaited/leetcode/tree/master/101_150/103/) | 1              |
