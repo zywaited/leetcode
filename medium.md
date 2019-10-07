@@ -35,6 +35,7 @@
 | [64](https://leetcode-cn.com/problems/minimum-path-sum/)     | [最小路径和](https://github.com/zywaited/leetcode/tree/master/51_100/64/) | 1              |
 | [71](https://leetcode-cn.com/problems/simplify-path/submissions/) | [简化路径](https://github.com/zywaited/leetcode/tree/master/51_100/71/) |                |
 | [75](https://leetcode-cn.com/problems/sort-colors/)          | [颜色分类](https://github.com/zywaited/leetcode/tree/master/51_100/75/) | 1              |
+| [78](https://leetcode-cn.com/problems/subsets/)              | [子集](https://github.com/zywaited/leetcode/tree/master/51_100/78/) | 2              |
 | [80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | [删除排序数组中的重复项 II](https://github.com/zywaited/leetcode/tree/master/51_100/80/) | 1              |
 | [81](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [搜索旋转排序数组 II](https://github.com/zywaited/leetcode/tree/master/51_100/81/) | 1              |
 | [82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii) | [删除排序链表中的重复元素 II](https://github.com/zywaited/leetcode/tree/master/51_100/82/) | 1              |

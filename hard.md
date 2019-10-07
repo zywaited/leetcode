@@ -27,6 +27,7 @@
 | [214](https://leetcode-cn.com/problems/shortest-palindrome)  | [最短回文串](https://github.com/zywaited/leetcode/tree/master/201_250/214/) | 2            |
 | [224](https://leetcode-cn.com/problems/basic-calculator/)    | [基本计算器](https://github.com/zywaited/leetcode/tree/master/201_250/224/) | 1            |
 | [239](https://leetcode-cn.com/problems/sliding-window-maximum) | [滑动窗口最大值](https://github.com/zywaited/leetcode/tree/master/201_250/239/) | 1            |
+| [282](https://leetcode-cn.com/problems/expression-add-operators/) | [给表达式添加运算符](https://github.com/zywaited/leetcode/tree/master/251_300/282/) | 1            |
 | [316](https://leetcode-cn.com/problems/remove-duplicate-letters/) | [去除重复字母](https://github.com/zywaited/leetcode/tree/master/301_350/316/) | 1            |
 | [321](https://leetcode-cn.com/problems/create-maximum-number/) | [拼接最大数](https://github.com/zywaited/leetcode/tree/master/301_350/321/) | 1            |
 | [330](https://leetcode-cn.com/problems/patching-array/)      | [按要求补齐数组](https://github.com/zywaited/leetcode/tree/master/301_350/330/) | 1            |
