@@ -1,9 +1,3 @@
-/**
- * Created by GoLand
- * Author: zhangjian
- * Date: 2019-09-30 11:26
- */
-
 package _224
 
 import (
