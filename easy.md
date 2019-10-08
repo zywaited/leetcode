@@ -29,3 +29,4 @@
 | [415](https://leetcode-cn.com/problems/add-strings/)         | [字符串相加](https://github.com/zywaited/leetcode/tree/master/401_450/415/) | 1            |
 | [437](https://leetcode-cn.com/problems/path-sum-iii/)        | [路径总和 III](https://github.com/zywaited/leetcode/tree/master/401_450/437/) | 1            |
 | [944](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/) | [删列造序](https://github.com/zywaited/leetcode/tree/master/901_950/944/) | 1            |
+| [5213](https://leetcode-cn.com/problems/play-with-chips/)    | [玩筹码](https://github.com/zywaited/leetcode/tree/master/5201_5250/5213/) | 1            |

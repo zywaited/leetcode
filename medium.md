@@ -72,3 +72,4 @@
 | [1161](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree/) | [最大层内元素和](https://github.com/zywaited/leetcode/tree/master/1151_1200/1161/) | 1              |
 | [1171](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [从链表中删去总和值为零的连续节点](https://github.com/zywaited/leetcode/tree/master/1151_1200/1171/) | 1              |
 | [1186](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion/) | [删除一次得到子数组最大和](https://github.com/zywaited/leetcode/tree/master/1151_1200/1186/) | 1              |
+| [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
