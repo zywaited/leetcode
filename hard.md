@@ -36,4 +36,6 @@
 | [1125](https://leetcode-cn.com/problems/smallest-sufficient-team/) | [最小的必要团队](https://github.com/zywaited/leetcode/tree/master/1101_1150/1125/) | 3            |
 | [1157](https://leetcode-cn.com/problems/online-majority-element-in-subarray/) | [子数组中占绝大多数的元素](https://github.com/zywaited/leetcode/tree/master/1151_1200/1157/) | 2            |
 | [1163](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order/) | [按字典序排在最后的子串](https://github.com/zywaited/leetcode/tree/master/1151_1200/1163/) | 2            |
+| [1178](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/) | [猜字谜](https://github.com/zywaited/leetcode/tree/master/1151_1200/1178/) | 1            |
 | [1187](https://leetcode-cn.com/problems/make-array-strictly-increasing/) | [使数组严格递增](https://github.com/zywaited/leetcode/tree/master/1151_1200/1187/) | 1            |
+
