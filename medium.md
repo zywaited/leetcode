@@ -66,6 +66,8 @@
 | [347](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [前 K 个高频元素](https://github.com/zywaited/leetcode/tree/master/301_350/347/) | 2              |
 | [397](https://leetcode-cn.com/problems/integer-replacement)  | [整数替换](https://github.com/zywaited/leetcode/tree/master/351_400/397/) | 2              |
 | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/)  | [两数相加 II](https://github.com/zywaited/leetcode/tree/master/401_450/445/) | 2              |
+| [503](https://leetcode-cn.com/problems/next-greater-element-ii/) | [下一个更大元素 II](https://github.com/zywaited/leetcode/tree/master/501_550/503/) | 1              |
+| [556](https://leetcode-cn.com/problems/next-greater-element-iii/) | [下一个更大元素 III](https://github.com/zywaited/leetcode/tree/master/551_600/556/) | 1              |
 | [567](https://leetcode-cn.com/problems/permutation-in-string/) | [字符串的排列](https://github.com/zywaited/leetcode/tree/master/551_600/567/) | 2              |
 | [1094](https://leetcode-cn.com/problems/car-pooling/)        | [拼车](https://github.com/zywaited/leetcode/tree/master/1051_1100/1094/) | 2              |
 | [1156](https://leetcode-cn.com/problems/swap-for-maximum-repeated-substring/) | [单字符重复子串的最大长度](https://github.com/zywaited/leetcode/tree/master/1151_1200/1156/) | 1              |
