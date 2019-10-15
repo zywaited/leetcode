@@ -20,6 +20,7 @@
 | [190](https://leetcode-cn.com/problems/reverse-bits)         | [颠倒二进制位](https://github.com/zywaited/leetcode/tree/master/151_200/190/) | 1            |
 | [191](https://leetcode-cn.com/problems/number-of-1-bits)     | [位1的个数](https://github.com/zywaited/leetcode/tree/master/151_200/191/) | 1            |
 | [198](https://leetcode-cn.com/problems/house-robber/)        | [打家劫舍](https://github.com/zywaited/leetcode/tree/master/151_200/198/) | 1            |
+| [204](https://leetcode-cn.com/problems/count-primes/)        | [计数质数](https://github.com/zywaited/leetcode/tree/master/201_250/204/) | 1            |
 | [206](https://leetcode-cn.com/problems/reverse-linked-list/) | [反转链表](https://github.com/zywaited/leetcode/tree/master/201_250/206/) | 2            |
 | [226](https://leetcode-cn.com/problems/invert-binary-tree)   | [翻转二叉树](https://github.com/zywaited/leetcode/tree/master/201_250/226/) | 1            |
 | [231](https://leetcode-cn.com/problems/power-of-two)         | [2的幂](https://github.com/zywaited/leetcode/tree/master/201_250/231/) | 1            |
@@ -32,4 +33,5 @@
 | [496](https://leetcode-cn.com/problems/next-greater-element-i/) | [下一个更大元素 I](https://github.com/zywaited/leetcode/tree/master/451_500/496/) | 1            |
 | [680](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [验证回文字符串 Ⅱ](https://github.com/zywaited/leetcode/tree/master/651_700/680/) | 1            |
 | [944](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/) | [删列造序](https://github.com/zywaited/leetcode/tree/master/901_950/944/) | 1            |
+| [1175](https://leetcode-cn.com/problems/prime-arrangements/) | [质数排列](https://github.com/zywaited/leetcode/tree/master/1151_1200/1175/) | 1            |
 | [5213](https://leetcode-cn.com/problems/play-with-chips/)    | [玩筹码](https://github.com/zywaited/leetcode/tree/master/5201_5250/5213/) | 1            |
