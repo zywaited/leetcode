@@ -72,6 +72,7 @@
 | [503](https://leetcode-cn.com/problems/next-greater-element-ii/) | [下一个更大元素 II](https://github.com/zywaited/leetcode/tree/master/501_550/503/) | 1              |
 | [556](https://leetcode-cn.com/problems/next-greater-element-iii/) | [下一个更大元素 III](https://github.com/zywaited/leetcode/tree/master/551_600/556/) | 1              |
 | [567](https://leetcode-cn.com/problems/permutation-in-string/) | [字符串的排列](https://github.com/zywaited/leetcode/tree/master/551_600/567/) | 2              |
+| [1040](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii/) | [移动石子直到连续 II](https://github.com/zywaited/leetcode/tree/master/1001_1050/1040/) | 1              |
 | [1094](https://leetcode-cn.com/problems/car-pooling/)        | [拼车](https://github.com/zywaited/leetcode/tree/master/1051_1100/1094/) | 2              |
 | [1156](https://leetcode-cn.com/problems/swap-for-maximum-repeated-substring/) | [单字符重复子串的最大长度](https://github.com/zywaited/leetcode/tree/master/1151_1200/1156/) | 1              |
 | [1161](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree/) | [最大层内元素和](https://github.com/zywaited/leetcode/tree/master/1151_1200/1161/) | 1              |
