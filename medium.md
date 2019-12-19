@@ -78,6 +78,7 @@
 | [1034](https://leetcode-cn.com/problems/coloring-a-border/)  | [边框着色](https://github.com/zywaited/leetcode/tree/master/1001_1050/1034/) | 1              |
 | [1040](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii/) | [移动石子直到连续 II](https://github.com/zywaited/leetcode/tree/master/1001_1050/1040/) | 1              |
 | [1094](https://leetcode-cn.com/problems/car-pooling/)        | [拼车](https://github.com/zywaited/leetcode/tree/master/1051_1100/1094/) | 2              |
+| [1140](https://leetcode-cn.com/problems/stone-game-ii/)      | [1140. 石子游戏 II](https://github.com/zywaited/leetcode/tree/master/1101_1150/1140/) | 1              |
 | [1145](https://leetcode-cn.com/problems/binary-tree-coloring-game/) | [二叉树着色游戏](https://github.com/zywaited/leetcode/tree/master/1101_1150/1145/) | 1              |
 | [1156](https://leetcode-cn.com/problems/swap-for-maximum-repeated-substring/) | [单字符重复子串的最大长度](https://github.com/zywaited/leetcode/tree/master/1151_1200/1156/) | 1              |
 | [1161](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree/) | [最大层内元素和](https://github.com/zywaited/leetcode/tree/master/1151_1200/1161/) | 1              |
