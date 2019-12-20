@@ -23,12 +23,12 @@
 
 #### 2.1 简单
 
-[简单题目列表][https://github.com/zywaited/leetcode/blob/master/easy.md]
+[简单题目列表](https://github.com/zywaited/leetcode/blob/master/easy.md)
 
 #### 2.2 中等
 
-[中等题目列表][https://github.com/zywaited/leetcode/blob/master/medium.md]
+[中等题目列表](https://github.com/zywaited/leetcode/blob/master/medium.md)
 
 #### 2.3 困难
 
-[困难题目列表][https://github.com/zywaited/leetcode/blob/master/hard.md]
+[困难题目列表](https://github.com/zywaited/leetcode/blob/master/hard.md)
