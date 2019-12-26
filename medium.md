@@ -75,6 +75,7 @@
 | [567](https://leetcode-cn.com/problems/permutation-in-string/) | [字符串的排列](https://github.com/zywaited/leetcode/tree/master/551_600/567/) | 2              |
 | [698](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) | [划分为k个相等的子集](https://github.com/zywaited/leetcode/tree/master/651_700/698) | 1              |
 | [877](https://leetcode-cn.com/problems/stone-game/)          | [石子游戏](https://github.com/zywaited/leetcode/tree/master/851_900/877) | 2              |
+| [939](https://leetcode-cn.com/problems/minimum-area-rectangle/) | [最小面积矩形](https://github.com/zywaited/leetcode/tree/master/901_950/939/) | 2              |
 | [1034](https://leetcode-cn.com/problems/coloring-a-border/)  | [边框着色](https://github.com/zywaited/leetcode/tree/master/1001_1050/1034/) | 1              |
 | [1035](https://leetcode-cn.com/problems/uncrossed-lines/)    | [1035. 不相交的线](https://github.com/zywaited/leetcode/tree/master/1001_1050/1035/) | 1              |
 | [1040](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii/) | [移动石子直到连续 II](https://github.com/zywaited/leetcode/tree/master/1001_1050/1040/) | 1              |
