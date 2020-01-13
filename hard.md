@@ -33,6 +33,7 @@
 | [330](https://leetcode-cn.com/problems/patching-array/)      | [按要求补齐数组](https://github.com/zywaited/leetcode/tree/master/301_350/330/) | 1            |
 | [458](https://leetcode-cn.com/problems/poor-pigs/)           | [可怜的小猪](https://github.com/zywaited/leetcode/tree/master/451_500/458/) | 1            |
 | [924](https://leetcode-cn.com/problems/minimize-malware-spread/) | [尽量减少恶意软件的传播](https://github.com/zywaited/leetcode/tree/master/901_950/924/) | 1            |
+| [928](https://leetcode-cn.com/problems/minimize-malware-spread-ii/) | [尽量减少恶意软件的传播 II](https://github.com/zywaited/leetcode/tree/master/901_950/928/) | 1            |
 | [1036](https://leetcode-cn.com/problems/escape-a-large-maze/) | [逃离大迷宫](https://github.com/zywaited/leetcode/tree/master/1001_1050/1036/) | 1            |
 | [1125](https://leetcode-cn.com/problems/smallest-sufficient-team/) | [最小的必要团队](https://github.com/zywaited/leetcode/tree/master/1101_1150/1125/) | 3            |
 | [1157](https://leetcode-cn.com/problems/online-majority-element-in-subarray/) | [子数组中占绝大多数的元素](https://github.com/zywaited/leetcode/tree/master/1151_1200/1157/) | 2            |
