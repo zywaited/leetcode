@@ -90,3 +90,4 @@
 | [1223](https://leetcode-cn.com/problems/dice-roll-simulation/) | [掷骰子模拟](https://github.com/zywaited/leetcode/tree/master/1201_1250/1223/) | 1              |
 | [1306](https://leetcode-cn.com/problems/jump-game-iii/)      | [ 跳跃游戏 III](https://github.com/zywaited/leetcode/tree/master/1301_1350/1306/) | 1              |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
+| [LCP3](https://leetcode-cn.com/problems/programmable-robot/) | [ 机器人大冒险](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/3/) | 1              |
