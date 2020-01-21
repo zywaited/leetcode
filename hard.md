@@ -43,4 +43,5 @@
 | [1187](https://leetcode-cn.com/problems/make-array-strictly-increasing/) | [使数组严格递增](https://github.com/zywaited/leetcode/tree/master/1151_1200/1187/) | 1            |
 | [1210](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-with-rotations/) | [穿过迷宫的最少移动次数](https://github.com/zywaited/leetcode/tree/master/1201_1250/1210/) | 2            |
 | [1220](https://leetcode-cn.com/problems/count-vowels-permutation/) | [统计元音字母序列的数目](https://github.com/zywaited/leetcode/tree/master/1201_1250/1220/) | 2            |
+| [LCP5](https://leetcode-cn.com/problems/coin-bonus/)         | [发 LeetCoin](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/5/) | 1            |
 
