@@ -35,6 +35,7 @@
 | [944](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/) | [删列造序](https://github.com/zywaited/leetcode/tree/master/901_950/944/) | 1            |
 | [1033](https://leetcode-cn.com/problems/moving-stones-until-consecutive/) | [移动石子直到连续](https://github.com/zywaited/leetcode/tree/master/1001_1050/1033/) | 1            |
 | [1175](https://leetcode-cn.com/problems/prime-arrangements/) | [质数排列](https://github.com/zywaited/leetcode/tree/master/1151_1200/1175/) | 1            |
+| [1346](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/) | [检查整数及其两倍数是否存在](https://github.com/zywaited/leetcode/tree/master/1301_1350/1346/) | 1            |
 | [5213](https://leetcode-cn.com/problems/play-with-chips/)    | [玩筹码](https://github.com/zywaited/leetcode/tree/master/5201_5250/5213/) | 1            |
 | [LCP1](https://leetcode-cn.com/problems/guess-numbers/)      | [猜数字](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/1/) | 1            |
 | [LCP2](https://leetcode-cn.com/problems/deep-dark-fraction/) | [分式化简](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/2/) | 1            |
