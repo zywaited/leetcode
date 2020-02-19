@@ -37,5 +37,6 @@
 | [1175](https://leetcode-cn.com/problems/prime-arrangements/) | [质数排列](https://github.com/zywaited/leetcode/tree/master/1151_1200/1175/) | 1            |
 | [1346](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/) | [检查整数及其两倍数是否存在](https://github.com/zywaited/leetcode/tree/master/1301_1350/1346/) | 1            |
 | [5213](https://leetcode-cn.com/problems/play-with-chips/)    | [玩筹码](https://github.com/zywaited/leetcode/tree/master/5201_5250/5213/) | 1            |
+| [5340](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [统计有序矩阵中的负数](https://github.com/zywaited/leetcode/tree/master/5301_5350/5340/) | 1            |
 | [LCP1](https://leetcode-cn.com/problems/guess-numbers/)      | [猜数字](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/1/) | 1            |
 | [LCP2](https://leetcode-cn.com/problems/deep-dark-fraction/) | [分式化简](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/2/) | 1            |
