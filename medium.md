@@ -92,6 +92,8 @@
 | [1186](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion/) | [删除一次得到子数组最大和](https://github.com/zywaited/leetcode/tree/master/1151_1200/1186/) | 1              |
 | [1223](https://leetcode-cn.com/problems/dice-roll-simulation/) | [掷骰子模拟](https://github.com/zywaited/leetcode/tree/master/1201_1250/1223/) | 1              |
 | [1306](https://leetcode-cn.com/problems/jump-game-iii/)      | [ 跳跃游戏 III](https://github.com/zywaited/leetcode/tree/master/1301_1350/1306/) | 1              |
+| [1338](https://leetcode-cn.com/problems/reduce-array-size-to-the-half/) | [数组大小减半](https://github.com/zywaited/leetcode/tree/master/1301_1350/1338/) | 1              |
+| [1339](https://leetcode-cn.com/problems/maximum-product-of-splitted-binary-tree/) | [分裂二叉树的最大乘积](https://github.com/zywaited/leetcode/tree/master/1301_1350/1339/) | 1              |
 | [1347](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | [制造字母异位词的最小步骤数](https://github.com/zywaited/leetcode/tree/master/1301_1350/1347/) | 2              |
 | [1353](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/) | [最多可以参加的会议数目](https://github.com/zywaited/leetcode/tree/master/1351_1400/1353/) | 1              |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
