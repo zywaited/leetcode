@@ -47,6 +47,7 @@
 | [1345](https://leetcode-cn.com/problems/jump-game-iv/)       | [跳跃游戏 IV](https://github.com/zywaited/leetcode/tree/master/1301_1350/1345/) | 1            |
 | [1349](https://leetcode-cn.com/problems/maximum-students-taking-exam/) | [参加考试的最大学生数](https://github.com/zywaited/leetcode/tree/master/1301_1350/1349/) | 1            |
 | [1354](https://leetcode-cn.com/problems/construct-target-array-with-multiple-sums/) | [多次求和构造目标数组](https://github.com/zywaited/leetcode/tree/master/1351_1400/1354/) | 1            |
+| [1363](https://leetcode-cn.com/problems/largest-multiple-of-three/) | [形成三的最大倍数](https://github.com/zywaited/leetcode/tree/master/1351_1400/1363/) | 1            |
 | [LCP4](https://leetcode-cn.com/problems/broken-board-dominoes/) | [ 覆盖](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/4/) | 1            |
 | [LCP5](https://leetcode-cn.com/problems/coin-bonus/)         | [发 LeetCoin](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/5/) | 1            |
 

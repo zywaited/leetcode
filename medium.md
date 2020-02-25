@@ -96,6 +96,8 @@
 | [1339](https://leetcode-cn.com/problems/maximum-product-of-splitted-binary-tree/) | [分裂二叉树的最大乘积](https://github.com/zywaited/leetcode/tree/master/1301_1350/1339/) | 1              |
 | [1347](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | [制造字母异位词的最小步骤数](https://github.com/zywaited/leetcode/tree/master/1301_1350/1347/) | 2              |
 | [1353](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended/) | [最多可以参加的会议数目](https://github.com/zywaited/leetcode/tree/master/1351_1400/1353/) | 1              |
+| [1361](https://leetcode-cn.com/problems/validate-binary-tree-nodes/) | [验证二叉树](https://github.com/zywaited/leetcode/tree/master/1351_1400/1361/) | 1              |
+| [1362](https://leetcode-cn.com/problems/closest-divisors/)   | [最接近的因数](https://github.com/zywaited/leetcode/tree/master/1351_1400/1362/) | 1              |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5301_5350/5341/) | 1              |
 | [LCP3](https://leetcode-cn.com/problems/programmable-robot/) | [ 机器人大冒险](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/3/) | 1              |
