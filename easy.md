@@ -41,3 +41,6 @@
 | [5340](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [统计有序矩阵中的负数](https://github.com/zywaited/leetcode/tree/master/5301_5350/5340/) | 1            |
 | [LCP1](https://leetcode-cn.com/problems/guess-numbers/)      | [猜数字](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/1/) | 1            |
 | [LCP2](https://leetcode-cn.com/problems/deep-dark-fraction/) | [分式化简](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/2/) | 1            |
+| [Interview1.1](https://leetcode-cn.com/problems/is-unique-lcci/) | [判定字符是否唯一](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/1/) | 1            |
+| [Interview1.2](https://leetcode-cn.com/problems/check-permutation-lcci/) | [判定是否互为字符重排](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/2/) | 2            |
+
