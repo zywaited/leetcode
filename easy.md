@@ -44,4 +44,5 @@
 | [Interview1.1](https://leetcode-cn.com/problems/is-unique-lcci/) | [判定字符是否唯一](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/1/) | 1            |
 | [Interview1.2](https://leetcode-cn.com/problems/check-permutation-lcci/) | [判定是否互为字符重排](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/2/) | 2            |
 | [Interview1.4](https://leetcode-cn.com/problems/palindrome-permutation-lcci/) | [回文排列](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/4/) | 2            |
+| [Interview1.6](https://leetcode-cn.com/problems/one-away-lcci/) | [字符串压缩](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/6/) | 1            |
 
