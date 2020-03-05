@@ -37,6 +37,7 @@
 | [944](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/) | [删列造序](https://github.com/zywaited/leetcode/tree/master/901_950/944/) | 1            |
 | [994](https://leetcode-cn.com/problems/rotting-oranges/)     | [腐烂的橘子](https://github.com/zywaited/leetcode/tree/master/951_1000/994/) | 1            |
 | [1033](https://leetcode-cn.com/problems/moving-stones-until-consecutive/) | [移动石子直到连续](https://github.com/zywaited/leetcode/tree/master/1001_1050/1033/) | 1            |
+| [1103](https://leetcode-cn.com/problems/distribute-candies-to-people/) | [1103. 分糖果 II](https://github.com/zywaited/leetcode/tree/master/1101_1150/1103/) | 1            |
 | [1175](https://leetcode-cn.com/problems/prime-arrangements/) | [质数排列](https://github.com/zywaited/leetcode/tree/master/1151_1200/1175/) | 1            |
 | [1337](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/) | [方阵中战斗力最弱的 K 行](https://github.com/zywaited/leetcode/tree/master/1301_1350/1337/) | 2            |
 | [1346](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/) | [检查整数及其两倍数是否存在](https://github.com/zywaited/leetcode/tree/master/1301_1350/1346/) | 1            |

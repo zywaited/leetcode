@@ -104,5 +104,6 @@
 | [LCP3](https://leetcode-cn.com/problems/programmable-robot/) | [ 机器人大冒险](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/3/) | 1              |
 | [Interview1.5](https://leetcode-cn.com/problems/one-away-lcci/) | [一次编辑](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/5/) | 1              |
 | [Interview1.8](https://leetcode-cn.com/problems/zero-matrix-lcci/) | [零矩阵](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/8/) | 1              |
+| [Interview8.11](https://leetcode-cn.com/problems/coin-lcci/) | [硬币](https://github.com/zywaited/leetcode/tree/master/Interview/8_1_50/11/) | 1              |
 | [Interview46](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | [把数字翻译成字符串](https://github.com/zywaited/leetcode/tree/master/Interview/1_50/46/) | 2              |
 | [Interview64](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [求1+2+…+n](https://github.com/zywaited/leetcode/tree/master/Interview/51_100/64/) | 1              |
