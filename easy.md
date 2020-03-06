@@ -50,6 +50,7 @@
 | [Interview1.4](https://leetcode-cn.com/problems/palindrome-permutation-lcci/) | [回文排列](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/4/) | 2            |
 | [Interview1.6](https://leetcode-cn.com/problems/one-away-lcci/) | [字符串压缩](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/6/) | 1            |
 | [Interview10.1](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [合并排序的数组](https://github.com/zywaited/leetcode/tree/master/Interview/10_1_11/1/) | 1            |
-| [Interview50](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | [第一个只出现一次的字符](https://github.com/zywaited/leetcode/tree/master/Interview/0_50/50/) | 2            |
+| [Interview50](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | [第一个只出现一次的字符](https://github.com/zywaited/leetcode/tree/master/Interview/1_50/50/) | 2            |
+| [Interview57.2](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [和为s的连续正数序列](https://github.com/zywaited/leetcode/tree/master/Interview/57_1_50/2/) | 2            |
 | [Interview65](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | [不用加减乘除做加法](https://github.com/zywaited/leetcode/tree/master/Interview/51_100/65/) | 1            |
 
