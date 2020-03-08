@@ -50,5 +50,6 @@
 | [1363](https://leetcode-cn.com/problems/largest-multiple-of-three/) | [形成三的最大倍数](https://github.com/zywaited/leetcode/tree/master/1351_1400/1363/) | 1            |
 | [LCP4](https://leetcode-cn.com/problems/broken-board-dominoes/) | [ 覆盖](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/4/) | 1            |
 | [LCP5](https://leetcode-cn.com/problems/coin-bonus/)         | [发 LeetCoin](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/5/) | 1            |
+| [Interview8.13](https://leetcode-cn.com/problems/pile-box-lcci/) | [面试题 08.13. 堆箱子](https://github.com/zywaited/leetcode/tree/master/Interview/8_1_50/13/) | 1            |
 | [Interview17.19](https://leetcode-cn.com/problems/missing-two-lcci/) | [消失的两个数字](https://github.com/zywaited/leetcode/tree/master/Interview/17_1_50/19/) | 2            |
 
