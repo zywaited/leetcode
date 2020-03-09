@@ -17,6 +17,7 @@
 | [22](https://leetcode-cn.com/problems/generate-parentheses/) | [括号生成](https://github.com/zywaited/leetcode/tree/master/1_50/22/) | 1              |
 | [24](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)  | [两两交换链表中的节点](https://github.com/zywaited/leetcode/tree/master/1_50/24/) | 2              |
 | [29](https://leetcode-cn.com/problems/divide-two-integers)   | [两数相除](https://github.com/zywaited/leetcode/tree/master/1_50/29/) | 1              |
+| [31](https://leetcode-cn.com/problems/next-permutation/)     | [下一个排列](https://github.com/zywaited/leetcode/tree/master/1_50/33/) | 1              |
 | [33](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | [搜索旋转排序数组](https://github.com/zywaited/leetcode/tree/master/1_50/33/) | 1              |
 | [34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [在排序数组中查找元素的第一个和最后一个位置](https://github.com/zywaited/leetcode/tree/master/1_50/34/) | 2              |
 | [36](https://leetcode-cn.com/problems/valid-sudoku/)         | [有效的数独](https://github.com/zywaited/leetcode/tree/master/1_50/36/) | 1              |
@@ -108,6 +109,7 @@
 | [Interview1.5](https://leetcode-cn.com/problems/one-away-lcci/) | [一次编辑](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/5/) | 1              |
 | [Interview1.8](https://leetcode-cn.com/problems/zero-matrix-lcci/) | [零矩阵](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/8/) | 1              |
 | [Interview8.11](https://leetcode-cn.com/problems/coin-lcci/) | [硬币](https://github.com/zywaited/leetcode/tree/master/Interview/8_1_50/11/) | 1              |
+| [Interview17.8](https://leetcode-cn.com/problems/circus-tower-lcci/) | [马戏团人塔](https://github.com/zywaited/leetcode/tree/master/Interview/17_1_50/8/) | 1              |
 | [Interview46](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | [把数字翻译成字符串](https://github.com/zywaited/leetcode/tree/master/Interview/1_50/46/) | 2              |
 | [Interview59.2](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [队列的最大值](https://github.com/zywaited/leetcode/tree/master/Interview/59_1_50/2/) | 1              |
 | [Interview64](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [求1+2+…+n](https://github.com/zywaited/leetcode/tree/master/Interview/51_100/64/) | 1              |
