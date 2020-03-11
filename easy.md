@@ -38,6 +38,7 @@
 | [680](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [验证回文字符串 Ⅱ](https://github.com/zywaited/leetcode/tree/master/651_700/680/) | 1            |
 | [944](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/) | [删列造序](https://github.com/zywaited/leetcode/tree/master/901_950/944/) | 1            |
 | [994](https://leetcode-cn.com/problems/rotting-oranges/)     | [腐烂的橘子](https://github.com/zywaited/leetcode/tree/master/951_1000/994/) | 1            |
+| [1013](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) | [将数组分成和相等的三个部分](https://github.com/zywaited/leetcode/tree/master/1001_1050/1013/) | 1            |
 | [1033](https://leetcode-cn.com/problems/moving-stones-until-consecutive/) | [移动石子直到连续](https://github.com/zywaited/leetcode/tree/master/1001_1050/1033/) | 1            |
 | [1103](https://leetcode-cn.com/problems/distribute-candies-to-people/) | [1103. 分糖果 II](https://github.com/zywaited/leetcode/tree/master/1101_1150/1103/) | 1            |
 | [1175](https://leetcode-cn.com/problems/prime-arrangements/) | [质数排列](https://github.com/zywaited/leetcode/tree/master/1151_1200/1175/) | 1            |
