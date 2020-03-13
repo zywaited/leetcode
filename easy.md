@@ -35,6 +35,7 @@
 | [437](https://leetcode-cn.com/problems/path-sum-iii/)        | [路径总和 III](https://github.com/zywaited/leetcode/tree/master/401_450/437/) | 1            |
 | [496](https://leetcode-cn.com/problems/next-greater-element-i/) | [下一个更大元素 I](https://github.com/zywaited/leetcode/tree/master/451_500/496/) | 1            |
 | [543](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [二叉树的直径](https://github.com/zywaited/leetcode/tree/master/501_550/543/) | 1            |
+| [575](https://leetcode-cn.com/problems/distribute-candies/)  | [分糖果](https://github.com/zywaited/leetcode/tree/master/551_600/575/) | 2            |
 | [680](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [验证回文字符串 Ⅱ](https://github.com/zywaited/leetcode/tree/master/651_700/680/) | 1            |
 | [944](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/) | [删列造序](https://github.com/zywaited/leetcode/tree/master/901_950/944/) | 1            |
 | [994](https://leetcode-cn.com/problems/rotting-oranges/)     | [腐烂的橘子](https://github.com/zywaited/leetcode/tree/master/951_1000/994/) | 1            |
