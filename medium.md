@@ -113,6 +113,7 @@
 | [Interview3.5](https://leetcode-cn.com/problems/sort-of-stacks-lcci/) | [栈排序](https://github.com/zywaited/leetcode/tree/master/Interview/3_1_50/5/) | 1              |
 | [Interview5.4](https://leetcode-cn.com/problems/circus-tower-lcci/) | [下一个数](https://github.com/zywaited/leetcode/tree/master/Interview/5_1_50/4/) | 1              |
 | [Interview8.11](https://leetcode-cn.com/problems/coin-lcci/) | [硬币](https://github.com/zywaited/leetcode/tree/master/Interview/8_1_50/11/) | 1              |
+| [Interview16.6](https://leetcode-cn.com/problems/smallest-difference-lcci/) | [最小差](https://github.com/zywaited/leetcode/tree/master/Interview/16_1_50/6/) | 1              |
 | [Interview17.8](https://leetcode-cn.com/problems/circus-tower-lcci/) | [马戏团人塔](https://github.com/zywaited/leetcode/tree/master/Interview/17_1_50/8/) | 1              |
 | [Interview17.9](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/) | [第 k 个数](https://github.com/zywaited/leetcode/tree/master/Interview/17_1_50/9/) | 1              |
 | [Interview17.14](https://leetcode-cn.com/problems/smallest-k-lcci/) | [最小K个数](https://github.com/zywaited/leetcode/tree/master/Interview/17_1_50/14/) | 1              |
