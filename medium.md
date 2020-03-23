@@ -122,4 +122,5 @@
 | [Interview46](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | [把数字翻译成字符串](https://github.com/zywaited/leetcode/tree/master/Interview/1_50/46/) | 2              |
 | [Interview59.2](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [队列的最大值](https://github.com/zywaited/leetcode/tree/master/Interview/59_1_50/2/) | 1              |
 | [Interview64](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [求1+2+…+n](https://github.com/zywaited/leetcode/tree/master/Interview/51_100/64/) | 1              |
+| [Offer12](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [矩阵中的路径](https://github.com/zywaited/leetcode/tree/master/Offer/1_50/12/) | 1              |
 | [Offer14.1](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [剪绳子](https://github.com/zywaited/leetcode/tree/master/Offer/1_50/14/1/) | 1              |
