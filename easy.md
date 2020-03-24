@@ -12,6 +12,7 @@
 | [27](https://leetcode-cn.com/problems/remove-element/)       | [移除元素](https://github.com/zywaited/leetcode/tree/master/1_50/27/) | 1            |
 | [53](https://leetcode-cn.com/problems/maximum-subarray/)     | [最大子序和](https://github.com/zywaited/leetcode/tree/master/51_100/53/) | 1            |
 | [70](https://leetcode-cn.com/problems/climbing-stairs/)      | [爬楼梯](https://github.com/zywaited/leetcode/tree/master/51_100/70/) | 3            |
+| [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [删除排序链表中的重复元素](https://github.com/zywaited/leetcode/tree/master/51_100/83/) | 1            |
 | [110](https://leetcode-cn.com/problems/balanced-binary-tree) | [平衡二叉树](https://github.com/zywaited/leetcode/tree/master/101_150/110/) | 1            |
 | [112](https://leetcode-cn.com/problems/path-sum/)            | [路径总和](https://github.com/zywaited/leetcode/tree/master/101_150/112/) | 1            |
 | [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [买卖股票的最佳时机](https://github.com/zywaited/leetcode/tree/master/101_150/121/) | 1            |
@@ -59,6 +60,7 @@
 | [Interview1.4](https://leetcode-cn.com/problems/palindrome-permutation-lcci/) | [回文排列](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/4/) | 2            |
 | [Interview1.6](https://leetcode-cn.com/problems/one-away-lcci/) | [字符串压缩](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/6/) | 1            |
 | [Interview10.1](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [合并排序的数组](https://github.com/zywaited/leetcode/tree/master/Interview/10_1_11/1/) | 1            |
+| [Interview17.16](https://leetcode-cn.com/problems/the-masseuse-lcci/) | [按摩师](https://github.com/zywaited/leetcode/tree/master/Interview/17_1_50/16/) | 1            |
 | [Interview40](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [最小的k个数](https://github.com/zywaited/leetcode/tree/master/Interview/1_50/40/) | 3            |
 | [Interview50](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | [第一个只出现一次的字符](https://github.com/zywaited/leetcode/tree/master/Interview/1_50/50/) | 2            |
 | [Interview57.2](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [和为s的连续正数序列](https://github.com/zywaited/leetcode/tree/master/Interview/57_1_50/2/) | 2            |
