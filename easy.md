@@ -44,6 +44,7 @@
 | [892](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) | [三维形体的表面积](https://github.com/zywaited/leetcode/tree/master/851_900/892/) | 1            |
 | [944](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/) | [删列造序](https://github.com/zywaited/leetcode/tree/master/901_950/944/) | 1            |
 | [994](https://leetcode-cn.com/problems/rotting-oranges/)     | [腐烂的橘子](https://github.com/zywaited/leetcode/tree/master/951_1000/994/) | 1            |
+| [999](https://leetcode-cn.com/problems/available-captures-for-rook/) | [车的可用捕获量](https://github.com/zywaited/leetcode/tree/master/951_1000/999/) | 1            |
 | [1013](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) | [将数组分成和相等的三个部分](https://github.com/zywaited/leetcode/tree/master/1001_1050/1013/) | 1            |
 | [1033](https://leetcode-cn.com/problems/moving-stones-until-consecutive/) | [移动石子直到连续](https://github.com/zywaited/leetcode/tree/master/1001_1050/1033/) | 1            |
 | [1071](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/) | [字符串的最大公因子](https://github.com/zywaited/leetcode/tree/master/1051_1100/1071/) | 1            |

@@ -29,6 +29,7 @@
 | [212](https://leetcode-cn.com/problems/word-search-ii)       | [单词搜索 II](https://github.com/zywaited/leetcode/tree/master/201_250/212/) | 1            |
 | [214](https://leetcode-cn.com/problems/shortest-palindrome)  | [最短回文串](https://github.com/zywaited/leetcode/tree/master/201_250/214/) | 2            |
 | [224](https://leetcode-cn.com/problems/basic-calculator/)    | [基本计算器](https://github.com/zywaited/leetcode/tree/master/201_250/224/) | 1            |
+| [233](https://leetcode-cn.com/problems/number-of-digit-one/) | [数字 1 的个数](https://github.com/zywaited/leetcode/tree/master/201_250/233/) | 1            |
 | [239](https://leetcode-cn.com/problems/sliding-window-maximum) | [滑动窗口最大值](https://github.com/zywaited/leetcode/tree/master/201_250/239/) | 1            |
 | [282](https://leetcode-cn.com/problems/expression-add-operators/) | [给表达式添加运算符](https://github.com/zywaited/leetcode/tree/master/251_300/282/) | 1            |
 | [312](https://leetcode-cn.com/problems/burst-balloons/)      | [戳气球](https://github.com/zywaited/leetcode/tree/master/301_350/316/) | 2            |
