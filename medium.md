@@ -84,6 +84,7 @@
 | [567](https://leetcode-cn.com/problems/permutation-in-string/) | [字符串的排列](https://github.com/zywaited/leetcode/tree/master/551_600/567/) | 2              |
 | [695](https://leetcode-cn.com/problems/max-area-of-island/)  | [岛屿的最大面积](https://github.com/zywaited/leetcode/tree/master/651_700/695/) | 1              |
 | [698](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) | [划分为k个相等的子集](https://github.com/zywaited/leetcode/tree/master/651_700/698) | 1              |
+| [820](https://leetcode-cn.com/problems/short-encoding-of-words/) | [单词的压缩编码](https://github.com/zywaited/leetcode/tree/master/801_850/820) | 3              |
 | [877](https://leetcode-cn.com/problems/stone-game/)          | [石子游戏](https://github.com/zywaited/leetcode/tree/master/851_900/877) | 2              |
 | [939](https://leetcode-cn.com/problems/minimum-area-rectangle/) | [最小面积矩形](https://github.com/zywaited/leetcode/tree/master/901_950/939/) | 2              |
 | [945](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/) | [使数组唯一的最小增量](https://github.com/zywaited/leetcode/tree/master/901_950/945/) | 2              |
