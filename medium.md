@@ -97,6 +97,7 @@
 | [1145](https://leetcode-cn.com/problems/binary-tree-coloring-game/) | [二叉树着色游戏](https://github.com/zywaited/leetcode/tree/master/1101_1150/1145/) | 1              |
 | [1156](https://leetcode-cn.com/problems/swap-for-maximum-repeated-substring/) | [单字符重复子串的最大长度](https://github.com/zywaited/leetcode/tree/master/1151_1200/1156/) | 1              |
 | [1161](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree/) | [最大层内元素和](https://github.com/zywaited/leetcode/tree/master/1151_1200/1161/) | 1              |
+| [1162](https://leetcode-cn.com/problems/as-far-from-land-as-possible/) | [地图分析](https://github.com/zywaited/leetcode/tree/master/1151_1200/1162/) | 2              |
 | [1171](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [从链表中删去总和值为零的连续节点](https://github.com/zywaited/leetcode/tree/master/1151_1200/1171/) | 1              |
 | [1186](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion/) | [删除一次得到子数组最大和](https://github.com/zywaited/leetcode/tree/master/1151_1200/1186/) | 1              |
 | [1223](https://leetcode-cn.com/problems/dice-roll-simulation/) | [掷骰子模拟](https://github.com/zywaited/leetcode/tree/master/1201_1250/1223/) | 1              |
