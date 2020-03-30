@@ -16,6 +16,7 @@
 | [52](https://leetcode-cn.com/problems/n-queens-ii/)          | [N皇后 II](https://github.com/zywaited/leetcode/tree/master/51_100/52/) | 1            |
 | [57](https://leetcode-cn.com/problems/insert-interval/)      | [插入区间](https://github.com/zywaited/leetcode/tree/master/51_100/57/) | 1            |
 | [68](https://leetcode-cn.com/problems/text-justification/)   | [文本左右对齐](https://github.com/zywaited/leetcode/tree/master/51_100/68/) | 1            |
+| [72](https://leetcode-cn.com/problems/edit-distance/)        | [编辑距离](https://github.com/zywaited/leetcode/tree/master/51_100/76/) | 1            |
 | [76](https://leetcode-cn.com/problems/minimum-window-substring) | [最小覆盖子串](https://github.com/zywaited/leetcode/tree/master/51_100/76/) | 1            |
 | [84](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [柱状图中最大的矩形](https://github.com/zywaited/leetcode/tree/master/51_100/84/) | 2            |
 | [85](https://leetcode-cn.com/problems/maximal-rectangle/)    | [最大矩形](https://github.com/zywaited/leetcode/tree/master/51_100/85/) | 1            |
