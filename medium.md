@@ -50,6 +50,7 @@
 | [103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [二叉树的锯齿形层次遍历](https://github.com/zywaited/leetcode/tree/master/101_150/103/) | 1              |
 | [113](https://leetcode-cn.com/problems/path-sum-ii/)         | [路径总和 II](https://github.com/zywaited/leetcode/tree/master/101_150/113/) | 1              |
 | [127](https://leetcode-cn.com/problems/word-ladder/)         | [单词接龙](https://github.com/zywaited/leetcode/tree/master/101_150/127/) | 1              |
+| [131](https://leetcode-cn.com/problems/palindrome-partitioning/) | [分割回文串](https://github.com/zywaited/leetcode/tree/master/101_150/131/) | 3              |
 | [134](https://leetcode-cn.com/problems/gas-station/)         | [加油站](https://github.com/zywaited/leetcode/tree/master/101_150/134/) | 1              |
 | [137](https://leetcode-cn.com/problems/single-number-ii)     | [只出现一次的数字 II](https://github.com/zywaited/leetcode/tree/master/101_150/137/) | 1              |
 | [139](https://leetcode-cn.com/problems/word-break/)          | [单词拆分](https://github.com/zywaited/leetcode/tree/master/101_150/139/) | 1              |

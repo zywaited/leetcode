@@ -23,6 +23,7 @@
 | [123](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [买卖股票的最佳时机 III](https://github.com/zywaited/leetcode/tree/master/101_150/123/) | 1            |
 | [126](https://leetcode-cn.com/problems/word-ladder-ii/)      | [单词接龙 II](https://github.com/zywaited/leetcode/tree/master/101_150/126/) | 1            |
 | [128](https://leetcode-cn.com/problems/longest-consecutive-sequence) | [最长连续序列](https://github.com/zywaited/leetcode/tree/master/101_150/128/) | 1            |
+| [132](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) | [分割回文串 II](https://github.com/zywaited/leetcode/tree/master/101_150/132/) | 2            |
 | [135](https://leetcode-cn.com/problems/candy/)               | [分发糖果](https://github.com/zywaited/leetcode/tree/master/101_150/135/) | 1            |
 | [145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [二叉树的后序遍历](https://github.com/zywaited/leetcode/tree/master/101_150/145/) | 3            |
 | [149](https://leetcode-cn.com/problems/max-points-on-a-line/) | [直线上最多的点数](https://github.com/zywaited/leetcode/tree/master/101_150/149/) | 1            |
@@ -51,6 +52,7 @@
 | [1187](https://leetcode-cn.com/problems/make-array-strictly-increasing/) | [使数组严格递增](https://github.com/zywaited/leetcode/tree/master/1151_1200/1187/) | 1            |
 | [1210](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-with-rotations/) | [穿过迷宫的最少移动次数](https://github.com/zywaited/leetcode/tree/master/1201_1250/1210/) | 2            |
 | [1220](https://leetcode-cn.com/problems/count-vowels-permutation/) | [统计元音字母序列的数目](https://github.com/zywaited/leetcode/tree/master/1201_1250/1220/) | 2            |
+| [1278](https://leetcode-cn.com/problems/palindrome-partitioning-iii/) | [分割回文串 III](https://github.com/zywaited/leetcode/tree/master/1278_1300/1278/) | 1            |
 | [1340](https://leetcode-cn.com/problems/jump-game-v/)        | [跳跃游戏 V](https://github.com/zywaited/leetcode/tree/master/1301_1350/1340/) | 1            |
 | [1345](https://leetcode-cn.com/problems/jump-game-iv/)       | [跳跃游戏 IV](https://github.com/zywaited/leetcode/tree/master/1301_1350/1345/) | 1            |
 | [1349](https://leetcode-cn.com/problems/maximum-students-taking-exam/) | [参加考试的最大学生数](https://github.com/zywaited/leetcode/tree/master/1301_1350/1349/) | 1            |
