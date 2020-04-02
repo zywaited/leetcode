@@ -72,6 +72,7 @@
 | [238](https://leetcode-cn.com/problems/product-of-array-except-self/) | [除自身以外数组的乘积](https://github.com/zywaited/leetcode/tree/master/201_250/238/) | 2              |
 | [260](https://leetcode-cn.com/problems/single-number-iii)    | [只出现一次的数字 III](https://github.com/zywaited/leetcode/tree/master/251_300/260/) | 1              |
 | [287](https://leetcode-cn.com/problems/find-the-duplicate-number) | [寻找重复数](https://github.com/zywaited/leetcode/tree/master/251_300/287/) | 2              |
+| [289](https://leetcode-cn.com/problems/game-of-life/)        | [生命游戏](https://github.com/zywaited/leetcode/tree/master/251_300/289/) | 1              |
 | [300](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [最长上升子序列](https://github.com/zywaited/leetcode/tree/master/251_300/300/) | 3              |
 | [322](https://leetcode-cn.com/problems/coin-change/)         | [零钱兑换](https://github.com/zywaited/leetcode/tree/master/301_350/322/) | 1              |
 | [331](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [验证二叉树的前序序列化](https://github.com/zywaited/leetcode/tree/master/301_350/331/) | 2              |
