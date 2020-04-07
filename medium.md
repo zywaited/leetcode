@@ -75,6 +75,7 @@
 | [287](https://leetcode-cn.com/problems/find-the-duplicate-number) | [寻找重复数](https://github.com/zywaited/leetcode/tree/master/251_300/287/) | 2              |
 | [289](https://leetcode-cn.com/problems/game-of-life/)        | [生命游戏](https://github.com/zywaited/leetcode/tree/master/251_300/289/) | 1              |
 | [300](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [最长上升子序列](https://github.com/zywaited/leetcode/tree/master/251_300/300/) | 3              |
+| [319](https://leetcode-cn.com/problems/bulb-switcher/)       | [灯泡开关](https://github.com/zywaited/leetcode/tree/master/301_350/319/) | 1              |
 | [322](https://leetcode-cn.com/problems/coin-change/)         | [零钱兑换](https://github.com/zywaited/leetcode/tree/master/301_350/322/) | 1              |
 | [331](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [验证二叉树的前序序列化](https://github.com/zywaited/leetcode/tree/master/301_350/331/) | 2              |
 | [337](https://leetcode-cn.com/problems/house-robber-iii/)    | [打家劫舍 III](https://github.com/zywaited/leetcode/tree/master/301_350/337/) | 1              |
@@ -114,6 +115,7 @@
 | [1361](https://leetcode-cn.com/problems/validate-binary-tree-nodes/) | [验证二叉树](https://github.com/zywaited/leetcode/tree/master/1351_1400/1361/) | 1              |
 | [1366](https://leetcode-cn.com/problems/rank-teams-by-votes/) | [通过投票对团队排名](https://github.com/zywaited/leetcode/tree/master/1351_1400/1366/) | 1              |
 | [1362](https://leetcode-cn.com/problems/closest-divisors/)   | [最接近的因数](https://github.com/zywaited/leetcode/tree/master/1351_1400/1362/) | 1              |
+| [1375](https://leetcode-cn.com/problems/bulb-switcher-iii/)  | [灯泡开关 III](https://github.com/zywaited/leetcode/tree/master/1351_1400/1375/) | 1              |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5301_5350/5341/) | 1              |
 | [LCP3](https://leetcode-cn.com/problems/programmable-robot/) | [ 机器人大冒险](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/3/) | 1              |
