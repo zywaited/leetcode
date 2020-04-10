@@ -122,6 +122,7 @@
 | [1366](https://leetcode-cn.com/problems/rank-teams-by-votes/) | [通过投票对团队排名](https://github.com/zywaited/leetcode/tree/master/1351_1400/1366/) | 1              |
 | [1362](https://leetcode-cn.com/problems/closest-divisors/)   | [最接近的因数](https://github.com/zywaited/leetcode/tree/master/1351_1400/1362/) | 1              |
 | [1375](https://leetcode-cn.com/problems/bulb-switcher-iii/)  | [灯泡开关 III](https://github.com/zywaited/leetcode/tree/master/1351_1400/1375/) | 1              |
+| [1376](https://leetcode-cn.com/problems/time-needed-to-inform-all-employees/) | [通知所有员工所需的时间](https://github.com/zywaited/leetcode/tree/master/1351_1400/1376/) | 1              |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5301_5350/5341/) | 1              |
 | [LCP3](https://leetcode-cn.com/problems/programmable-robot/) | [ 机器人大冒险](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/3/) | 1              |
