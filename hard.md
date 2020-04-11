@@ -47,6 +47,7 @@
 | [630](https://leetcode-cn.com/problems/course-schedule-iii/) | [课程表 III](https://github.com/zywaited/leetcode/tree/master/601_650/630/) | 1            |
 | [639](https://leetcode-cn.com/problems/decode-ways-ii/)      | [解码方法 2](https://github.com/zywaited/leetcode/tree/master/601_650/639/) | 1            |
 | [749](https://leetcode-cn.com/problems/contain-virus/)       | [隔离病毒](https://github.com/zywaited/leetcode/tree/master/701_750/749/) | 1            |
+| [887](https://leetcode-cn.com/problems/super-egg-drop/)      | [鸡蛋掉落](https://github.com/zywaited/leetcode/tree/master/851_900/887/) | 1            |
 | [924](https://leetcode-cn.com/problems/minimize-malware-spread/) | [尽量减少恶意软件的传播](https://github.com/zywaited/leetcode/tree/master/901_950/924/) | 1            |
 | [928](https://leetcode-cn.com/problems/minimize-malware-spread-ii/) | [尽量减少恶意软件的传播 II](https://github.com/zywaited/leetcode/tree/master/901_950/928/) | 1            |
 | [982](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/) | [按位与为零的三元组](https://github.com/zywaited/leetcode/tree/master/951_1000/982/) | 2            |
