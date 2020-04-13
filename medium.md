@@ -86,6 +86,7 @@
 | [331](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [验证二叉树的前序序列化](https://github.com/zywaited/leetcode/tree/master/301_350/331/) | 2              |
 | [337](https://leetcode-cn.com/problems/house-robber-iii/)    | [打家劫舍 III](https://github.com/zywaited/leetcode/tree/master/301_350/337/) | 1              |
 | [347](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [前 K 个高频元素](https://github.com/zywaited/leetcode/tree/master/301_350/347/) | 2              |
+| [355](https://leetcode-cn.com/problems/design-twitter/)      | [设计推特](https://github.com/zywaited/leetcode/tree/master/351_400/355/) | 1              |
 | [365](https://leetcode-cn.com/problems/water-and-jug-problem/) | [水壶问题](https://github.com/zywaited/leetcode/tree/master/351_400/365/) | 2              |
 | [377](https://leetcode-cn.com/problems/combination-sum-iv/)  | [组合总和 Ⅳ](https://github.com/zywaited/leetcode/tree/master/351_400/377/) | 2              |
 | [397](https://leetcode-cn.com/problems/integer-replacement)  | [整数替换](https://github.com/zywaited/leetcode/tree/master/351_400/397/) | 2              |
