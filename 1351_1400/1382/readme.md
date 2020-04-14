@@ -1,4 +1,4 @@
-## [1382. 将二叉搜索树变平衡](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/)
+## [1382. 将二叉搜索树变平衡](https://leetcode-cn.com/problems/balance-a-binary-search-tree/)
 
 ### 说明
 给你一棵二叉搜索树，请你返回一棵 平衡后 的二叉搜索树，新生成的树应该与原来的树有着相同的节点值。
