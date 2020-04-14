@@ -55,6 +55,7 @@
 | [1346](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/) | [检查整数及其两倍数是否存在](https://github.com/zywaited/leetcode/tree/master/1301_1350/1346/) | 1            |
 | [1160](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [拼写单词](https://github.com/zywaited/leetcode/tree/master/1151_1200/1160/) | 1            |
 | [1374](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [生成每种字符都是奇数个的字符串](https://github.com/zywaited/leetcode/tree/master/1151_1200/1374/) | 1            |
+| [1380](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | [矩阵中的幸运数](https://github.com/zywaited/leetcode/tree/master/1151_1200/1380/) | 1            |
 | [5213](https://leetcode-cn.com/problems/play-with-chips/)    | [玩筹码](https://github.com/zywaited/leetcode/tree/master/5201_5250/5213/) | 1            |
 | [5340](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [统计有序矩阵中的负数](https://github.com/zywaited/leetcode/tree/master/5301_5350/5340/) | 1            |
 | [LCP1](https://leetcode-cn.com/problems/guess-numbers/)      | [猜数字](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/1/) | 1            |
