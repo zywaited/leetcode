@@ -93,6 +93,7 @@
 | [416](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [分割等和子集](https://github.com/zywaited/leetcode/tree/master/401_450/416/) | 1              |
 | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/)  | [两数相加 II](https://github.com/zywaited/leetcode/tree/master/401_450/445/) | 2              |
 | [503](https://leetcode-cn.com/problems/next-greater-element-ii/) | [下一个更大元素 II](https://github.com/zywaited/leetcode/tree/master/501_550/503/) | 1              |
+| [542](https://leetcode-cn.com/problems/01-matrix/)           | [01 矩阵](https://github.com/zywaited/leetcode/tree/master/501_550/542/) | 2              |
 | [556](https://leetcode-cn.com/problems/next-greater-element-iii/) | [下一个更大元素 III](https://github.com/zywaited/leetcode/tree/master/551_600/556/) | 1              |
 | [567](https://leetcode-cn.com/problems/permutation-in-string/) | [字符串的排列](https://github.com/zywaited/leetcode/tree/master/551_600/567/) | 2              |
 | [695](https://leetcode-cn.com/problems/max-area-of-island/)  | [岛屿的最大面积](https://github.com/zywaited/leetcode/tree/master/651_700/695/) | 1              |
