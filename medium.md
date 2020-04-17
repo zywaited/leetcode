@@ -89,6 +89,7 @@
 | [355](https://leetcode-cn.com/problems/design-twitter/)      | [设计推特](https://github.com/zywaited/leetcode/tree/master/351_400/355/) | 1              |
 | [365](https://leetcode-cn.com/problems/water-and-jug-problem/) | [水壶问题](https://github.com/zywaited/leetcode/tree/master/351_400/365/) | 2              |
 | [377](https://leetcode-cn.com/problems/combination-sum-iv/)  | [组合总和 Ⅳ](https://github.com/zywaited/leetcode/tree/master/351_400/377/) | 2              |
+| [395](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [至少有K个重复字符的最长子串](https://github.com/zywaited/leetcode/tree/master/351_400/395/) | 1              |
 | [397](https://leetcode-cn.com/problems/integer-replacement)  | [整数替换](https://github.com/zywaited/leetcode/tree/master/351_400/397/) | 2              |
 | [416](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [分割等和子集](https://github.com/zywaited/leetcode/tree/master/401_450/416/) | 1              |
 | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/)  | [两数相加 II](https://github.com/zywaited/leetcode/tree/master/401_450/445/) | 2              |
@@ -127,6 +128,8 @@
 | [1376](https://leetcode-cn.com/problems/time-needed-to-inform-all-employees/) | [通知所有员工所需的时间](https://github.com/zywaited/leetcode/tree/master/1351_1400/1376/) | 1              |
 | [1381](https://leetcode-cn.com/problems/design-a-stack-with-increment-operation/) | [设计一个支持增量操作的栈](https://github.com/zywaited/leetcode/tree/master/1351_1400/1381/) | 1              |
 | [1382](https://leetcode-cn.com/problems/balance-a-binary-search-tree/) | [将二叉搜索树变平衡](https://github.com/zywaited/leetcode/tree/master/1351_1400/1382/) | 2              |
+| [1390](https://leetcode-cn.com/problems/four-divisors/)      | [四因数](https://github.com/zywaited/leetcode/tree/master/1351_1400/1390/) | 1              |
+| [1391](https://leetcode-cn.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [检查网格中是否存在有效路径](https://github.com/zywaited/leetcode/tree/master/1351_1400/1391/) | 1              |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5301_5350/5341/) | 1              |
 | [LCP3](https://leetcode-cn.com/problems/programmable-robot/) | [ 机器人大冒险](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/3/) | 1              |

@@ -69,6 +69,7 @@
 | [1377](https://leetcode-cn.com/problems/frog-position-after-t-seconds/) | [T 秒后青蛙的位置](https://github.com/zywaited/leetcode/tree/master/1351_1400/1377/) | 1            |
 | [1383](https://leetcode-cn.com/problems/maximum-performance-of-a-team/) | [最大的团队表现值](https://github.com/zywaited/leetcode/tree/master/1351_1400/1383/) | 1            |
 | [1388](https://leetcode-cn.com/problems/pizza-with-3n-slices/) | [3n 块披萨](https://github.com/zywaited/leetcode/tree/master/1351_1400/1388/) | 2            |
+| [1392](https://leetcode-cn.com/problems/longest-happy-prefix/) | [最长快乐前缀](https://github.com/zywaited/leetcode/tree/master/1351_1400/1392/) | 2            |
 | [LCP4](https://leetcode-cn.com/problems/broken-board-dominoes/) | [ 覆盖](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/4/) | 1            |
 | [LCP5](https://leetcode-cn.com/problems/coin-bonus/)         | [发 LeetCoin](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/5/) | 1            |
 | [Interview8.13](https://leetcode-cn.com/problems/pile-box-lcci/) | [面试题 08.13. 堆箱子](https://github.com/zywaited/leetcode/tree/master/Interview/8_1_50/13/) | 1            |
