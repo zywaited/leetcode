@@ -44,6 +44,7 @@
 | [432](https://leetcode-cn.com/problems/all-oone-data-structure/) | [全 O(1) 的数据结构](https://github.com/zywaited/leetcode/tree/master/401_450/432/) | 1            |
 | [458](https://leetcode-cn.com/problems/poor-pigs/)           | [可怜的小猪](https://github.com/zywaited/leetcode/tree/master/451_500/458/) | 1            |
 | [460](https://leetcode-cn.com/problems/lfu-cache/)           | [LFU缓存](https://github.com/zywaited/leetcode/tree/master/451_500/460/) | 1            |
+| [466](https://leetcode-cn.com/problems/count-the-repetitions/) | [统计重复个数](https://github.com/zywaited/leetcode/tree/master/451_500/466/) | 1            |
 | [630](https://leetcode-cn.com/problems/course-schedule-iii/) | [课程表 III](https://github.com/zywaited/leetcode/tree/master/601_650/630/) | 1            |
 | [639](https://leetcode-cn.com/problems/decode-ways-ii/)      | [解码方法 2](https://github.com/zywaited/leetcode/tree/master/601_650/639/) | 1            |
 | [749](https://leetcode-cn.com/problems/contain-virus/)       | [隔离病毒](https://github.com/zywaited/leetcode/tree/master/701_750/749/) | 1            |
