@@ -131,6 +131,7 @@
 | [1382](https://leetcode-cn.com/problems/balance-a-binary-search-tree/) | [将二叉搜索树变平衡](https://github.com/zywaited/leetcode/tree/master/1351_1400/1382/) | 2              |
 | [1390](https://leetcode-cn.com/problems/four-divisors/)      | [四因数](https://github.com/zywaited/leetcode/tree/master/1351_1400/1390/) | 1              |
 | [1391](https://leetcode-cn.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [检查网格中是否存在有效路径](https://github.com/zywaited/leetcode/tree/master/1351_1400/1391/) | 1              |
+| [1395](https://leetcode-cn.com/problems/count-number-of-teams/) | [统计作战单位数](https://github.com/zywaited/leetcode/tree/master/1351_1400/1395/) | 1              |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5301_5350/5341/) | 1              |
 | [LCP3](https://leetcode-cn.com/problems/programmable-robot/) | [ 机器人大冒险](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/3/) | 1              |
