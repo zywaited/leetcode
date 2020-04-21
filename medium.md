@@ -117,6 +117,7 @@
 | [1171](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [从链表中删去总和值为零的连续节点](https://github.com/zywaited/leetcode/tree/master/1151_1200/1171/) | 1              |
 | [1186](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion/) | [删除一次得到子数组最大和](https://github.com/zywaited/leetcode/tree/master/1151_1200/1186/) | 1              |
 | [1223](https://leetcode-cn.com/problems/dice-roll-simulation/) | [掷骰子模拟](https://github.com/zywaited/leetcode/tree/master/1201_1250/1223/) | 1              |
+| [1248](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/) | [统计「优美子数组」](https://github.com/zywaited/leetcode/tree/master/1201_1250/1248/) | 2              |
 | [1306](https://leetcode-cn.com/problems/jump-game-iii/)      | [ 跳跃游戏 III](https://github.com/zywaited/leetcode/tree/master/1301_1350/1306/) | 1              |
 | [1338](https://leetcode-cn.com/problems/reduce-array-size-to-the-half/) | [数组大小减半](https://github.com/zywaited/leetcode/tree/master/1301_1350/1338/) | 1              |
 | [1339](https://leetcode-cn.com/problems/maximum-product-of-splitted-binary-tree/) | [分裂二叉树的最大乘积](https://github.com/zywaited/leetcode/tree/master/1301_1350/1339/) | 1              |
