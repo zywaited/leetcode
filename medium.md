@@ -84,6 +84,7 @@
 | [319](https://leetcode-cn.com/problems/bulb-switcher/)       | [灯泡开关](https://github.com/zywaited/leetcode/tree/master/301_350/319/) | 1              |
 | [322](https://leetcode-cn.com/problems/coin-change/)         | [零钱兑换](https://github.com/zywaited/leetcode/tree/master/301_350/322/) | 1              |
 | [331](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [验证二叉树的前序序列化](https://github.com/zywaited/leetcode/tree/master/301_350/331/) | 2              |
+| [334](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) | [递增的三元子序列](https://github.com/zywaited/leetcode/tree/master/301_350/334/) | 1              |
 | [337](https://leetcode-cn.com/problems/house-robber-iii/)    | [打家劫舍 III](https://github.com/zywaited/leetcode/tree/master/301_350/337/) | 1              |
 | [347](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [前 K 个高频元素](https://github.com/zywaited/leetcode/tree/master/301_350/347/) | 2              |
 | [355](https://leetcode-cn.com/problems/design-twitter/)      | [设计推特](https://github.com/zywaited/leetcode/tree/master/351_400/355/) | 1              |
@@ -142,6 +143,7 @@
 | [Interview3.5](https://leetcode-cn.com/problems/sort-of-stacks-lcci/) | [栈排序](https://github.com/zywaited/leetcode/tree/master/Interview/3_1_50/5/) | 1              |
 | [Interview5.4](https://leetcode-cn.com/problems/circus-tower-lcci/) | [下一个数](https://github.com/zywaited/leetcode/tree/master/Interview/5_1_50/4/) | 1              |
 | [Interview8.11](https://leetcode-cn.com/problems/coin-lcci/) | [硬币](https://github.com/zywaited/leetcode/tree/master/Interview/8_1_50/11/) | 1              |
+| [Interview8.14](https://leetcode-cn.com/problems/boolean-evaluation-lcci/) | [布尔运算](https://github.com/zywaited/leetcode/tree/master/Interview/8_1_50/14/) | 1              |
 | [Interview16.6](https://leetcode-cn.com/problems/smallest-difference-lcci/) | [最小差](https://github.com/zywaited/leetcode/tree/master/Interview/16_1_50/6/) | 1              |
 | [Interview17.6](https://leetcode-cn.com/problems/number-of-2s-in-range-lcci/) | [2出现的次数](https://github.com/zywaited/leetcode/tree/master/Interview/17_1_50/6/) | 1              |
 | [Interview17.8](https://leetcode-cn.com/problems/circus-tower-lcci/) | [马戏团人塔](https://github.com/zywaited/leetcode/tree/master/Interview/17_1_50/8/) | 1              |
