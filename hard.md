@@ -55,6 +55,7 @@
 | [982](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/) | [按位与为零的三元组](https://github.com/zywaited/leetcode/tree/master/951_1000/982/) | 2            |
 | [1012](https://leetcode-cn.com/problems/numbers-with-repeated-digits/) | [至少有 1 位重复的数字](https://github.com/zywaited/leetcode/tree/master/1001_1050/1012/) | 1            |
 | [1036](https://leetcode-cn.com/problems/escape-a-large-maze/) | [逃离大迷宫](https://github.com/zywaited/leetcode/tree/master/1001_1050/1036/) | 1            |
+| [1095](https://leetcode-cn.com/problems/find-in-mountain-array/) | [山脉数组中查找目标值](https://github.com/zywaited/leetcode/tree/master/1051_1100/1095/) | 1            |
 | [1125](https://leetcode-cn.com/problems/smallest-sufficient-team/) | [最小的必要团队](https://github.com/zywaited/leetcode/tree/master/1101_1150/1125/) | 3            |
 | [1157](https://leetcode-cn.com/problems/online-majority-element-in-subarray/) | [子数组中占绝大多数的元素](https://github.com/zywaited/leetcode/tree/master/1151_1200/1157/) | 2            |
 | [1163](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order/) | [按字典序排在最后的子串](https://github.com/zywaited/leetcode/tree/master/1151_1200/1163/) | 2            |
