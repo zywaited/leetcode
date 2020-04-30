@@ -76,4 +76,5 @@
 | [Offer62](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [圆圈中最后剩下的数字](https://github.com/zywaited/leetcode/tree/master/Offer/51_100/65/) | 1            |
 | [LCP6](https://leetcode-cn.com/problems/na-ying-bi/)         | [拿硬币](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/6/) | 1            |
 | [LCP7](https://leetcode-cn.com/problems/chuan-di-xin-xi/)    | [传递信息](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/7/) | 1            |
+| [LCP11](https://leetcode-cn.com/problems/qi-wang-ge-shu-tong-ji/) | [期望个数统计](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/11/) | 1            |
 
