@@ -24,6 +24,7 @@
 | [190](https://leetcode-cn.com/problems/reverse-bits)         | [颠倒二进制位](https://github.com/zywaited/leetcode/tree/master/151_200/190/) | 1            |
 | [191](https://leetcode-cn.com/problems/number-of-1-bits)     | [位1的个数](https://github.com/zywaited/leetcode/tree/master/151_200/191/) | 1            |
 | [198](https://leetcode-cn.com/problems/house-robber/)        | [打家劫舍](https://github.com/zywaited/leetcode/tree/master/151_200/198/) | 1            |
+| [202](https://leetcode-cn.com/problems/happy-number/)        | [快乐数](https://github.com/zywaited/leetcode/tree/master/201_250/202/) | 1            |
 | [204](https://leetcode-cn.com/problems/count-primes/)        | [计数质数](https://github.com/zywaited/leetcode/tree/master/201_250/204/) | 1            |
 | [206](https://leetcode-cn.com/problems/reverse-linked-list/) | [反转链表](https://github.com/zywaited/leetcode/tree/master/201_250/206/) | 2            |
 | [226](https://leetcode-cn.com/problems/invert-binary-tree)   | [翻转二叉树](https://github.com/zywaited/leetcode/tree/master/201_250/226/) | 1            |
