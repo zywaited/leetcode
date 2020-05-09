@@ -138,6 +138,8 @@
 | [1391](https://leetcode-cn.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [检查网格中是否存在有效路径](https://github.com/zywaited/leetcode/tree/master/1351_1400/1391/) | 1              |
 | [1395](https://leetcode-cn.com/problems/count-number-of-teams/) | [统计作战单位数](https://github.com/zywaited/leetcode/tree/master/1351_1400/1395/) | 1              |
 | [1396](https://leetcode-cn.com/problems/design-underground-system/) | [设计地铁系统](https://github.com/zywaited/leetcode/tree/master/1351_1400/1396/) | 1              |
+| [1404](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [将二进制表示减到 1 的步骤数](https://github.com/zywaited/leetcode/tree/master/1401_1450/1404/) | 1              |
+| [1405](https://leetcode-cn.com/problems/longest-happy-string/) | [最长快乐字符串](https://github.com/zywaited/leetcode/tree/master/1401_1450/1405/) | 1              |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5301_5350/5341/) | 1              |
 | [LCP3](https://leetcode-cn.com/problems/programmable-robot/) | [ 机器人大冒险](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/3/) | 1              |
