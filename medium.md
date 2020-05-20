@@ -133,6 +133,7 @@
 | [1361](https://leetcode-cn.com/problems/validate-binary-tree-nodes/) | [验证二叉树](https://github.com/zywaited/leetcode/tree/master/1351_1400/1361/) | 1              |
 | [1366](https://leetcode-cn.com/problems/rank-teams-by-votes/) | [通过投票对团队排名](https://github.com/zywaited/leetcode/tree/master/1351_1400/1366/) | 1              |
 | [1362](https://leetcode-cn.com/problems/closest-divisors/)   | [最接近的因数](https://github.com/zywaited/leetcode/tree/master/1351_1400/1362/) | 1              |
+| [1371](https://leetcode-cn.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [每个元音包含偶数次的最长子字符串](https://github.com/zywaited/leetcode/tree/master/1351_1400/1371/) | 1              |
 | [1375](https://leetcode-cn.com/problems/bulb-switcher-iii/)  | [灯泡开关 III](https://github.com/zywaited/leetcode/tree/master/1351_1400/1375/) | 1              |
 | [1376](https://leetcode-cn.com/problems/time-needed-to-inform-all-employees/) | [通知所有员工所需的时间](https://github.com/zywaited/leetcode/tree/master/1351_1400/1376/) | 1              |
 | [1381](https://leetcode-cn.com/problems/design-a-stack-with-increment-operation/) | [设计一个支持增量操作的栈](https://github.com/zywaited/leetcode/tree/master/1351_1400/1381/) | 1              |
