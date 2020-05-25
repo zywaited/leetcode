@@ -83,6 +83,7 @@
 | [238](https://leetcode-cn.com/problems/product-of-array-except-self/) | [除自身以外数组的乘积](https://github.com/zywaited/leetcode/tree/master/201_250/238/) | 2              |
 | [240](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [搜索二维矩阵 II](https://github.com/zywaited/leetcode/tree/master/201_250/240/) | 1              |
 | [260](https://leetcode-cn.com/problems/single-number-iii)    | [只出现一次的数字 III](https://github.com/zywaited/leetcode/tree/master/251_300/260/) | 1              |
+| [264](https://leetcode-cn.com/problems/ugly-number-ii/)      | [丑数 II](https://github.com/zywaited/leetcode/tree/master/251_300/264/) | 1              |
 | [287](https://leetcode-cn.com/problems/find-the-duplicate-number) | [寻找重复数](https://github.com/zywaited/leetcode/tree/master/251_300/287/) | 2              |
 | [289](https://leetcode-cn.com/problems/game-of-life/)        | [生命游戏](https://github.com/zywaited/leetcode/tree/master/251_300/289/) | 1              |
 | [300](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [最长上升子序列](https://github.com/zywaited/leetcode/tree/master/251_300/300/) | 3              |

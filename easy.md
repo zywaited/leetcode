@@ -30,6 +30,7 @@
 | [206](https://leetcode-cn.com/problems/reverse-linked-list/) | [反转链表](https://github.com/zywaited/leetcode/tree/master/201_250/206/) | 2            |
 | [226](https://leetcode-cn.com/problems/invert-binary-tree)   | [翻转二叉树](https://github.com/zywaited/leetcode/tree/master/201_250/226/) | 1            |
 | [231](https://leetcode-cn.com/problems/power-of-two)         | [2的幂](https://github.com/zywaited/leetcode/tree/master/201_250/231/) | 1            |
+| [263](https://leetcode-cn.com/problems/ugly-number/)         | [丑数](https://github.com/zywaited/leetcode/tree/master/251_300/263/) | 1            |
 | [268](https://leetcode-cn.com/problems/missing-number)       | [缺失数字](https://github.com/zywaited/leetcode/tree/master/251_300/268/) | 2            |
 | [283](https://leetcode-cn.com/problems/move-zeroes/)         | [移动零](https://github.com/zywaited/leetcode/tree/master/251_300/283/) | 2            |
 | [342](https://leetcode-cn.com/problems/power-of-four)        | [4的幂](https://github.com/zywaited/leetcode/tree/master/301_350/342/) | 1            |
