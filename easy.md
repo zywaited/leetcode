@@ -14,6 +14,7 @@
 | [69](https://leetcode-cn.com/problems/sqrtx/)                | [x 的平方根](https://github.com/zywaited/leetcode/tree/master/51_100/69/) | 1            |
 | [70](https://leetcode-cn.com/problems/climbing-stairs/)      | [爬楼梯](https://github.com/zywaited/leetcode/tree/master/51_100/70/) | 3            |
 | [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [删除排序链表中的重复元素](https://github.com/zywaited/leetcode/tree/master/51_100/83/) | 1            |
+| [101](https://leetcode-cn.com/problems/symmetric-tree/)      | [对称二叉树](https://github.com/zywaited/leetcode/tree/master/101_150/101/) | 1            |
 | [110](https://leetcode-cn.com/problems/balanced-binary-tree) | [平衡二叉树](https://github.com/zywaited/leetcode/tree/master/101_150/110/) | 1            |
 | [112](https://leetcode-cn.com/problems/path-sum/)            | [路径总和](https://github.com/zywaited/leetcode/tree/master/101_150/112/) | 1            |
 | [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [买卖股票的最佳时机](https://github.com/zywaited/leetcode/tree/master/101_150/121/) | 1            |
@@ -64,6 +65,7 @@
 | [1394](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/) | [找出数组中的幸运数](https://github.com/zywaited/leetcode/tree/master/1351_1400/1394/) | 1            |
 | [1399](https://leetcode-cn.com/problems/count-largest-group/) | [统计最大组的数目](https://github.com/zywaited/leetcode/tree/master/1351_1400/1399/) | 1            |
 | [1403](https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/) | [非递增顺序的最小子序列](https://github.com/zywaited/leetcode/tree/master/1401_1450/1403/) | 1            |
+| [1431](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | [拥有最多糖果的孩子](https://github.com/zywaited/leetcode/tree/master/1401_1450/1431/) | 1            |
 | [5213](https://leetcode-cn.com/problems/play-with-chips/)    | [玩筹码](https://github.com/zywaited/leetcode/tree/master/5201_5250/5213/) | 1            |
 | [5340](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [统计有序矩阵中的负数](https://github.com/zywaited/leetcode/tree/master/5301_5350/5340/) | 1            |
 | [LCP1](https://leetcode-cn.com/problems/guess-numbers/)      | [猜数字](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/1/) | 1            |
