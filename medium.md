@@ -152,6 +152,7 @@
 | [1400](https://leetcode-cn.com/problems/construct-k-palindrome-strings/) | [构造 K 个回文字符串](https://github.com/zywaited/leetcode/tree/master/1351_1400/1400/) | 1              |
 | [1404](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [将二进制表示减到 1 的步骤数](https://github.com/zywaited/leetcode/tree/master/1401_1450/1404/) | 1              |
 | [1405](https://leetcode-cn.com/problems/longest-happy-string/) | [最长快乐字符串](https://github.com/zywaited/leetcode/tree/master/1401_1450/1405/) | 1              |
+| [1409](https://leetcode-cn.com/problems/queries-on-a-permutation-with-key/) | [查询带键的排列](https://github.com/zywaited/leetcode/tree/master/1401_1450/1409/) | 1              |
 | [1419](https://leetcode-cn.com/problems/minimum-number-of-frogs-croaking/) | [数青蛙](https://github.com/zywaited/leetcode/tree/master/1401_1450/1405/) | 1              |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5301_5350/5341/) | 1              |
