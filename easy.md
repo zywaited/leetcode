@@ -6,6 +6,7 @@
 | [7](https://leetcode-cn.com/problems/reverse-integer/)       | [整数反转](https://github.com/zywaited/leetcode/tree/master/1_50/7/) | 1            |
 | [9](https://leetcode-cn.com/problems/palindrome-number)      | [回文数](https://github.com/zywaited/leetcode/tree/master/1_50/9/) | 1            |
 | [13](https://leetcode-cn.com/problems/roman-to-integer/)     | [罗马数字转整数](https://github.com/zywaited/leetcode/tree/master/1_50/13/) | 1            |
+| [14](https://leetcode-cn.com/problems/longest-common-prefix/) | [最长公共前缀](https://github.com/zywaited/leetcode/tree/master/1_50/14/) | 1            |
 | [20](https://leetcode-cn.com/problems/valid-parentheses/)    | [有效的括号](https://github.com/zywaited/leetcode/tree/master/1_50/20/) | 1            |
 | [21](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [合并两个有序链表](https://github.com/zywaited/leetcode/tree/master/1_50/21/) | 1            |
 | [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [删除排序数组中的重复项](https://github.com/zywaited/leetcode/tree/master/1_50/26/) | 1            |
