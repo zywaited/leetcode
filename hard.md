@@ -76,6 +76,7 @@
 | [1392](https://leetcode-cn.com/problems/longest-happy-prefix/) | [最长快乐前缀](https://github.com/zywaited/leetcode/tree/master/1351_1400/1392/) | 2            |
 | [1406](https://leetcode-cn.com/problems/stone-game-iii/)     | [石子游戏 III](https://github.com/zywaited/leetcode/tree/master/1401_1450/1406/) | 1            |
 | [1411](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-x-3-grid/) | [给 N x 3 网格图涂色的方案数](https://github.com/zywaited/leetcode/tree/master/1401_1450/1411/) | 1            |
+| [1473](https://leetcode-cn.com/problems/paint-house-iii/)    | [给房子涂色 III](https://github.com/zywaited/leetcode/tree/master/1451_1500/1473/) | 1            |
 | [LCP4](https://leetcode-cn.com/problems/broken-board-dominoes/) | [ 覆盖](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/4/) | 1            |
 | [LCP5](https://leetcode-cn.com/problems/coin-bonus/)         | [发 LeetCoin](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/5/) | 1            |
 | [LCP9](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/) | [最小跳跃次数](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/9/) | 1            |
