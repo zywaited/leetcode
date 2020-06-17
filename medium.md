@@ -120,6 +120,7 @@
 | [974](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | [和可被 K 整除的子数组](https://github.com/zywaited/leetcode/tree/master/951_1000/974/) | 1              |
 | [983](https://leetcode-cn.com/problems/minimum-cost-for-tickets/) | [最低票价](https://github.com/zywaited/leetcode/tree/master/951_1000/983/) | 1              |
 | [990](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/) | [等式方程的可满足性](https://github.com/zywaited/leetcode/tree/master/951_1000/990/) | 1              |
+| [1014](https://leetcode-cn.com/problems/best-sightseeing-pair/) | [最佳观光组合](https://github.com/zywaited/leetcode/tree/master/1001_1050/1014/) | 1              |
 | [1034](https://leetcode-cn.com/problems/coloring-a-border/)  | [边框着色](https://github.com/zywaited/leetcode/tree/master/1001_1050/1034/) | 1              |
 | [1035](https://leetcode-cn.com/problems/uncrossed-lines/)    | [1035. 不相交的线](https://github.com/zywaited/leetcode/tree/master/1001_1050/1035/) | 1              |
 | [1040](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii/) | [移动石子直到连续 II](https://github.com/zywaited/leetcode/tree/master/1001_1050/1040/) | 1              |
