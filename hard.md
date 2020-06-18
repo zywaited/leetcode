@@ -55,6 +55,7 @@
 | [928](https://leetcode-cn.com/problems/minimize-malware-spread-ii/) | [尽量减少恶意软件的传播 II](https://github.com/zywaited/leetcode/tree/master/901_950/928/) | 1            |
 | [982](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/) | [按位与为零的三元组](https://github.com/zywaited/leetcode/tree/master/951_1000/982/) | 2            |
 | [1012](https://leetcode-cn.com/problems/numbers-with-repeated-digits/) | [至少有 1 位重复的数字](https://github.com/zywaited/leetcode/tree/master/1001_1050/1012/) | 1            |
+| [1028](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) | [从先序遍历还原二叉树](https://github.com/zywaited/leetcode/tree/master/1001_1050/1028/) | 1            |
 | [1036](https://leetcode-cn.com/problems/escape-a-large-maze/) | [逃离大迷宫](https://github.com/zywaited/leetcode/tree/master/1001_1050/1036/) | 1            |
 | [1095](https://leetcode-cn.com/problems/find-in-mountain-array/) | [山脉数组中查找目标值](https://github.com/zywaited/leetcode/tree/master/1051_1100/1095/) | 1            |
 | [1125](https://leetcode-cn.com/problems/smallest-sufficient-team/) | [最小的必要团队](https://github.com/zywaited/leetcode/tree/master/1101_1150/1125/) | 3            |
