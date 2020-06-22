@@ -68,6 +68,7 @@
 | [1403](https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/) | [非递增顺序的最小子序列](https://github.com/zywaited/leetcode/tree/master/1401_1450/1403/) | 1            |
 | [1408](https://leetcode-cn.com/problems/string-matching-in-an-array/) | [数组中的字符串匹配](https://github.com/zywaited/leetcode/tree/master/1401_1450/1408/) | 1            |
 | [1431](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | [拥有最多糖果的孩子](https://github.com/zywaited/leetcode/tree/master/1401_1450/1431/) | 1            |
+| [1470](https://leetcode-cn.com/problems/shuffle-the-array/)  | [重新排列数组](https://github.com/zywaited/leetcode/tree/master/1451_1500/1470/) | 1            |
 | [5213](https://leetcode-cn.com/problems/play-with-chips/)    | [玩筹码](https://github.com/zywaited/leetcode/tree/master/5201_5250/5213/) | 1            |
 | [5340](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [统计有序矩阵中的负数](https://github.com/zywaited/leetcode/tree/master/5301_5350/5340/) | 1            |
 | [LCP1](https://leetcode-cn.com/problems/guess-numbers/)      | [猜数字](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/1/) | 1            |
