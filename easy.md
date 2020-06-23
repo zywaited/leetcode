@@ -12,6 +12,7 @@
 | [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [删除排序数组中的重复项](https://github.com/zywaited/leetcode/tree/master/1_50/26/) | 1            |
 | [27](https://leetcode-cn.com/problems/remove-element/)       | [移除元素](https://github.com/zywaited/leetcode/tree/master/1_50/27/) | 1            |
 | [53](https://leetcode-cn.com/problems/maximum-subarray/)     | [最大子序和](https://github.com/zywaited/leetcode/tree/master/51_100/53/) | 1            |
+| [67](https://leetcode-cn.com/problems/add-binary/)           | [二进制求和](https://github.com/zywaited/leetcode/tree/master/51_100/67/) | 1            |
 | [69](https://leetcode-cn.com/problems/sqrtx/)                | [x 的平方根](https://github.com/zywaited/leetcode/tree/master/51_100/69/) | 1            |
 | [70](https://leetcode-cn.com/problems/climbing-stairs/)      | [爬楼梯](https://github.com/zywaited/leetcode/tree/master/51_100/70/) | 3            |
 | [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [删除排序链表中的重复元素](https://github.com/zywaited/leetcode/tree/master/51_100/83/) | 1            |
