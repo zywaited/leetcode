@@ -68,6 +68,7 @@
 | [1399](https://leetcode-cn.com/problems/count-largest-group/) | [统计最大组的数目](https://github.com/zywaited/leetcode/tree/master/1351_1400/1399/) | 1            |
 | [1403](https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/) | [非递增顺序的最小子序列](https://github.com/zywaited/leetcode/tree/master/1401_1450/1403/) | 1            |
 | [1408](https://leetcode-cn.com/problems/string-matching-in-an-array/) | [数组中的字符串匹配](https://github.com/zywaited/leetcode/tree/master/1401_1450/1408/) | 1            |
+| [1417](https://leetcode-cn.com/problems/reformat-the-string/) | [重新格式化字符串](https://github.com/zywaited/leetcode/tree/master/1401_1450/1417/) | 1            |
 | [1431](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/) | [拥有最多糖果的孩子](https://github.com/zywaited/leetcode/tree/master/1401_1450/1431/) | 1            |
 | [1470](https://leetcode-cn.com/problems/shuffle-the-array/)  | [重新排列数组](https://github.com/zywaited/leetcode/tree/master/1451_1500/1470/) | 1            |
 | [5213](https://leetcode-cn.com/problems/play-with-chips/)    | [玩筹码](https://github.com/zywaited/leetcode/tree/master/5201_5250/5213/) | 1            |

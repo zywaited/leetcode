@@ -160,6 +160,7 @@
 | [1405](https://leetcode-cn.com/problems/longest-happy-string/) | [最长快乐字符串](https://github.com/zywaited/leetcode/tree/master/1401_1450/1405/) | 1              |
 | [1409](https://leetcode-cn.com/problems/queries-on-a-permutation-with-key/) | [查询带键的排列](https://github.com/zywaited/leetcode/tree/master/1401_1450/1409/) | 1              |
 | [1410](https://leetcode-cn.com/problems/html-entity-parser/) | [HTML 实体解析器](https://github.com/zywaited/leetcode/tree/master/1401_1450/1410/) | 1              |
+| [1418](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/) | [点菜展示表](https://github.com/zywaited/leetcode/tree/master/1401_1450/1418/) | 1              |
 | [1419](https://leetcode-cn.com/problems/minimum-number-of-frogs-croaking/) | [数青蛙](https://github.com/zywaited/leetcode/tree/master/1401_1450/1405/) | 1              |
 | [1471](https://leetcode-cn.com/problems/the-k-strongest-values-in-an-array/) | [数组中的 k 个最强值](https://github.com/zywaited/leetcode/tree/master/1451_1500/1471/) | 2              |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
