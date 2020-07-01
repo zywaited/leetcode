@@ -111,6 +111,7 @@
 | [695](https://leetcode-cn.com/problems/max-area-of-island/)  | [岛屿的最大面积](https://github.com/zywaited/leetcode/tree/master/651_700/695/) | 1              |
 | [698](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) | [划分为k个相等的子集](https://github.com/zywaited/leetcode/tree/master/651_700/698) | 1              |
 | [714](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [买卖股票的最佳时机含手续费](https://github.com/zywaited/leetcode/tree/master/701_750/714/) | 1              |
+| [718](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [最长重复子数组](https://github.com/zywaited/leetcode/tree/master/701_750/718/) | 1              |
 | [739](https://leetcode-cn.com/problems/daily-temperatures/)  | [每日温度](https://github.com/zywaited/leetcode/tree/master/701_750/739/) | 2              |
 | [802](https://leetcode-cn.com/problems/find-eventual-safe-states/) | [找到最终的安全状态](https://github.com/zywaited/leetcode/tree/master/801_850/802) | 1              |
 | [820](https://leetcode-cn.com/problems/short-encoding-of-words/) | [单词的压缩编码](https://github.com/zywaited/leetcode/tree/master/801_850/820) | 3              |
@@ -125,6 +126,7 @@
 | [1034](https://leetcode-cn.com/problems/coloring-a-border/)  | [边框着色](https://github.com/zywaited/leetcode/tree/master/1001_1050/1034/) | 1              |
 | [1035](https://leetcode-cn.com/problems/uncrossed-lines/)    | [1035. 不相交的线](https://github.com/zywaited/leetcode/tree/master/1001_1050/1035/) | 1              |
 | [1040](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii/) | [移动石子直到连续 II](https://github.com/zywaited/leetcode/tree/master/1001_1050/1040/) | 1              |
+| [1079](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [活字印刷](https://github.com/zywaited/leetcode/tree/master/1051_1100/1079/) | 1              |
 | [1094](https://leetcode-cn.com/problems/car-pooling/)        | [拼车](https://github.com/zywaited/leetcode/tree/master/1051_1100/1094/) | 2              |
 | [1140](https://leetcode-cn.com/problems/stone-game-ii/)      | [石子游戏 II](https://github.com/zywaited/leetcode/tree/master/1101_1150/1140/) | 1              |
 | [1143](https://leetcode-cn.com/problems/longest-common-subsequence/) | [ 最长公共子序列](https://github.com/zywaited/leetcode/tree/master/1101_1150/1143/) | 1              |
