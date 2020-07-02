@@ -98,6 +98,7 @@
 | [355](https://leetcode-cn.com/problems/design-twitter/)      | [设计推特](https://github.com/zywaited/leetcode/tree/master/351_400/355/) | 1              |
 | [365](https://leetcode-cn.com/problems/water-and-jug-problem/) | [水壶问题](https://github.com/zywaited/leetcode/tree/master/351_400/365/) | 2              |
 | [377](https://leetcode-cn.com/problems/combination-sum-iv/)  | [组合总和 Ⅳ](https://github.com/zywaited/leetcode/tree/master/351_400/377/) | 2              |
+| [378](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [有序矩阵中第K小的元素](https://github.com/zywaited/leetcode/tree/master/351_400/378/) | 1              |
 | [394](https://leetcode-cn.com/problems/decode-string/)       | [字符串解码](https://github.com/zywaited/leetcode/tree/master/351_400/394/) | 1              |
 | [395](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [至少有K个重复字符的最长子串](https://github.com/zywaited/leetcode/tree/master/351_400/395/) | 1              |
 | [397](https://leetcode-cn.com/problems/integer-replacement)  | [整数替换](https://github.com/zywaited/leetcode/tree/master/351_400/397/) | 2              |
