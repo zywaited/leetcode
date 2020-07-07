@@ -139,6 +139,7 @@
 | [1186](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion/) | [删除一次得到子数组最大和](https://github.com/zywaited/leetcode/tree/master/1151_1200/1186/) | 1              |
 | [1223](https://leetcode-cn.com/problems/dice-roll-simulation/) | [掷骰子模拟](https://github.com/zywaited/leetcode/tree/master/1201_1250/1223/) | 1              |
 | [1248](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/) | [统计「优美子数组」](https://github.com/zywaited/leetcode/tree/master/1201_1250/1248/) | 2              |
+| [1249](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/) | [移除无效的括号](https://github.com/zywaited/leetcode/tree/master/1201_1250/1249/) | 1              |
 | [1262](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/) | [可被三整除的最大和](https://github.com/zywaited/leetcode/tree/master/1251_1300/1262/) | 1              |
 | [1300](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/) | [转变数组后最接近目标值的数组和](https://github.com/zywaited/leetcode/tree/master/1251_1300/1230/) | 1              |
 | [1306](https://leetcode-cn.com/problems/jump-game-iii/)      | [ 跳跃游戏 III](https://github.com/zywaited/leetcode/tree/master/1301_1350/1306/) | 1              |
