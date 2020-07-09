@@ -171,7 +171,7 @@
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5301_5350/5341/) | 1              |
 | [LCP3](https://leetcode-cn.com/problems/programmable-robot/) | [ 机器人大冒险](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/3/) | 1              |
 | [LCP8](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/) | [剧情触发时间](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/8/) | 1              |
-| [LCP12]（https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/ | [小张刷题计划](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/12/) | 1              |
+| [LCP12](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/) | [小张刷题计划](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/12/) | 1              |
 | [Interview1.5](https://leetcode-cn.com/problems/one-away-lcci/) | [一次编辑](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/5/) | 1              |
 | [Interview1.8](https://leetcode-cn.com/problems/zero-matrix-lcci/) | [零矩阵](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/8/) | 1              |
 | [Interview3.5](https://leetcode-cn.com/problems/sort-of-stacks-lcci/) | [栈排序](https://github.com/zywaited/leetcode/tree/master/Interview/3_1_50/5/) | 1              |
@@ -184,6 +184,7 @@
 | [Interview17.6](https://leetcode-cn.com/problems/number-of-2s-in-range-lcci/) | [2出现的次数](https://github.com/zywaited/leetcode/tree/master/Interview/17_1_50/6/) | 1              |
 | [Interview17.8](https://leetcode-cn.com/problems/circus-tower-lcci/) | [马戏团人塔](https://github.com/zywaited/leetcode/tree/master/Interview/17_1_50/8/) | 1              |
 | [Interview17.9](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/) | [第 k 个数](https://github.com/zywaited/leetcode/tree/master/Interview/17_1_50/9/) | 1              |
+| [Interview17.13](https://leetcode-cn.com/problems/re-space-lcci/) | [恢复空格](https://github.com/zywaited/leetcode/tree/master/Interview/17_1_50/13/) | 1              |
 | [Interview17.14](https://leetcode-cn.com/problems/smallest-k-lcci/) | [最小K个数](https://github.com/zywaited/leetcode/tree/master/Interview/17_1_50/14/) | 1              |
 | [Interview46](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | [把数字翻译成字符串](https://github.com/zywaited/leetcode/tree/master/Interview/1_50/46/) | 2              |
 | [Interview59.2](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [队列的最大值](https://github.com/zywaited/leetcode/tree/master/Interview/59_1_50/2/) | 1              |
