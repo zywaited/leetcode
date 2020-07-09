@@ -5,9 +5,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"leetcode/51_100/45/ignore"
-	"leetcode/51_100/45/one"
-	"leetcode/51_100/45/two"
+	"leetcode/1_50/45/ignore"
+	"leetcode/1_50/45/one"
+	"leetcode/1_50/45/two"
 )
 
 func TestJump(t *testing.T) {
