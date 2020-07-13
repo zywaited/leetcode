@@ -39,6 +39,8 @@
 | [268](https://leetcode-cn.com/problems/missing-number)       | [缺失数字](https://github.com/zywaited/leetcode/tree/master/251_300/268/) | 2            |
 | [283](https://leetcode-cn.com/problems/move-zeroes/)         | [移动零](https://github.com/zywaited/leetcode/tree/master/251_300/283/) | 2            |
 | [342](https://leetcode-cn.com/problems/power-of-four)        | [4的幂](https://github.com/zywaited/leetcode/tree/master/301_350/342/) | 1            |
+| [349](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [两个数组的交集](https://github.com/zywaited/leetcode/tree/master/301_350/349/) | 1            |
+| [350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [两个数组的交集 II](https://github.com/zywaited/leetcode/tree/master/301_350/350/) | 1            |
 | [389](https://leetcode-cn.com/problems/find-the-difference)  | [找不同](https://github.com/zywaited/leetcode/tree/master/351_400/389/) | 2            |
 | [409](https://leetcode-cn.com/problems/longest-palindrome/)  | [最长回文串](https://github.com/zywaited/leetcode/tree/master/401_450/409/) | 2            |
 | [415](https://leetcode-cn.com/problems/add-strings/)         | [字符串相加](https://github.com/zywaited/leetcode/tree/master/401_450/415/) | 1            |
