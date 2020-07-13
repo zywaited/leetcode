@@ -39,6 +39,7 @@
 | [282](https://leetcode-cn.com/problems/expression-add-operators/) | [给表达式添加运算符](https://github.com/zywaited/leetcode/tree/master/251_300/282/) | 1            |
 | [297](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [二叉树的序列化与反序列化](https://github.com/zywaited/leetcode/tree/master/251_300/297/) | 1            |
 | [312](https://leetcode-cn.com/problems/burst-balloons/)      | [戳气球](https://github.com/zywaited/leetcode/tree/master/301_350/316/) | 2            |
+| [315](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | [计算右侧小于当前元素的个数](https://github.com/zywaited/leetcode/tree/master/301_350/315/) | 1            |
 | [316](https://leetcode-cn.com/problems/remove-duplicate-letters/) | [去除重复字母](https://github.com/zywaited/leetcode/tree/master/301_350/316/) | 1            |
 | [321](https://leetcode-cn.com/problems/create-maximum-number/) | [拼接最大数](https://github.com/zywaited/leetcode/tree/master/301_350/321/) | 1            |
 | [330](https://leetcode-cn.com/problems/patching-array/)      | [按要求补齐数组](https://github.com/zywaited/leetcode/tree/master/301_350/330/) | 1            |
