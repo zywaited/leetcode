@@ -55,6 +55,7 @@
 | [113](https://leetcode-cn.com/problems/path-sum-ii/)         | [路径总和 II](https://github.com/zywaited/leetcode/tree/master/101_150/113/) | 1              |
 | [116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [填充每个节点的下一个右侧节点指针](https://github.com/zywaited/leetcode/tree/master/101_150/116/) | 1              |
 | [117](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [填充每个节点的下一个右侧节点指针 II](https://github.com/zywaited/leetcode/tree/master/101_150/117/) | 1              |
+| [120](https://leetcode-cn.com/problems/triangle/)            | [三角形最小路径和](https://github.com/zywaited/leetcode/tree/master/101_150/120/) | 1              |
 | [127](https://leetcode-cn.com/problems/word-ladder/)         | [单词接龙](https://github.com/zywaited/leetcode/tree/master/101_150/127/) | 1              |
 | [131](https://leetcode-cn.com/problems/palindrome-partitioning/) | [分割回文串](https://github.com/zywaited/leetcode/tree/master/101_150/131/) | 3              |
 | [134](https://leetcode-cn.com/problems/gas-station/)         | [加油站](https://github.com/zywaited/leetcode/tree/master/101_150/134/) | 1              |
