@@ -116,6 +116,7 @@
 | [714](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [买卖股票的最佳时机含手续费](https://github.com/zywaited/leetcode/tree/master/701_750/714/) | 1              |
 | [718](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [最长重复子数组](https://github.com/zywaited/leetcode/tree/master/701_750/718/) | 1              |
 | [739](https://leetcode-cn.com/problems/daily-temperatures/)  | [每日温度](https://github.com/zywaited/leetcode/tree/master/701_750/739/) | 2              |
+| [785](https://leetcode-cn.com/problems/is-graph-bipartite/)  | [判断二分图](https://github.com/zywaited/leetcode/tree/master/751_800/785/) | 1              |
 | [802](https://leetcode-cn.com/problems/find-eventual-safe-states/) | [找到最终的安全状态](https://github.com/zywaited/leetcode/tree/master/801_850/802) | 1              |
 | [820](https://leetcode-cn.com/problems/short-encoding-of-words/) | [单词的压缩编码](https://github.com/zywaited/leetcode/tree/master/801_850/820) | 3              |
 | [877](https://leetcode-cn.com/problems/stone-game/)          | [石子游戏](https://github.com/zywaited/leetcode/tree/master/851_900/877) | 2              |
