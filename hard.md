@@ -60,6 +60,7 @@
 | [1028](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) | [从先序遍历还原二叉树](https://github.com/zywaited/leetcode/tree/master/1001_1050/1028/) | 1            |
 | [1036](https://leetcode-cn.com/problems/escape-a-large-maze/) | [逃离大迷宫](https://github.com/zywaited/leetcode/tree/master/1001_1050/1036/) | 1            |
 | [1095](https://leetcode-cn.com/problems/find-in-mountain-array/) | [山脉数组中查找目标值](https://github.com/zywaited/leetcode/tree/master/1051_1100/1095/) | 1            |
+| [1096](https://leetcode-cn.com/problems/brace-expansion-ii/) | [花括号展开 II](https://github.com/zywaited/leetcode/tree/master/1051_1100/1096/) | 1            |
 | [1125](https://leetcode-cn.com/problems/smallest-sufficient-team/) | [最小的必要团队](https://github.com/zywaited/leetcode/tree/master/1101_1150/1125/) | 3            |
 | [1157](https://leetcode-cn.com/problems/online-majority-element-in-subarray/) | [子数组中占绝大多数的元素](https://github.com/zywaited/leetcode/tree/master/1151_1200/1157/) | 2            |
 | [1163](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order/) | [按字典序排在最后的子串](https://github.com/zywaited/leetcode/tree/master/1151_1200/1163/) | 2            |
