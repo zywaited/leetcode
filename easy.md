@@ -27,6 +27,7 @@
 | [125](https://leetcode-cn.com/problems/valid-palindrome/)    | [验证回文串](https://github.com/zywaited/leetcode/tree/master/101_150/125/) | 1            |
 | [136](https://leetcode-cn.com/problems/single-number)        | [只出现一次的数字](https://github.com/zywaited/leetcode/tree/master/101_150/136/) | 1            |
 | [155](https://leetcode-cn.com/problems/min-stack/)           | [最小栈](https://github.com/zywaited/leetcode/tree/master/151_200/155/) | 2            |
+| [167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [两数之和 II - 输入有序数组](https://github.com/zywaited/leetcode/tree/master/151_200/167/) | 1            |
 | [169](https://leetcode-cn.com/problems/majority-element)     | [求众数](https://github.com/zywaited/leetcode/tree/master/151_200/169/) | 1            |
 | [190](https://leetcode-cn.com/problems/reverse-bits)         | [颠倒二进制位](https://github.com/zywaited/leetcode/tree/master/151_200/190/) | 1            |
 | [191](https://leetcode-cn.com/problems/number-of-1-bits)     | [位1的个数](https://github.com/zywaited/leetcode/tree/master/151_200/191/) | 1            |
