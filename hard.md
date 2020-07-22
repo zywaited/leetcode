@@ -29,6 +29,7 @@
 | [135](https://leetcode-cn.com/problems/candy/)               | [分发糖果](https://github.com/zywaited/leetcode/tree/master/101_150/135/) | 1            |
 | [145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [二叉树的后序遍历](https://github.com/zywaited/leetcode/tree/master/101_150/145/) | 3            |
 | [149](https://leetcode-cn.com/problems/max-points-on-a-line/) | [直线上最多的点数](https://github.com/zywaited/leetcode/tree/master/101_150/149/) | 1            |
+| [154](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [寻找旋转排序数组中的最小值 II](https://github.com/zywaited/leetcode/tree/master/101_150/154/) | 2            |
 | [174](https://leetcode-cn.com/problems/dungeon-game/)        | [地下城游戏](https://github.com/zywaited/leetcode/tree/master/151_200/174/) | 2            |
 | [188](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | [买卖股票的最佳时机 IV](https://github.com/zywaited/leetcode/tree/master/151_200/188/) | 1            |
 | [212](https://leetcode-cn.com/problems/word-search-ii)       | [单词搜索 II](https://github.com/zywaited/leetcode/tree/master/201_250/212/) | 1            |
