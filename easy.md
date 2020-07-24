@@ -60,6 +60,7 @@
 | [994](https://leetcode-cn.com/problems/rotting-oranges/)     | [腐烂的橘子](https://github.com/zywaited/leetcode/tree/master/951_1000/994/) | 1            |
 | [999](https://leetcode-cn.com/problems/available-captures-for-rook/) | [车的可用捕获量](https://github.com/zywaited/leetcode/tree/master/951_1000/999/) | 1            |
 | [1013](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) | [将数组分成和相等的三个部分](https://github.com/zywaited/leetcode/tree/master/1001_1050/1013/) | 1            |
+| [1025](https://leetcode-cn.com/problems/divisor-game/)       | [除数博弈](https://github.com/zywaited/leetcode/tree/master/1001_1050/1025/) | 2            |
 | [1033](https://leetcode-cn.com/problems/moving-stones-until-consecutive/) | [移动石子直到连续](https://github.com/zywaited/leetcode/tree/master/1001_1050/1033/) | 1            |
 | [1071](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/) | [字符串的最大公因子](https://github.com/zywaited/leetcode/tree/master/1051_1100/1071/) | 1            |
 | [1103](https://leetcode-cn.com/problems/distribute-candies-to-people/) | [分糖果 II](https://github.com/zywaited/leetcode/tree/master/1101_1150/1103/) | 1            |
