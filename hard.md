@@ -43,6 +43,7 @@
 | [315](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | [计算右侧小于当前元素的个数](https://github.com/zywaited/leetcode/tree/master/301_350/315/) | 1            |
 | [316](https://leetcode-cn.com/problems/remove-duplicate-letters/) | [去除重复字母](https://github.com/zywaited/leetcode/tree/master/301_350/316/) | 1            |
 | [321](https://leetcode-cn.com/problems/create-maximum-number/) | [拼接最大数](https://github.com/zywaited/leetcode/tree/master/301_350/321/) | 1            |
+| [329](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/) | [矩阵中的最长递增路径](https://github.com/zywaited/leetcode/tree/master/301_350/329/) | 1            |
 | [330](https://leetcode-cn.com/problems/patching-array/)      | [按要求补齐数组](https://github.com/zywaited/leetcode/tree/master/301_350/330/) | 1            |
 | [407](https://leetcode-cn.com/problems/trapping-rain-water-ii/) | [接雨水 II](https://github.com/zywaited/leetcode/tree/master/401_450/407/) | 1            |
 | [410](https://leetcode-cn.com/problems/split-array-largest-sum/) | [分割数组的最大值](https://github.com/zywaited/leetcode/tree/master/401_450/410/) | 1            |
