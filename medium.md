@@ -112,6 +112,7 @@
 | [556](https://leetcode-cn.com/problems/next-greater-element-iii/) | [下一个更大元素 III](https://github.com/zywaited/leetcode/tree/master/551_600/556/) | 1              |
 | [560](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [和为k的子数组](https://github.com/zywaited/leetcode/tree/master/551_600/560/) | 1              |
 | [567](https://leetcode-cn.com/problems/permutation-in-string/) | [字符串的排列](https://github.com/zywaited/leetcode/tree/master/551_600/567/) | 2              |
+| [673](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | [最长递增子序列的个数](https://github.com/zywaited/leetcode/tree/master/651_700/673/) | 1              |
 | [695](https://leetcode-cn.com/problems/max-area-of-island/)  | [岛屿的最大面积](https://github.com/zywaited/leetcode/tree/master/651_700/695/) | 1              |
 | [698](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) | [划分为k个相等的子集](https://github.com/zywaited/leetcode/tree/master/651_700/698) | 1              |
 | [714](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [买卖股票的最佳时机含手续费](https://github.com/zywaited/leetcode/tree/master/701_750/714/) | 1              |
