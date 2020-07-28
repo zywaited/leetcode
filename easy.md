@@ -19,6 +19,7 @@
 | [70](https://leetcode-cn.com/problems/climbing-stairs/)      | [爬楼梯](https://github.com/zywaited/leetcode/tree/master/51_100/70/) | 3            |
 | [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [删除排序链表中的重复元素](https://github.com/zywaited/leetcode/tree/master/51_100/83/) | 1            |
 | [101](https://leetcode-cn.com/problems/symmetric-tree/)      | [对称二叉树](https://github.com/zywaited/leetcode/tree/master/101_150/101/) | 1            |
+| [104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [二叉树的最大深度](https://github.com/zywaited/leetcode/tree/master/101_150/104/) | 1            |
 | [108](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [将有序数组转换为二叉搜索树](https://github.com/zywaited/leetcode/tree/master/101_150/108/) | 1            |
 | [110](https://leetcode-cn.com/problems/balanced-binary-tree) | [平衡二叉树](https://github.com/zywaited/leetcode/tree/master/101_150/110/) | 1            |
 | [112](https://leetcode-cn.com/problems/path-sum/)            | [路径总和](https://github.com/zywaited/leetcode/tree/master/101_150/112/) | 1            |
@@ -44,6 +45,7 @@
 | [349](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [两个数组的交集](https://github.com/zywaited/leetcode/tree/master/301_350/349/) | 1            |
 | [350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [两个数组的交集 II](https://github.com/zywaited/leetcode/tree/master/301_350/350/) | 1            |
 | [389](https://leetcode-cn.com/problems/find-the-difference)  | [找不同](https://github.com/zywaited/leetcode/tree/master/351_400/389/) | 2            |
+| [392](https://leetcode-cn.com/problems/is-subsequence/)      | [判断子序列](https://github.com/zywaited/leetcode/tree/master/351_400/392/) | 2            |
 | [409](https://leetcode-cn.com/problems/longest-palindrome/)  | [最长回文串](https://github.com/zywaited/leetcode/tree/master/401_450/409/) | 2            |
 | [415](https://leetcode-cn.com/problems/add-strings/)         | [字符串相加](https://github.com/zywaited/leetcode/tree/master/401_450/415/) | 1            |
 | [437](https://leetcode-cn.com/problems/path-sum-iii/)        | [路径总和 III](https://github.com/zywaited/leetcode/tree/master/401_450/437/) | 1            |
