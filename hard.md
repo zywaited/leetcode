@@ -52,6 +52,7 @@
 | [460](https://leetcode-cn.com/problems/lfu-cache/)           | [LFU缓存](https://github.com/zywaited/leetcode/tree/master/451_500/460/) | 1            |
 | [466](https://leetcode-cn.com/problems/count-the-repetitions/) | [统计重复个数](https://github.com/zywaited/leetcode/tree/master/451_500/466/) | 1            |
 | [630](https://leetcode-cn.com/problems/course-schedule-iii/) | [课程表 III](https://github.com/zywaited/leetcode/tree/master/601_650/630/) | 1            |
+| [632](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists/) | [最小区间](https://github.com/zywaited/leetcode/tree/master/601_650/632/) | 1            |
 | [639](https://leetcode-cn.com/problems/decode-ways-ii/)      | [解码方法 2](https://github.com/zywaited/leetcode/tree/master/601_650/639/) | 1            |
 | [749](https://leetcode-cn.com/problems/contain-virus/)       | [隔离病毒](https://github.com/zywaited/leetcode/tree/master/701_750/749/) | 1            |
 | [862](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k/) | [和至少为 K 的最短子数组](https://github.com/zywaited/leetcode/tree/master/851_900/862/) | 1            |
