@@ -55,6 +55,7 @@
 | [103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [二叉树的锯齿形层次遍历](https://github.com/zywaited/leetcode/tree/master/101_150/103/) | 1              |
 | [105](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [从前序与中序遍历序列构造二叉树](https://github.com/zywaited/leetcode/tree/master/101_150/105/) | 1              |
 | [113](https://leetcode-cn.com/problems/path-sum-ii/)         | [路径总和 II](https://github.com/zywaited/leetcode/tree/master/101_150/113/) | 1              |
+| [114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [二叉树展开为链表](https://github.com/zywaited/leetcode/tree/master/101_150/114/) | 2              |
 | [116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [填充每个节点的下一个右侧节点指针](https://github.com/zywaited/leetcode/tree/master/101_150/116/) | 1              |
 | [117](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [填充每个节点的下一个右侧节点指针 II](https://github.com/zywaited/leetcode/tree/master/101_150/117/) | 1              |
 | [120](https://leetcode-cn.com/problems/triangle/)            | [三角形最小路径和](https://github.com/zywaited/leetcode/tree/master/101_150/120/) | 1              |
