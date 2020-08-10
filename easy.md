@@ -54,6 +54,7 @@
 | [572](https://leetcode-cn.com/problems/subtree-of-another-tree/) | [另一个树的子树](https://github.com/zywaited/leetcode/tree/master/551_600/572/) | 1            |
 | [575](https://leetcode-cn.com/problems/distribute-candies/)  | [分糖果](https://github.com/zywaited/leetcode/tree/master/551_600/575/) | 2            |
 | [680](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [验证回文字符串 Ⅱ](https://github.com/zywaited/leetcode/tree/master/651_700/680/) | 1            |
+| [696](https://leetcode-cn.com/problems/count-binary-substrings/) | [计数二进制子串](https://github.com/zywaited/leetcode/tree/master/651_700/696/) | 1            |
 | [836](https://leetcode-cn.com/problems/rectangle-overlap/)   | [矩形重叠](https://github.com/zywaited/leetcode/tree/master/801_850/836/) | 2            |
 | [876](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [链表的中间结点](https://github.com/zywaited/leetcode/tree/master/851_900/876/) | 2            |
 | [892](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) | [三维形体的表面积](https://github.com/zywaited/leetcode/tree/master/851_900/892/) | 1            |
