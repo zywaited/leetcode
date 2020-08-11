@@ -47,6 +47,7 @@
 | [90](https://leetcode-cn.com/problems/subsets-ii/)           | [子集 II](https://github.com/zywaited/leetcode/tree/master/51_100/90/) | 2              |
 | [91](https://leetcode-cn.com/problems/decode-ways/)          | [解码方法](https://github.com/zywaited/leetcode/tree/master/51_100/91/) | 1              |
 | [92](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [反转链表 II](https://github.com/zywaited/leetcode/tree/master/51_100/92/) | 1              |
+| [93](https://leetcode-cn.com/problems/restore-ip-addresses/) | [复原IP地址](https://github.com/zywaited/leetcode/tree/master/51_100/93/) | 1              |
 | [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [二叉树的中序遍历](https://github.com/zywaited/leetcode/tree/master/51_100/94/) | 2              |
 | [95](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [不同的二叉搜索树 II](https://github.com/zywaited/leetcode/tree/master/51_100/95/) | 1              |
 | [96](https://leetcode-cn.com/problems/triangle/)             | [不同的二叉搜索树](https://github.com/zywaited/leetcode/tree/master/51_100/96/) | 1              |
