@@ -113,6 +113,7 @@
 | [397](https://leetcode-cn.com/problems/integer-replacement)  | [整数替换](https://github.com/zywaited/leetcode/tree/master/351_400/397/) | 2              |
 | [416](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [分割等和子集](https://github.com/zywaited/leetcode/tree/master/401_450/416/) | 1              |
 | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/)  | [两数相加 II](https://github.com/zywaited/leetcode/tree/master/401_450/445/) | 2              |
+| [491](https://leetcode-cn.com/problems/increasing-subsequences/) | [递增子序列](https://github.com/zywaited/leetcode/tree/master/401_450/491/) | 1              |
 | [503](https://leetcode-cn.com/problems/next-greater-element-ii/) | [下一个更大元素 II](https://github.com/zywaited/leetcode/tree/master/501_550/503/) | 1              |
 | [529](https://leetcode-cn.com/problems/minesweeper/)         | [扫雷游戏](https://github.com/zywaited/leetcode/tree/master/501_550/529/) | 1              |
 | [542](https://leetcode-cn.com/problems/01-matrix/)           | [01 矩阵](https://github.com/zywaited/leetcode/tree/master/501_550/542/) | 2              |
