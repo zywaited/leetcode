@@ -131,6 +131,7 @@
 | [785](https://leetcode-cn.com/problems/is-graph-bipartite/)  | [判断二分图](https://github.com/zywaited/leetcode/tree/master/751_800/785/) | 1              |
 | [802](https://leetcode-cn.com/problems/find-eventual-safe-states/) | [找到最终的安全状态](https://github.com/zywaited/leetcode/tree/master/801_850/802) | 1              |
 | [820](https://leetcode-cn.com/problems/short-encoding-of-words/) | [单词的压缩编码](https://github.com/zywaited/leetcode/tree/master/801_850/820) | 3              |
+| [841](https://leetcode-cn.com/problems/keys-and-rooms/)      | [钥匙和房间](https://github.com/zywaited/leetcode/tree/master/801_850/841) | 1              |
 | [877](https://leetcode-cn.com/problems/stone-game/)          | [石子游戏](https://github.com/zywaited/leetcode/tree/master/851_900/877) | 2              |
 | [901](https://leetcode-cn.com/problems/online-stock-span/)   | [股票价格跨度](https://github.com/zywaited/leetcode/tree/master/901_950/901/) |                |
 | [939](https://leetcode-cn.com/problems/minimum-area-rectangle/) | [最小面积矩形](https://github.com/zywaited/leetcode/tree/master/901_950/939/) | 2              |
