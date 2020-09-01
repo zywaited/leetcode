@@ -87,6 +87,8 @@
 | [1411](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-x-3-grid/) | [给 N x 3 网格图涂色的方案数](https://github.com/zywaited/leetcode/tree/master/1401_1450/1411/) | 1            |
 | [1420](https://leetcode-cn.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [生成数组](https://github.com/zywaited/leetcode/tree/master/1401_1450/1420/) | 1            |
 | [1473](https://leetcode-cn.com/problems/paint-house-iii/)    | [给房子涂色 III](https://github.com/zywaited/leetcode/tree/master/1451_1500/1473/) | 1            |
+| [1510](https://leetcode-cn.com/problems/stone-game-iv/)      | [石子游戏 IV](https://github.com/zywaited/leetcode/tree/master/1501_1550/1510/) | 1            |
+| [1563](https://leetcode-cn.com/problems/stone-game-v/)       | [石子游戏 V](https://github.com/zywaited/leetcode/tree/master/1551_1600/1563/) | 1            |
 | [LCP4](https://leetcode-cn.com/problems/broken-board-dominoes/) | [ 覆盖](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/4/) | 1            |
 | [LCP5](https://leetcode-cn.com/problems/coin-bonus/)         | [发 LeetCoin](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/5/) | 1            |
 | [LCP9](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/) | [最小跳跃次数](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/9/) | 1            |
