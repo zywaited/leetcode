@@ -211,4 +211,5 @@
 | [Interview64](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [求1+2+…+n](https://github.com/zywaited/leetcode/tree/master/Interview/51_100/64/) | 1              |
 | [Offer12](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [矩阵中的路径](https://github.com/zywaited/leetcode/tree/master/Offer/1_50/12/) | 1              |
 | [Offer13](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [机器人的运动范围](https://github.com/zywaited/leetcode/tree/master/Offer/1_50/13/) | 1              |
+| [Offer20](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [表示数值的字符串](https://github.com/zywaited/leetcode/tree/master/Offer/1_50/20/) | 1              |
 | [Offer14.1](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [剪绳子](https://github.com/zywaited/leetcode/tree/master/Offer/1_50/14/1/) | 1              |
