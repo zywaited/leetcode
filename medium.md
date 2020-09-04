@@ -186,6 +186,7 @@
 | [1419](https://leetcode-cn.com/problems/minimum-number-of-frogs-croaking/) | [数青蛙](https://github.com/zywaited/leetcode/tree/master/1401_1450/1405/) | 1              |
 | [1471](https://leetcode-cn.com/problems/the-k-strongest-values-in-an-array/) | [数组中的 k 个最强值](https://github.com/zywaited/leetcode/tree/master/1451_1500/1471/) | 2              |
 | [1503](https://leetcode-cn.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | [所有蚂蚁掉下来前的最后一刻](https://github.com/zywaited/leetcode/tree/master/1501_1550/1503/) | 1              |
+| [1561](https://leetcode-cn.com/problems/maximum-number-of-coins-you-can-get/) | [你可以获得的最大硬币数目](https://github.com/zywaited/leetcode/tree/master/1551_1600/1561/) | 2            |
 | [1562](https://leetcode-cn.com/problems/find-latest-group-of-size-m/) | [查找大小为 M 的最新分组](https://github.com/zywaited/leetcode/tree/master/1551_1600/1562/) | 1              |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5301_5350/5341/) | 1              |
