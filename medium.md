@@ -139,6 +139,7 @@
 | [974](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | [和可被 K 整除的子数组](https://github.com/zywaited/leetcode/tree/master/951_1000/974/) | 1              |
 | [983](https://leetcode-cn.com/problems/minimum-cost-for-tickets/) | [最低票价](https://github.com/zywaited/leetcode/tree/master/951_1000/983/) | 1              |
 | [990](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/) | [等式方程的可满足性](https://github.com/zywaited/leetcode/tree/master/951_1000/990/) | 1              |
+| [1004](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [最大连续1的个数 III](https://github.com/zywaited/leetcode/tree/master/1001_1050/1004/) | 2 |
 | [1014](https://leetcode-cn.com/problems/best-sightseeing-pair/) | [最佳观光组合](https://github.com/zywaited/leetcode/tree/master/1001_1050/1014/) | 1              |
 | [1026](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/) | [节点与其祖先之间的最大差值](https://github.com/zywaited/leetcode/tree/master/1001_1050/1026/) | 1              |
 | [1027](https://leetcode-cn.com/problems/longest-arithmetic-sequence/) | [最长等差数列](https://github.com/zywaited/leetcode/tree/master/1001_1050/1027/) | 1              |
