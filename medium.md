@@ -56,6 +56,7 @@
 | [102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [二叉树的层次遍历](https://github.com/zywaited/leetcode/tree/master/101_150/102/) | 1              |
 | [103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [二叉树的锯齿形层次遍历](https://github.com/zywaited/leetcode/tree/master/101_150/103/) | 1              |
 | [105](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [从前序与中序遍历序列构造二叉树](https://github.com/zywaited/leetcode/tree/master/101_150/105/) | 1              |
+| [106](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [从中序与后序遍历序列构造二叉树](https://github.com/zywaited/leetcode/tree/master/101_150/106/) | 1 |
 | [109](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | [有序链表转换二叉搜索树](https://github.com/zywaited/leetcode/tree/master/101_150/109/) | 1              |
 | [113](https://leetcode-cn.com/problems/path-sum-ii/)         | [路径总和 II](https://github.com/zywaited/leetcode/tree/master/101_150/113/) | 1              |
 | [114](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [二叉树展开为链表](https://github.com/zywaited/leetcode/tree/master/101_150/114/) | 2              |
