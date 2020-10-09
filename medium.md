@@ -198,6 +198,7 @@
 | [LCP3](https://leetcode-cn.com/problems/programmable-robot/) | [ 机器人大冒险](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/3/) | 1              |
 | [LCP8](https://leetcode-cn.com/problems/ju-qing-hong-fa-shi-jian/) | [剧情触发时间](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/8/) | 1              |
 | [LCP12](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/) | [小张刷题计划](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/12/) | 1              |
+| [LCP19](https://leetcode-cn.com/problems/UlBDOe/) | [秋叶收藏集](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/19/) | 2 |
 | [Interview1.5](https://leetcode-cn.com/problems/one-away-lcci/) | [一次编辑](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/5/) | 1              |
 | [Interview1.8](https://leetcode-cn.com/problems/zero-matrix-lcci/) | [零矩阵](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/8/) | 1              |
 | [Interview3.5](https://leetcode-cn.com/problems/sort-of-stacks-lcci/) | [栈排序](https://github.com/zywaited/leetcode/tree/master/Interview/3_1_50/5/) | 1              |
