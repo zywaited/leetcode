@@ -74,6 +74,7 @@
 | [1337](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/) | [方阵中战斗力最弱的 K 行](https://github.com/zywaited/leetcode/tree/master/1301_1350/1337/) | 2            |
 | [1346](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist/) | [检查整数及其两倍数是否存在](https://github.com/zywaited/leetcode/tree/master/1301_1350/1346/) | 1            |
 | [1160](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [拼写单词](https://github.com/zywaited/leetcode/tree/master/1151_1200/1160/) | 1            |
+| [1365](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [有多少小于当前数字的数字](https://github.com/zywaited/leetcode/tree/master/1351_1400/1365/) | 2            |
 | [1374](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [生成每种字符都是奇数个的字符串](https://github.com/zywaited/leetcode/tree/master/1351_1400/1374/) | 1            |
 | [1380](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | [矩阵中的幸运数](https://github.com/zywaited/leetcode/tree/master/1351_1400/1380/) | 1            |
 | [1389](https://leetcode-cn.com/problems/create-target-array-in-the-given-order/) | [按既定顺序创建目标数组](https://github.com/zywaited/leetcode/tree/master/1351_1400/1389/) | 1            |
