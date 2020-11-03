@@ -64,6 +64,7 @@
 | [117](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [填充每个节点的下一个右侧节点指针 II](https://github.com/zywaited/leetcode/tree/master/101_150/117/) | 1              |
 | [120](https://leetcode-cn.com/problems/triangle/)            | [三角形最小路径和](https://github.com/zywaited/leetcode/tree/master/101_150/120/) | 1              |
 | [127](https://leetcode-cn.com/problems/word-ladder/)         | [单词接龙](https://github.com/zywaited/leetcode/tree/master/101_150/127/) | 1              |
+| [129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [求根到叶子节点数字之和](https://github.com/zywaited/leetcode/tree/master/101_150/129/) | 1 |
 | [130](https://leetcode-cn.com/problems/surrounded-regions/)  | [被围绕的区域](https://github.com/zywaited/leetcode/tree/master/101_150/130/) | 1              |
 | [131](https://leetcode-cn.com/problems/palindrome-partitioning/) | [分割回文串](https://github.com/zywaited/leetcode/tree/master/101_150/131/) | 3              |
 | [133](https://leetcode-cn.com/problems/clone-graph/)         | [克隆图](https://github.com/zywaited/leetcode/tree/master/101_150/133/) | 1              |
