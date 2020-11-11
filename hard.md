@@ -52,6 +52,7 @@
 | [458](https://leetcode-cn.com/problems/poor-pigs/)           | [可怜的小猪](https://github.com/zywaited/leetcode/tree/master/451_500/458/) | 1            |
 | [460](https://leetcode-cn.com/problems/lfu-cache/)           | [LFU缓存](https://github.com/zywaited/leetcode/tree/master/451_500/460/) | 1            |
 | [466](https://leetcode-cn.com/problems/count-the-repetitions/) | [统计重复个数](https://github.com/zywaited/leetcode/tree/master/451_500/466/) | 1            |
+| [514](https://leetcode-cn.com/problems/freedom-trail/)       | [自由之路](https://github.com/zywaited/leetcode/tree/master/501_550/514/) | 1            |
 | [630](https://leetcode-cn.com/problems/course-schedule-iii/) | [课程表 III](https://github.com/zywaited/leetcode/tree/master/601_650/630/) | 1            |
 | [632](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists/) | [最小区间](https://github.com/zywaited/leetcode/tree/master/601_650/632/) | 1            |
 | [639](https://leetcode-cn.com/problems/decode-ways-ii/)      | [解码方法 2](https://github.com/zywaited/leetcode/tree/master/601_650/639/) | 1            |
