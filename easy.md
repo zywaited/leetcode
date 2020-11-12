@@ -62,7 +62,9 @@
 | [836](https://leetcode-cn.com/problems/rectangle-overlap/)   | [矩形重叠](https://github.com/zywaited/leetcode/tree/master/801_850/836/) | 2            |
 | [876](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [链表的中间结点](https://github.com/zywaited/leetcode/tree/master/851_900/876/) | 2            |
 | [892](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) | [三维形体的表面积](https://github.com/zywaited/leetcode/tree/master/851_900/892/) | 1            |
+| [905](https://leetcode-cn.com/problems/sort-array-by-parity/) | [按奇偶排序数组](https://github.com/zywaited/leetcode/tree/master/901_950/905/) | 1            |
 | [914](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [卡牌分组](https://github.com/zywaited/leetcode/tree/master/901_950/914/) | 1            |
+| [922](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [按奇偶排序数组 II](https://github.com/zywaited/leetcode/tree/master/901_950/922/) | 2            |
 | [944](https://leetcode-cn.com/problems/delete-columns-to-make-sorted/) | [删列造序](https://github.com/zywaited/leetcode/tree/master/901_950/944/) | 1            |
 | [994](https://leetcode-cn.com/problems/rotting-oranges/)     | [腐烂的橘子](https://github.com/zywaited/leetcode/tree/master/951_1000/994/) | 1            |
 | [999](https://leetcode-cn.com/problems/available-captures-for-rook/) | [车的可用捕获量](https://github.com/zywaited/leetcode/tree/master/951_1000/999/) | 1            |
