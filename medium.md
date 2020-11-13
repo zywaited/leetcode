@@ -102,6 +102,7 @@
 | [309](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [最佳买卖股票时机含冷冻期](https://github.com/zywaited/leetcode/tree/master/301_350/309/) | 1              |
 | [319](https://leetcode-cn.com/problems/bulb-switcher/)       | [灯泡开关](https://github.com/zywaited/leetcode/tree/master/301_350/319/) | 1              |
 | [322](https://leetcode-cn.com/problems/coin-change/)         | [零钱兑换](https://github.com/zywaited/leetcode/tree/master/301_350/322/) | 1              |
+| [328](https://leetcode-cn.com/problems/odd-even-linked-list/) | [奇偶链表](https://github.com/zywaited/leetcode/tree/master/301_350/328/) | 1 |
 | [331](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [验证二叉树的前序序列化](https://github.com/zywaited/leetcode/tree/master/301_350/331/) | 2              |
 | [332](https://leetcode-cn.com/problems/reconstruct-itinerary/) | [332. 重新安排行程](https://github.com/zywaited/leetcode/tree/master/301_350/332/) | 1              |
 | [334](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) | [递增的三元子序列](https://github.com/zywaited/leetcode/tree/master/301_350/334/) | 1              |
