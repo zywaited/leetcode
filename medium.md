@@ -145,6 +145,7 @@
 | [826](https://leetcode-cn.com/problems/most-profit-assigning-work/) | [安排工作以达到最大收益](https://github.com/zywaited/leetcode/tree/master/801_850/826) | 1 |
 | [841](https://leetcode-cn.com/problems/keys-and-rooms/)      | [钥匙和房间](https://github.com/zywaited/leetcode/tree/master/801_850/841) | 1              |
 | [845](https://leetcode-cn.com/problems/longest-mountain-in-array/) | [数组中的最长山脉](https://github.com/zywaited/leetcode/tree/master/801_850/841/) | 1 |
+| [861](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [翻转矩阵后的得分](https://github.com/zywaited/leetcode/tree/master/851_900/861/) | 2 |
 | [877](https://leetcode-cn.com/problems/stone-game/)          | [石子游戏](https://github.com/zywaited/leetcode/tree/master/851_900/877) | 2              |
 | [901](https://leetcode-cn.com/problems/online-stock-span/)   | [股票价格跨度](https://github.com/zywaited/leetcode/tree/master/901_950/901/) |                |
 | [939](https://leetcode-cn.com/problems/minimum-area-rectangle/) | [最小面积矩形](https://github.com/zywaited/leetcode/tree/master/901_950/939/) | 2              |
