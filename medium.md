@@ -130,6 +130,7 @@
 | [560](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [和为k的子数组](https://github.com/zywaited/leetcode/tree/master/551_600/560/) | 1              |
 | [567](https://leetcode-cn.com/problems/permutation-in-string/) | [字符串的排列](https://github.com/zywaited/leetcode/tree/master/551_600/567/) | 2              |
 | [647](https://leetcode-cn.com/problems/palindromic-substrings/) | [回文子串](https://github.com/zywaited/leetcode/tree/master/601_650/647/) | 1              |
+| [649](https://leetcode-cn.com/problems/dota2-senate/s) | [Dota2 参议院](https://github.com/zywaited/leetcode/tree/master/601_650/649/) | 1 |
 | [659](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/) | [分割数组为连续子序列](https://github.com/zywaited/leetcode/tree/master/651_700/659/) | 1 |
 | [621](https://leetcode-cn.com/problems/task-scheduler/) | [任务调度器](https://github.com/zywaited/leetcode/tree/master/651_700/621/) | 2 |
 | [673](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | [最长递增子序列的个数](https://github.com/zywaited/leetcode/tree/master/651_700/673/) | 1              |
