@@ -27,6 +27,7 @@
 | [46](https://leetcode-cn.com/problems/permutations/)         | [全排列](https://github.com/zywaited/leetcode/tree/master/1_50/46/) | 1              |
 | [47](https://leetcode-cn.com/problems/permutations-ii/)      | [全排列 II](https://github.com/zywaited/leetcode/tree/master/1_50/47/) | 1              |
 | [48](https://leetcode-cn.com/problems/rotate-image/)         | [旋转图像](https://github.com/zywaited/leetcode/tree/master/1_50/48/) | 1              |
+| [49](https://leetcode-cn.com/problems/group-anagrams/) | [字母异位词分组](https://github.com/zywaited/leetcode/tree/master/1_50/49/) | 1 |
 | [50](https://leetcode-cn.com/problems/powx-n)                | [Pow(x, n)](https://github.com/zywaited/leetcode/tree/master/1_50/50/) | 1              |
 | [54](https://leetcode-cn.com/problems/spiral-matrix/)        | [螺旋矩阵](https://github.com/zywaited/leetcode/tree/master/51_100/54/) | 1              |
 | [55](https://leetcode-cn.com/problems/jump-game/)            | [跳跃游戏](https://github.com/zywaited/leetcode/tree/master/51_100/55/) | 4              |
@@ -111,6 +112,7 @@
 | [347](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [前 K 个高频元素](https://github.com/zywaited/leetcode/tree/master/301_350/347/) | 2              |
 | [355](https://leetcode-cn.com/problems/design-twitter/)      | [设计推特](https://github.com/zywaited/leetcode/tree/master/351_400/355/) | 1              |
 | [365](https://leetcode-cn.com/problems/water-and-jug-problem/) | [水壶问题](https://github.com/zywaited/leetcode/tree/master/351_400/365/) | 2              |
+| [376](https://leetcode-cn.com/problems/wiggle-subsequence/) | [摆动序列](https://github.com/zywaited/leetcode/tree/master/351_400/376/) | 1 |
 | [377](https://leetcode-cn.com/problems/combination-sum-iv/)  | [组合总和 Ⅳ](https://github.com/zywaited/leetcode/tree/master/351_400/377/) | 2              |
 | [378](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [有序矩阵中第K小的元素](https://github.com/zywaited/leetcode/tree/master/351_400/378/) | 1              |
 | [394](https://leetcode-cn.com/problems/decode-string/)       | [字符串解码](https://github.com/zywaited/leetcode/tree/master/351_400/394/) | 1              |
