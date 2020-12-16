@@ -42,6 +42,7 @@
 | [263](https://leetcode-cn.com/problems/ugly-number/)         | [丑数](https://github.com/zywaited/leetcode/tree/master/251_300/263/) | 1            |
 | [268](https://leetcode-cn.com/problems/missing-number)       | [缺失数字](https://github.com/zywaited/leetcode/tree/master/251_300/268/) | 2            |
 | [283](https://leetcode-cn.com/problems/move-zeroes/)         | [移动零](https://github.com/zywaited/leetcode/tree/master/251_300/283/) | 2            |
+| [290](https://leetcode-cn.com/problems/word-pattern/)        | [单词规律](https://github.com/zywaited/leetcode/tree/master/251_300/290/) | 1            |
 | [342](https://leetcode-cn.com/problems/power-of-four)        | [4的幂](https://github.com/zywaited/leetcode/tree/master/301_350/342/) | 1            |
 | [349](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [两个数组的交集](https://github.com/zywaited/leetcode/tree/master/301_350/349/) | 1            |
 | [350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [两个数组的交集 II](https://github.com/zywaited/leetcode/tree/master/301_350/350/) | 1            |
