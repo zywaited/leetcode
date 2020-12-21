@@ -60,6 +60,7 @@
 | [680](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [验证回文字符串 Ⅱ](https://github.com/zywaited/leetcode/tree/master/651_700/680/) | 1            |
 | [696](https://leetcode-cn.com/problems/count-binary-substrings/) | [计数二进制子串](https://github.com/zywaited/leetcode/tree/master/651_700/696/) | 1            |
 | [733](https://leetcode-cn.com/problems/flood-fill/)          | [图像渲染](https://github.com/zywaited/leetcode/tree/master/651_700/733/) | 1            |
+| [746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [使用最小花费爬楼梯](https://github.com/zywaited/leetcode/tree/master/651_700/746/) | 1            |
 | [836](https://leetcode-cn.com/problems/rectangle-overlap/)   | [矩形重叠](https://github.com/zywaited/leetcode/tree/master/801_850/836/) | 2            |
 | [860](https://leetcode-cn.com/problems/lemonade-change/)     | [柠檬水找零](https://github.com/zywaited/leetcode/tree/master/851_900/860/) | 1            |
 | [876](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [链表的中间结点](https://github.com/zywaited/leetcode/tree/master/851_900/876/) | 2            |
