@@ -1,13 +1,16 @@
 package one
 
 func Rotate(nums []int, k int) {
-	if len(nums) > 0 {
-		i := 0
-		tmp := nums[0]
-		for (i+k)%len(nums) > 0 {
-			i = (i + k) % len(nums)
-			nums[i], tmp = tmp, nums[i]
+	num := 0
+	for i := 0; i < k && num < len(nums); i++ {
+		j := i
+		tmp := nums[j]
+		for (j+k)%len(nums) != i {
+			j = (j + k) % len(nums)
+			nums[j], tmp = tmp, nums[j]
+			num++
 		}
-		nums[0] = tmp
+		nums[i] = tmp
+		num++
 	}
 }

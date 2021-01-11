@@ -181,6 +181,7 @@
 | [1162](https://leetcode-cn.com/problems/as-far-from-land-as-possible/) | [地图分析](https://github.com/zywaited/leetcode/tree/master/1151_1200/1162/) | 2              |
 | [1171](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [从链表中删去总和值为零的连续节点](https://github.com/zywaited/leetcode/tree/master/1151_1200/1171/) | 1              |
 | [1186](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion/) | [删除一次得到子数组最大和](https://github.com/zywaited/leetcode/tree/master/1151_1200/1186/) | 1              |
+| [1202](https://leetcode-cn.com/problems/smallest-string-with-swaps/) | [交换字符串中的元素](https://github.com/zywaited/leetcode/tree/master/1201_1250/1202/) | 1 |
 | [1223](https://leetcode-cn.com/problems/dice-roll-simulation/) | [掷骰子模拟](https://github.com/zywaited/leetcode/tree/master/1201_1250/1223/) | 1              |
 | [1248](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/) | [统计「优美子数组」](https://github.com/zywaited/leetcode/tree/master/1201_1250/1248/) | 2              |
 | [1249](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/) | [移除无效的括号](https://github.com/zywaited/leetcode/tree/master/1201_1250/1249/) | 1              |
