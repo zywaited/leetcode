@@ -77,6 +77,7 @@
 | [1163](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order/) | [按字典序排在最后的子串](https://github.com/zywaited/leetcode/tree/master/1151_1200/1163/) | 2            |
 | [1178](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/) | [猜字谜](https://github.com/zywaited/leetcode/tree/master/1151_1200/1178/) | 1            |
 | [1187](https://leetcode-cn.com/problems/make-array-strictly-increasing/) | [使数组严格递增](https://github.com/zywaited/leetcode/tree/master/1151_1200/1187/) | 1            |
+| [1203](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) | [项目管理](https://github.com/zywaited/leetcode/tree/master/1201_1250/1203/) | 1            |
 | [1210](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-with-rotations/) | [穿过迷宫的最少移动次数](https://github.com/zywaited/leetcode/tree/master/1201_1250/1210/) | 2            |
 | [1220](https://leetcode-cn.com/problems/count-vowels-permutation/) | [统计元音字母序列的数目](https://github.com/zywaited/leetcode/tree/master/1201_1250/1220/) | 2            |
 | [1278](https://leetcode-cn.com/problems/palindrome-partitioning-iii/) | [分割回文串 III](https://github.com/zywaited/leetcode/tree/master/1278_1300/1278/) | 1            |
