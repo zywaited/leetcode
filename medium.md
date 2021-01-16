@@ -161,6 +161,7 @@
 | [901](https://leetcode-cn.com/problems/online-stock-span/)   | [股票价格跨度](https://github.com/zywaited/leetcode/tree/master/901_950/901/) |                |
 | [939](https://leetcode-cn.com/problems/minimum-area-rectangle/) | [最小面积矩形](https://github.com/zywaited/leetcode/tree/master/901_950/939/) | 2              |
 | [945](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/) | [使数组唯一的最小增量](https://github.com/zywaited/leetcode/tree/master/901_950/945/) | 2              |
+| [947](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/) | [移除最多的同行或同列石头](https://github.com/zywaited/leetcode/tree/master/901_950/947/) | 2 |
 | [973](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [最接近原点的 K 个点](https://github.com/zywaited/leetcode/tree/master/951_1000/973/) | 1 |
 | [974](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | [和可被 K 整除的子数组](https://github.com/zywaited/leetcode/tree/master/951_1000/974/) | 1              |
 | [983](https://leetcode-cn.com/problems/minimum-cost-for-tickets/) | [最低票价](https://github.com/zywaited/leetcode/tree/master/951_1000/983/) | 1              |
