@@ -94,6 +94,7 @@
 | [1411](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-x-3-grid/) | [给 N x 3 网格图涂色的方案数](https://github.com/zywaited/leetcode/tree/master/1401_1450/1411/) | 1            |
 | [1420](https://leetcode-cn.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [生成数组](https://github.com/zywaited/leetcode/tree/master/1401_1450/1420/) | 1            |
 | [1473](https://leetcode-cn.com/problems/paint-house-iii/)    | [给房子涂色 III](https://github.com/zywaited/leetcode/tree/master/1451_1500/1473/) | 1            |
+| [1489](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [找到最小生成树里的关键边和伪关键边](https://github.com/zywaited/leetcode/tree/master/1451_1500/1489/) | 1            |
 | [1510](https://leetcode-cn.com/problems/stone-game-iv/)      | [石子游戏 IV](https://github.com/zywaited/leetcode/tree/master/1501_1550/1510/) | 1            |
 | [1547](https://leetcode-cn.com/problems/minimum-cost-to-cut-a-stick/) | [切棍子的最小成本](https://github.com/zywaited/leetcode/tree/master/1501_1550/1547/) | 1            |
 | [1553](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [吃掉 N 个橘子的最少天数](https://github.com/zywaited/leetcode/tree/master/1551_1600/1553/) | 1            |
