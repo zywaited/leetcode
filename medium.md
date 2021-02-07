@@ -217,6 +217,7 @@
 | [1410](https://leetcode-cn.com/problems/html-entity-parser/) | [HTML 实体解析器](https://github.com/zywaited/leetcode/tree/master/1401_1450/1410/) | 1              |
 | [1418](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/) | [点菜展示表](https://github.com/zywaited/leetcode/tree/master/1401_1450/1418/) | 1              |
 | [1419](https://leetcode-cn.com/problems/minimum-number-of-frogs-croaking/) | [数青蛙](https://github.com/zywaited/leetcode/tree/master/1401_1450/1405/) | 1              |
+| [1423](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/) | [可获得的最大点数](https://github.com/zywaited/leetcode/tree/master/1401_1450/1423/) | 1 |
 | [1471](https://leetcode-cn.com/problems/the-k-strongest-values-in-an-array/) | [数组中的 k 个最强值](https://github.com/zywaited/leetcode/tree/master/1451_1500/1471/) | 2              |
 | [1503](https://leetcode-cn.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | [所有蚂蚁掉下来前的最后一刻](https://github.com/zywaited/leetcode/tree/master/1501_1550/1503/) | 1              |
 | [1551](https://leetcode-cn.com/problems/minimum-operations-to-make-array-equal/) | [使数组中所有元素相等的最小操作数](https://github.com/zywaited/leetcode/tree/master/1551_1600/1551/) | 1 |
