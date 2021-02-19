@@ -68,6 +68,7 @@
 | [928](https://leetcode-cn.com/problems/minimize-malware-spread-ii/) | [尽量减少恶意软件的传播 II](https://github.com/zywaited/leetcode/tree/master/901_950/928/) | 1            |
 | [968](https://leetcode-cn.com/problems/binary-tree-cameras/) | [监控二叉树](https://github.com/zywaited/leetcode/tree/master/951_1000/968/) | 1            |
 | [982](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/) | [按位与为零的三元组](https://github.com/zywaited/leetcode/tree/master/951_1000/982/) | 2            |
+| [992](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | [K 个不同整数的子数组](https://github.com/zywaited/leetcode/tree/master/951_1000/992/) | 1            |
 | [995](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [K 连续位的最小翻转次数](https://github.com/zywaited/leetcode/tree/master/951_1000/995/) | 1            |
 | [1012](https://leetcode-cn.com/problems/numbers-with-repeated-digits/) | [至少有 1 位重复的数字](https://github.com/zywaited/leetcode/tree/master/1001_1050/1012/) | 1            |
 | [1028](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) | [从先序遍历还原二叉树](https://github.com/zywaited/leetcode/tree/master/1001_1050/1028/) | 1            |
