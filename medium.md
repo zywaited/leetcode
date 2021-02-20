@@ -166,6 +166,7 @@
 | [947](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/) | [移除最多的同行或同列石头](https://github.com/zywaited/leetcode/tree/master/901_950/947/) | 2 |
 | [973](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [最接近原点的 K 个点](https://github.com/zywaited/leetcode/tree/master/951_1000/973/) | 1 |
 | [974](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/) | [和可被 K 整除的子数组](https://github.com/zywaited/leetcode/tree/master/951_1000/974/) | 1              |
+| [978](https://leetcode-cn.com/problems/longest-turbulent-subarray/) | [最长湍流子数组](https://github.com/zywaited/leetcode/tree/master/951_1000/978/) | 1 |
 | [983](https://leetcode-cn.com/problems/minimum-cost-for-tickets/) | [最低票价](https://github.com/zywaited/leetcode/tree/master/951_1000/983/) | 1              |
 | [990](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/) | [等式方程的可满足性](https://github.com/zywaited/leetcode/tree/master/951_1000/990/) | 1              |
 | [1004](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [最大连续1的个数 III](https://github.com/zywaited/leetcode/tree/master/1001_1050/1004/) | 2 |
