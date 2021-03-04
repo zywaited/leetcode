@@ -47,6 +47,7 @@
 | [329](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/) | [矩阵中的最长递增路径](https://github.com/zywaited/leetcode/tree/master/301_350/329/) | 1            |
 | [330](https://leetcode-cn.com/problems/patching-array/)      | [按要求补齐数组](https://github.com/zywaited/leetcode/tree/master/301_350/330/) | 1            |
 | [336](https://leetcode-cn.com/problems/palindrome-pairs/)    | [回文对](https://github.com/zywaited/leetcode/tree/master/301_350/336/) | 1            |
+| [354](https://leetcode-cn.com/problems/russian-doll-envelopes/) | [俄罗斯套娃信封问题](https://github.com/zywaited/leetcode/tree/master/301_350/354/) | 2            |
 | [407](https://leetcode-cn.com/problems/trapping-rain-water-ii/) | [接雨水 II](https://github.com/zywaited/leetcode/tree/master/401_450/407/) | 1            |
 | [410](https://leetcode-cn.com/problems/split-array-largest-sum/) | [分割数组的最大值](https://github.com/zywaited/leetcode/tree/master/401_450/410/) | 1            |
 | [432](https://leetcode-cn.com/problems/all-oone-data-structure/) | [全 O(1) 的数据结构](https://github.com/zywaited/leetcode/tree/master/401_450/432/) | 1            |
