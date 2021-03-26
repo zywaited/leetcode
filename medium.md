@@ -172,6 +172,7 @@
 | [990](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/) | [等式方程的可满足性](https://github.com/zywaited/leetcode/tree/master/951_1000/990/) | 1              |
 | [1004](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [最大连续1的个数 III](https://github.com/zywaited/leetcode/tree/master/1001_1050/1004/) | 2 |
 | [1014](https://leetcode-cn.com/problems/best-sightseeing-pair/) | [最佳观光组合](https://github.com/zywaited/leetcode/tree/master/1001_1050/1014/) | 1              |
+| [1717](https://leetcode-cn.com/problems/maximum-score-from-removing-substrings/) | [删除子字符串的最大得分](https://github.com/zywaited/leetcode/tree/master/1001_1050/1017/) | 1 |
 | [1026](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/) | [节点与其祖先之间的最大差值](https://github.com/zywaited/leetcode/tree/master/1001_1050/1026/) | 1              |
 | [1027](https://leetcode-cn.com/problems/longest-arithmetic-sequence/) | [最长等差数列](https://github.com/zywaited/leetcode/tree/master/1001_1050/1027/) | 1              |
 | [1034](https://leetcode-cn.com/problems/coloring-a-border/)  | [边框着色](https://github.com/zywaited/leetcode/tree/master/1001_1050/1034/) | 1              |
