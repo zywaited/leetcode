@@ -134,6 +134,7 @@
 | [491](https://leetcode-cn.com/problems/increasing-subsequences/) | [递增子序列](https://github.com/zywaited/leetcode/tree/master/401_450/491/) | 1              |
 | [503](https://leetcode-cn.com/problems/next-greater-element-ii/) | [下一个更大元素 II](https://github.com/zywaited/leetcode/tree/master/501_550/503/) | 1              |
 | [529](https://leetcode-cn.com/problems/minesweeper/)         | [扫雷游戏](https://github.com/zywaited/leetcode/tree/master/501_550/529/) | 1              |
+| [538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [把二叉搜索树转换为累加树](https://github.com/zywaited/leetcode/tree/master/501_550/538/) | 1 |
 | [542](https://leetcode-cn.com/problems/01-matrix/)           | [01 矩阵](https://github.com/zywaited/leetcode/tree/master/501_550/542/) | 2              |
 | [556](https://leetcode-cn.com/problems/next-greater-element-iii/) | [下一个更大元素 III](https://github.com/zywaited/leetcode/tree/master/551_600/556/) | 1              |
 | [560](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [和为k的子数组](https://github.com/zywaited/leetcode/tree/master/551_600/560/) | 1              |
