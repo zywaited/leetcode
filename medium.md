@@ -80,6 +80,7 @@
 | [150](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [逆波兰表达式求值](https://github.com/zywaited/leetcode/tree/master/101_150/150/) | 1              |
 | [151](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [翻转字符串里的单词](https://github.com/zywaited/leetcode/tree/master/151_200/151/) | 1              |
 | [152](https://leetcode-cn.com/problems/maximum-product-subarray/) | [乘积最大子数组](https://github.com/zywaited/leetcode/tree/master/151_200/152/) | 1              |
+| [153](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [寻找旋转排序数组中的最小值](https://github.com/zywaited/leetcode/tree/master/151_200/153/) | 1 |
 | [179](https://leetcode-cn.com/problems/largest-number/)      | [最大数](https://github.com/zywaited/leetcode/tree/master/151_200/179/) | 1              |
 | [189](https://leetcode-cn.com/problems/rotate-array/) | [旋转数组](https://github.com/zywaited/leetcode/tree/master/151_200/189/) | 1 |
 | [199](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [二叉树的右视图](https://github.com/zywaited/leetcode/tree/master/151_200/199/) | 1              |
