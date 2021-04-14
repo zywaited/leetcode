@@ -231,6 +231,7 @@
 | [1519](https://leetcode-cn.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | [子树中标签相同的节点数](https://github.com/zywaited/leetcode/tree/master/1501_1550/1519/) | 1 |
 | [1535](https://leetcode-cn.com/problems/find-the-winner-of-an-array-game/) | [找出数组游戏的赢家](https://github.com/zywaited/leetcode/tree/master/1501_1550/1535/) | 1 |
 | [1536](https://leetcode-cn.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | [排布二进制网格的最少交换次数](https://github.com/zywaited/leetcode/tree/master/1501_1550/1536/) | 1 |
+| [1545](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [找出第 N 个二进制字符串中的第 K 位](https://github.com/zywaited/leetcode/tree/master/1501_1550/1536/) | 2 |
 | [1551](https://leetcode-cn.com/problems/minimum-operations-to-make-array-equal/) | [使数组中所有元素相等的最小操作数](https://github.com/zywaited/leetcode/tree/master/1551_1600/1551/) | 1 |
 | [1552](https://leetcode-cn.com/problems/magnetic-force-between-two-balls/) | [两球之间的磁力](https://github.com/zywaited/leetcode/tree/master/1551_1600/1552/) | 1 |
 | [1561](https://leetcode-cn.com/problems/maximum-number-of-coins-you-can-get/) | [你可以获得的最大硬币数目](https://github.com/zywaited/leetcode/tree/master/1551_1600/1561/) | 2            |
