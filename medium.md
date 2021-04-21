@@ -238,6 +238,7 @@
 | [1562](https://leetcode-cn.com/problems/find-latest-group-of-size-m/) | [查找大小为 M 的最新分组](https://github.com/zywaited/leetcode/tree/master/1551_1600/1562/) | 1              |
 | [1578](https://leetcode-cn.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/) | [避免重复字母的最小删除成本](https://github.com/zywaited/leetcode/tree/master/1551_1600/1578/) | 1 |
 | [1584](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/) | [连接所有点的最小费用](https://github.com/zywaited/leetcode/tree/master/1551_1600/1584/) | 1 |
+| [1615](https://leetcode-cn.com/problems/maximal-network-rank/) | [最大网络秩](https://github.com/zywaited/leetcode/tree/master/1601_1650/1615/) | 1 |
 | [1679](https://leetcode-cn.com/problems/max-number-of-k-sum-pairs/) | [K 和数对的最大数目](https://github.com/zywaited/leetcode/tree/master/1651_1700/1679/) | 1 |
 | [1680](https://leetcode-cn.com/problems/concatenation-of-consecutive-binary-numbers/) | [连接连续二进制数字](https://github.com/zywaited/leetcode/tree/master/1651_1700/1680/) | 1 |
 | [1690](https://leetcode-cn.com/problems/stone-game-vii/) | [石子游戏 VII](https://github.com/zywaited/leetcode/tree/master/1651_1700/1690/) | 1 |
