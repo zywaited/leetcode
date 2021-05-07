@@ -154,6 +154,7 @@
 | [721](https://leetcode-cn.com/problems/accounts-merge/) | [账户合并](https://github.com/zywaited/leetcode/tree/master/701_750/721/) | 1 |
 | [738](https://leetcode-cn.com/problems/monotone-increasing-digits/) | [738. 单调递增的数字](https://github.com/zywaited/leetcode/tree/master/701_750/738/) | 1 |
 | [739](https://leetcode-cn.com/problems/daily-temperatures/)  | [每日温度](https://github.com/zywaited/leetcode/tree/master/701_750/739/) | 2              |
+| [740](https://leetcode-cn.com/problems/delete-and-earn/) | [删除并获得点数](https://github.com/zywaited/leetcode/tree/master/701_750/740/) | 1 |
 | [767](https://leetcode-cn.com/problems/reorganize-string/) | [重构字符串](https://github.com/zywaited/leetcode/tree/master/751_800/767/) | 1 |
 | [781](https://leetcode-cn.com/problems/rabbits-in-forest/) | [森林中的兔子](https://github.com/zywaited/leetcode/tree/master/751_800/781/) | 1 |
 | [785](https://leetcode-cn.com/problems/is-graph-bipartite/)  | [判断二分图](https://github.com/zywaited/leetcode/tree/master/751_800/785/) | 1              |
