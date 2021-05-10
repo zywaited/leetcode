@@ -230,6 +230,7 @@
 | [1419](https://leetcode-cn.com/problems/minimum-number-of-frogs-croaking/) | [数青蛙](https://github.com/zywaited/leetcode/tree/master/1401_1450/1405/) | 1              |
 | [1423](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/) | [可获得的最大点数](https://github.com/zywaited/leetcode/tree/master/1401_1450/1423/) | 1 |
 | [1471](https://leetcode-cn.com/problems/the-k-strongest-values-in-an-array/) | [数组中的 k 个最强值](https://github.com/zywaited/leetcode/tree/master/1451_1500/1471/) | 2              |
+| [1482](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [制作 m 束花所需的最少天数](https://github.com/zywaited/leetcode/tree/master/1451_1500/1482/) | 1 |
 | [1503](https://leetcode-cn.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | [所有蚂蚁掉下来前的最后一刻](https://github.com/zywaited/leetcode/tree/master/1501_1550/1503/) | 1              |
 | [1519](https://leetcode-cn.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | [子树中标签相同的节点数](https://github.com/zywaited/leetcode/tree/master/1501_1550/1519/) | 1 |
 | [1535](https://leetcode-cn.com/problems/find-the-winner-of-an-array-game/) | [找出数组游戏的赢家](https://github.com/zywaited/leetcode/tree/master/1501_1550/1535/) | 1 |

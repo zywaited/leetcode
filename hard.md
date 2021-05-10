@@ -108,6 +108,7 @@
 | [1553](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [吃掉 N 个橘子的最少天数](https://github.com/zywaited/leetcode/tree/master/1551_1600/1553/) | 1            |
 | [1563](https://leetcode-cn.com/problems/stone-game-v/)       | [石子游戏 V](https://github.com/zywaited/leetcode/tree/master/1551_1600/1563/) | 1            |
 | [1579](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [保证图可完全遍历](https://github.com/zywaited/leetcode/tree/master/1551_1600/1579/) | 1            |
+| [1723](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | [完成所有工作的最短时间](https://github.com/zywaited/leetcode/tree/master/1701_1750/1723/) | 1            |
 | [LCP4](https://leetcode-cn.com/problems/broken-board-dominoes/) | [ 覆盖](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/4/) | 1            |
 | [LCP5](https://leetcode-cn.com/problems/coin-bonus/)         | [发 LeetCoin](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/5/) | 1            |
 | [LCP9](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/) | [最小跳跃次数](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/9/) | 1            |
