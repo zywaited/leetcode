@@ -204,6 +204,7 @@
 | [1262](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/) | [可被三整除的最大和](https://github.com/zywaited/leetcode/tree/master/1251_1300/1262/) | 1              |
 | [1300](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/) | [转变数组后最接近目标值的数组和](https://github.com/zywaited/leetcode/tree/master/1251_1300/1300/) | 1              |
 | [1306](https://leetcode-cn.com/problems/jump-game-iii/)      | [ 跳跃游戏 III](https://github.com/zywaited/leetcode/tree/master/1301_1350/1306/) | 1              |
+| [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [子数组异或查询](https://github.com/zywaited/leetcode/tree/master/1301_1350/1310/) | 1 |
 | [1319](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/) | [连通网络的操作次数](https://github.com/zywaited/leetcode/tree/master/1301_1350/1319/) | 1 |
 | [1338](https://leetcode-cn.com/problems/reduce-array-size-to-the-half/) | [数组大小减半](https://github.com/zywaited/leetcode/tree/master/1301_1350/1338/) | 1              |
 | [1339](https://leetcode-cn.com/problems/maximum-product-of-splitted-binary-tree/) | [分裂二叉树的最大乘积](https://github.com/zywaited/leetcode/tree/master/1301_1350/1339/) | 1              |
