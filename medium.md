@@ -259,6 +259,7 @@
 | [LCP12](https://leetcode-cn.com/problems/xiao-zhang-shua-ti-ji-hua/) | [小张刷题计划](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/12/) | 1              |
 | [LCP19](https://leetcode-cn.com/problems/UlBDOe/) | [秋叶收藏集](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/19/) | 2 |
 | [LCP23](https://leetcode-cn.com/problems/er94lq/) | [魔术排列](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/23/) | 1 |
+| [LCP34](https://leetcode-cn.com/problems/er-cha-shu-ran-se-UGC/) | [二叉树染色](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/34/) | 1 |
 | [Interview1.5](https://leetcode-cn.com/problems/one-away-lcci/) | [一次编辑](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/5/) | 1              |
 | [Interview1.8](https://leetcode-cn.com/problems/zero-matrix-lcci/) | [零矩阵](https://github.com/zywaited/leetcode/tree/master/Interview/1_1_9/8/) | 1              |
 | [Interview3.5](https://leetcode-cn.com/problems/sort-of-stacks-lcci/) | [栈排序](https://github.com/zywaited/leetcode/tree/master/Interview/3_1_50/5/) | 1              |
