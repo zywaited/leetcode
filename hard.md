@@ -87,6 +87,7 @@
 | [1203](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) | [项目管理](https://github.com/zywaited/leetcode/tree/master/1201_1250/1203/) | 1            |
 | [1210](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-with-rotations/) | [穿过迷宫的最少移动次数](https://github.com/zywaited/leetcode/tree/master/1201_1250/1210/) | 2            |
 | [1220](https://leetcode-cn.com/problems/count-vowels-permutation/) | [统计元音字母序列的数目](https://github.com/zywaited/leetcode/tree/master/1201_1250/1220/) | 2            |
+| [1269](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [停在原地的方案数](https://github.com/zywaited/leetcode/tree/master/1278_1300/1269/) | 1            |
 | [1278](https://leetcode-cn.com/problems/palindrome-partitioning-iii/) | [分割回文串 III](https://github.com/zywaited/leetcode/tree/master/1278_1300/1278/) | 1            |
 | [1340](https://leetcode-cn.com/problems/jump-game-v/)        | [跳跃游戏 V](https://github.com/zywaited/leetcode/tree/master/1301_1350/1340/) | 1            |
 | [1345](https://leetcode-cn.com/problems/jump-game-iv/)       | [跳跃游戏 IV](https://github.com/zywaited/leetcode/tree/master/1301_1350/1345/) | 1            |
