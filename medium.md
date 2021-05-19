@@ -254,6 +254,7 @@
 | [1690](https://leetcode-cn.com/problems/stone-game-vii/) | [石子游戏 VII](https://github.com/zywaited/leetcode/tree/master/1651_1700/1690/) | 1 |
 | [1695](https://leetcode-cn.com/problems/maximum-erasure-value/) | [删除子数组的最大得分](https://github.com/zywaited/leetcode/tree/master/1651_1700/1695/) | 1 |
 | [1734](https://leetcode-cn.com/problems/decode-xored-permutation/) | [解码异或后的排列](https://github.com/zywaited/leetcode/tree/master/1701_1750/1734/) | 1 |
+| [1738](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | [找出第 K 大的异或坐标值](https://github.com/zywaited/leetcode/tree/master/1701_1750/1738/) | 1 |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5301_5350/5341/) | 1              |
 | [LCP3](https://leetcode-cn.com/problems/programmable-robot/) | [ 机器人大冒险](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/3/) | 1              |
@@ -285,4 +286,5 @@
 | [Offer12](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [矩阵中的路径](https://github.com/zywaited/leetcode/tree/master/Offer/1_50/12/) | 1              |
 | [Offer13](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [机器人的运动范围](https://github.com/zywaited/leetcode/tree/master/Offer/1_50/13/) | 1              |
 | [Offer20](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [表示数值的字符串](https://github.com/zywaited/leetcode/tree/master/Offer/1_50/20/) | 1              |
+| [Offer44](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) | [数字序列中某一位的数字](https://github.com/zywaited/leetcode/tree/master/Offer/1_50/44/) | 1 |
 | [Offer14.1](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [剪绳子](https://github.com/zywaited/leetcode/tree/master/Offer/1_50/14/1/) | 1              |
