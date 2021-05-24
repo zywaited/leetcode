@@ -63,6 +63,7 @@
 | [630](https://leetcode-cn.com/problems/course-schedule-iii/) | [课程表 III](https://github.com/zywaited/leetcode/tree/master/601_650/630/) | 1            |
 | [632](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists/) | [最小区间](https://github.com/zywaited/leetcode/tree/master/601_650/632/) | 1            |
 | [639](https://leetcode-cn.com/problems/decode-ways-ii/)      | [解码方法 2](https://github.com/zywaited/leetcode/tree/master/601_650/639/) | 1            |
+| [664](https://leetcode-cn.com/problems/strange-printer/)     | [奇怪的打印机](https://github.com/zywaited/leetcode/tree/master/651_700/664/) | 1            |
 | [685](https://leetcode-cn.com/problems/redundant-connection-ii/) | [冗余连接 II](https://github.com/zywaited/leetcode/tree/master/651_700/685/) | 1            |
 | [749](https://leetcode-cn.com/problems/contain-virus/)       | [隔离病毒](https://github.com/zywaited/leetcode/tree/master/701_750/749/) | 1            |
 | [834](https://leetcode-cn.com/problems/sum-of-distances-in-tree/) | [树中距离之和](https://github.com/zywaited/leetcode/tree/master/801_850/834/) | 1            |
