@@ -132,8 +132,9 @@
 | [424](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | [替换后的最长重复字符](https://github.com/zywaited/leetcode/tree/master/401_450/424/) | 1 |
 | [435](https://leetcode-cn.com/problems/non-overlapping-intervals/) | [无重叠区间](https://github.com/zywaited/leetcode/tree/master/401_450/435/) | 1 |
 | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/)  | [两数相加 II](https://github.com/zywaited/leetcode/tree/master/401_450/445/) | 2              |
-| [452](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [用最少数量的箭引爆气球](https://github.com/zywaited/leetcode/tree/master/401_450/452/) | 1 |
-| [454](https://leetcode-cn.com/problems/4sum-ii/) | [四数相加 II](https://github.com/zywaited/leetcode/tree/master/401_450/454/) | 1 |
+| [452](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [用最少数量的箭引爆气球](https://github.com/zywaited/leetcode/tree/master/451_500/452/) | 1 |
+| [454](https://leetcode-cn.com/problems/4sum-ii/) | [四数相加 II](https://github.com/zywaited/leetcode/tree/master/451_500/454/) | 1 |
+| [477](https://leetcode-cn.com/problems/total-hamming-distance/) | [汉明距离总和](https://github.com/zywaited/leetcode/tree/master/451_500/477/) | 1 |
 | [491](https://leetcode-cn.com/problems/increasing-subsequences/) | [递增子序列](https://github.com/zywaited/leetcode/tree/master/401_450/491/) | 1              |
 | [503](https://leetcode-cn.com/problems/next-greater-element-ii/) | [下一个更大元素 II](https://github.com/zywaited/leetcode/tree/master/501_550/503/) | 1              |
 | [529](https://leetcode-cn.com/problems/minesweeper/)         | [扫雷游戏](https://github.com/zywaited/leetcode/tree/master/501_550/529/) | 1              |
