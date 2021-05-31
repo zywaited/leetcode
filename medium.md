@@ -183,6 +183,7 @@
 | [1006](https://leetcode-cn.com/problems/clumsy-factorial/) | [笨阶乘](https://github.com/zywaited/leetcode/tree/master/1001_1050/1006/) | 1 |
 | [1011](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/) | [在 D 天内送达包裹的能力](https://github.com/zywaited/leetcode/tree/master/1001_1050/1011/) | 1 |
 | [1014](https://leetcode-cn.com/problems/best-sightseeing-pair/) | [最佳观光组合](https://github.com/zywaited/leetcode/tree/master/1001_1050/1014/) | 1              |
+| [1015](https://leetcode-cn.com/problems/smallest-integer-divisible-by-k/) | [可被 K 整除的最小整数](https://github.com/zywaited/leetcode/tree/master/1001_1050/1015/) | 2 |
 | [1717](https://leetcode-cn.com/problems/maximum-score-from-removing-substrings/) | [删除子字符串的最大得分](https://github.com/zywaited/leetcode/tree/master/1001_1050/1017/) | 1 |
 | [1026](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/) | [节点与其祖先之间的最大差值](https://github.com/zywaited/leetcode/tree/master/1001_1050/1026/) | 1              |
 | [1027](https://leetcode-cn.com/problems/longest-arithmetic-sequence/) | [最长等差数列](https://github.com/zywaited/leetcode/tree/master/1001_1050/1027/) | 1              |
