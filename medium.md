@@ -258,6 +258,7 @@
 | [1695](https://leetcode-cn.com/problems/maximum-erasure-value/) | [删除子数组的最大得分](https://github.com/zywaited/leetcode/tree/master/1651_1700/1695/) | 1 |
 | [1734](https://leetcode-cn.com/problems/decode-xored-permutation/) | [解码异或后的排列](https://github.com/zywaited/leetcode/tree/master/1701_1750/1734/) | 1 |
 | [1738](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | [找出第 K 大的异或坐标值](https://github.com/zywaited/leetcode/tree/master/1701_1750/1738/) | 1 |
+| [1744](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://github.com/zywaited/leetcode/tree/master/1701_1750/1744/) | 1 |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5301_5350/5341/) | 1              |
 | [LCP3](https://leetcode-cn.com/problems/programmable-robot/) | [ 机器人大冒险](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/3/) | 1              |
