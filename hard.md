@@ -68,6 +68,7 @@
 | [749](https://leetcode-cn.com/problems/contain-virus/)       | [隔离病毒](https://github.com/zywaited/leetcode/tree/master/701_750/749/) | 1            |
 | [834](https://leetcode-cn.com/problems/sum-of-distances-in-tree/) | [树中距离之和](https://github.com/zywaited/leetcode/tree/master/801_850/834/) | 1            |
 | [862](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k/) | [和至少为 K 的最短子数组](https://github.com/zywaited/leetcode/tree/master/851_900/862/) | 1            |
+| [879](https://leetcode-cn.com/problems/profitable-schemes/)  | [盈利计划](https://github.com/zywaited/leetcode/tree/master/851_900/879/) | 1            |
 | [887](https://leetcode-cn.com/problems/super-egg-drop/)      | [鸡蛋掉落](https://github.com/zywaited/leetcode/tree/master/851_900/887/) | 1            |
 | [924](https://leetcode-cn.com/problems/minimize-malware-spread/) | [尽量减少恶意软件的传播](https://github.com/zywaited/leetcode/tree/master/901_950/924/) | 1            |
 | [928](https://leetcode-cn.com/problems/minimize-malware-spread-ii/) | [尽量减少恶意软件的传播 II](https://github.com/zywaited/leetcode/tree/master/901_950/928/) | 1            |
