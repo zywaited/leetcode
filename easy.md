@@ -48,6 +48,7 @@
 | [350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [两个数组的交集 II](https://github.com/zywaited/leetcode/tree/master/301_350/350/) | 1            |
 | [389](https://leetcode-cn.com/problems/find-the-difference)  | [找不同](https://github.com/zywaited/leetcode/tree/master/351_400/389/) | 2            |
 | [392](https://leetcode-cn.com/problems/is-subsequence/)      | [判断子序列](https://github.com/zywaited/leetcode/tree/master/351_400/392/) | 2            |
+| [401](https://leetcode-cn.com/problems/binary-watch/)        | [二进制手表](https://github.com/zywaited/leetcode/tree/master/401_450/401/) | 2            |
 | [409](https://leetcode-cn.com/problems/longest-palindrome/)  | [最长回文串](https://github.com/zywaited/leetcode/tree/master/401_450/409/) | 2            |
 | [415](https://leetcode-cn.com/problems/add-strings/)         | [字符串相加](https://github.com/zywaited/leetcode/tree/master/401_450/415/) | 1            |
 | [437](https://leetcode-cn.com/problems/path-sum-iii/)        | [路径总和 III](https://github.com/zywaited/leetcode/tree/master/401_450/437/) | 1            |
