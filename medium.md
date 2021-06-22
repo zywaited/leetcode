@@ -296,3 +296,4 @@
 | [Offer20](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [表示数值的字符串](https://github.com/zywaited/leetcode/tree/master/Offer/1_50/20/) | 1              |
 | [Offer44](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) | [数字序列中某一位的数字](https://github.com/zywaited/leetcode/tree/master/Offer/1_50/44/) | 1 |
 | [Offer14.1](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [剪绳子](https://github.com/zywaited/leetcode/tree/master/Offer/1_50/14/1/) | 1              |
+| [LCS3](https://leetcode-cn.com/problems/YesdPw/) | [LCS 03. 主题空间](https://github.com/zywaited/leetcode/tree/master/LCS/1_50/3/) | 2 |
