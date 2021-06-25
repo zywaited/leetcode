@@ -107,6 +107,7 @@
 | [300](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [最长上升子序列](https://github.com/zywaited/leetcode/tree/master/251_300/300/) | 3              |
 | [304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | [二维区域和检索 - 矩阵不可变](https://github.com/zywaited/leetcode/tree/master/301_350/304/) | 1 |
 | [309](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [最佳买卖股票时机含冷冻期](https://github.com/zywaited/leetcode/tree/master/301_350/309/) | 1              |
+| [313](https://leetcode-cn.com/problems/super-ugly-number/) | [超级丑数](https://github.com/zywaited/leetcode/tree/master/301_350/313/) | 1 |
 | [319](https://leetcode-cn.com/problems/bulb-switcher/)       | [灯泡开关](https://github.com/zywaited/leetcode/tree/master/301_350/319/) | 1              |
 | [322](https://leetcode-cn.com/problems/coin-change/)         | [零钱兑换](https://github.com/zywaited/leetcode/tree/master/301_350/322/) | 1              |
 | [328](https://leetcode-cn.com/problems/odd-even-linked-list/) | [奇偶链表](https://github.com/zywaited/leetcode/tree/master/301_350/328/) | 1 |
