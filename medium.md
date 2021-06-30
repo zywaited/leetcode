@@ -77,6 +77,7 @@
 | [142](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [环形链表 II](https://github.com/zywaited/leetcode/tree/master/101_150/142/) | 2              |
 | [144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [二叉树的前序遍历](https://github.com/zywaited/leetcode/tree/master/101_150/144/) | 2              |
 | [146](https://leetcode-cn.com/problems/lru-cache/)           | [LRU缓存机制](https://github.com/zywaited/leetcode/tree/master/101_150/146/) | 2              |
+| [148](https://leetcode-cn.com/problems/sort-list/) | [排序链表](https://github.com/zywaited/leetcode/tree/master/101_150/148/) | 1 |
 | [150](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [逆波兰表达式求值](https://github.com/zywaited/leetcode/tree/master/101_150/150/) | 1              |
 | [151](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [翻转字符串里的单词](https://github.com/zywaited/leetcode/tree/master/151_200/151/) | 1              |
 | [152](https://leetcode-cn.com/problems/maximum-product-subarray/) | [乘积最大子数组](https://github.com/zywaited/leetcode/tree/master/151_200/152/) | 1              |
