@@ -133,6 +133,7 @@
 | [416](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [分割等和子集](https://github.com/zywaited/leetcode/tree/master/401_450/416/) | 1              |
 | [421](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [数组中两个数的最大异或值](https://github.com/zywaited/leetcode/tree/master/401_450/421/) | 1 |
 | [424](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | [替换后的最长重复字符](https://github.com/zywaited/leetcode/tree/master/401_450/424/) | 1 |
+| [433](https://leetcode-cn.com/problems/minimum-genetic-mutation/) | [最小基因变化](https://github.com/zywaited/leetcode/tree/master/401_450/433/) | 1 |
 | [435](https://leetcode-cn.com/problems/non-overlapping-intervals/) | [无重叠区间](https://github.com/zywaited/leetcode/tree/master/401_450/435/) | 1 |
 | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/)  | [两数相加 II](https://github.com/zywaited/leetcode/tree/master/401_450/445/) | 2              |
 | [452](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [用最少数量的箭引爆气球](https://github.com/zywaited/leetcode/tree/master/451_500/452/) | 1 |
