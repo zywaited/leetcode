@@ -66,6 +66,7 @@
 | [639](https://leetcode-cn.com/problems/decode-ways-ii/)      | [解码方法 2](https://github.com/zywaited/leetcode/tree/master/601_650/639/) | 1            |
 | [664](https://leetcode-cn.com/problems/strange-printer/)     | [奇怪的打印机](https://github.com/zywaited/leetcode/tree/master/651_700/664/) | 1            |
 | [685](https://leetcode-cn.com/problems/redundant-connection-ii/) | [冗余连接 II](https://github.com/zywaited/leetcode/tree/master/651_700/685/) | 1            |
+| [726](https://leetcode-cn.com/problems/number-of-atoms/)     | [原子的数量](https://github.com/zywaited/leetcode/tree/master/701_750/726/) | 1            |
 | [749](https://leetcode-cn.com/problems/contain-virus/)       | [隔离病毒](https://github.com/zywaited/leetcode/tree/master/701_750/749/) | 1            |
 | [815](https://leetcode-cn.com/problems/bus-routes/)          | [公交路线](https://github.com/zywaited/leetcode/tree/master/801_850/815/) | 1            |
 | [834](https://leetcode-cn.com/problems/sum-of-distances-in-tree/) | [树中距离之和](https://github.com/zywaited/leetcode/tree/master/801_850/834/) | 1            |
@@ -113,6 +114,7 @@
 | [1553](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [吃掉 N 个橘子的最少天数](https://github.com/zywaited/leetcode/tree/master/1551_1600/1553/) | 1            |
 | [1563](https://leetcode-cn.com/problems/stone-game-v/)       | [石子游戏 V](https://github.com/zywaited/leetcode/tree/master/1551_1600/1563/) | 1            |
 | [1579](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [保证图可完全遍历](https://github.com/zywaited/leetcode/tree/master/1551_1600/1579/) | 1            |
+| [1632](https://leetcode-cn.com/problems/rank-transform-of-a-matrix/) | [矩阵转换后的秩](https://github.com/zywaited/leetcode/tree/master/1601_1650/1632/) | 1            |
 | [1707](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/) | [与数组中元素的最大异或值](https://github.com/zywaited/leetcode/tree/master/1701_1750/1707/) | 1            |
 | [1723](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | [完成所有工作的最短时间](https://github.com/zywaited/leetcode/tree/master/1701_1750/1723/) | 1            |
 | [LCP4](https://leetcode-cn.com/problems/broken-board-dominoes/) | [ 覆盖](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/4/) | 1            |
