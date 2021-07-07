@@ -265,6 +265,7 @@
 | [1680](https://leetcode-cn.com/problems/concatenation-of-consecutive-binary-numbers/) | [连接连续二进制数字](https://github.com/zywaited/leetcode/tree/master/1651_1700/1680/) | 1 |
 | [1690](https://leetcode-cn.com/problems/stone-game-vii/) | [石子游戏 VII](https://github.com/zywaited/leetcode/tree/master/1651_1700/1690/) | 1 |
 | [1695](https://leetcode-cn.com/problems/maximum-erasure-value/) | [删除子数组的最大得分](https://github.com/zywaited/leetcode/tree/master/1651_1700/1695/) | 1 |
+| [1711](https://leetcode-cn.com/problems/count-good-meals/) | [大餐计数](https://github.com/zywaited/leetcode/tree/master/1701_1750/1711/) | 1 |
 | [1734](https://leetcode-cn.com/problems/decode-xored-permutation/) | [解码异或后的排列](https://github.com/zywaited/leetcode/tree/master/1701_1750/1734/) | 1 |
 | [1738](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | [找出第 K 大的异或坐标值](https://github.com/zywaited/leetcode/tree/master/1701_1750/1738/) | 1 |
 | [1744](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://github.com/zywaited/leetcode/tree/master/1701_1750/1744/) | 1 |
