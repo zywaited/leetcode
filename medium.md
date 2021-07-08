@@ -177,7 +177,8 @@
 | [845](https://leetcode-cn.com/problems/longest-mountain-in-array/) | [数组中的最长山脉](https://github.com/zywaited/leetcode/tree/master/801_850/841/) | 1 |
 | [861](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [翻转矩阵后的得分](https://github.com/zywaited/leetcode/tree/master/851_900/861/) | 2 |
 | [877](https://leetcode-cn.com/problems/stone-game/)          | [石子游戏](https://github.com/zywaited/leetcode/tree/master/851_900/877) | 2              |
-| [901](https://leetcode-cn.com/problems/online-stock-span/)   | [股票价格跨度](https://github.com/zywaited/leetcode/tree/master/901_950/901/) |                |
+| [901](https://leetcode-cn.com/problems/online-stock-span/)   | [股票价格跨度](https://github.com/zywaited/leetcode/tree/master/901_950/901/) | 1 |
+| [930](https://leetcode-cn.com/problems/binary-subarrays-with-sum/) | [和相同的二元子数组](https://github.com/zywaited/leetcode/tree/master/901_950/930/) | 2 |
 | [939](https://leetcode-cn.com/problems/minimum-area-rectangle/) | [最小面积矩形](https://github.com/zywaited/leetcode/tree/master/901_950/939/) | 2              |
 | [945](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/) | [使数组唯一的最小增量](https://github.com/zywaited/leetcode/tree/master/901_950/945/) | 2              |
 | [947](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/) | [移除最多的同行或同列石头](https://github.com/zywaited/leetcode/tree/master/901_950/947/) | 2 |
