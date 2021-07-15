@@ -181,6 +181,7 @@
 | [861](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [翻转矩阵后的得分](https://github.com/zywaited/leetcode/tree/master/851_900/861/) | 2 |
 | [877](https://leetcode-cn.com/problems/stone-game/)          | [石子游戏](https://github.com/zywaited/leetcode/tree/master/851_900/877) | 2              |
 | [901](https://leetcode-cn.com/problems/online-stock-span/)   | [股票价格跨度](https://github.com/zywaited/leetcode/tree/master/901_950/901/) | 1 |
+| [907](https://leetcode-cn.com/problems/sum-of-subarray-minimums/) | [子数组的最小值之和](https://github.com/zywaited/leetcode/tree/master/901_950/907/) | 1 |
 | [930](https://leetcode-cn.com/problems/binary-subarrays-with-sum/) | [和相同的二元子数组](https://github.com/zywaited/leetcode/tree/master/901_950/930/) | 2 |
 | [939](https://leetcode-cn.com/problems/minimum-area-rectangle/) | [最小面积矩形](https://github.com/zywaited/leetcode/tree/master/901_950/939/) | 2              |
 | [945](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/) | [使数组唯一的最小增量](https://github.com/zywaited/leetcode/tree/master/901_950/945/) | 2              |
