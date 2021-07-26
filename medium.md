@@ -275,6 +275,7 @@
 | [1711](https://leetcode-cn.com/problems/count-good-meals/) | [大餐计数](https://github.com/zywaited/leetcode/tree/master/1701_1750/1711/) | 1 |
 | [1734](https://leetcode-cn.com/problems/decode-xored-permutation/) | [解码异或后的排列](https://github.com/zywaited/leetcode/tree/master/1701_1750/1734/) | 1 |
 | [1738](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | [找出第 K 大的异或坐标值](https://github.com/zywaited/leetcode/tree/master/1701_1750/1738/) | 1 |
+| [1743](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs/) | [从相邻元素对还原数组](https://github.com/zywaited/leetcode/tree/master/1701_1750/1743/) | 1 |
 | [1744](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://github.com/zywaited/leetcode/tree/master/1701_1750/1744/) | 1 |
 | [1829](https://leetcode-cn.com/problems/maximum-xor-for-each-query/) | [每个查询的最大异或值](https://github.com/zywaited/leetcode/tree/master/1801_1850/1829/) | 1 |
 | [1838](https://leetcode-cn.com/problems/frequency-of-the-most-frequent-element/) | [最高频元素的频数](https://github.com/zywaited/leetcode/tree/master/1801_1850/1838/) | 1 |
