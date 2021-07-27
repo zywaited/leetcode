@@ -268,6 +268,7 @@
 | [1626](https://leetcode-cn.com/problems/best-team-with-no-conflicts/) | [无矛盾的最佳球队](https://github.com/zywaited/leetcode/tree/master/1601_1650/1626/) | 1 |
 | [1630](https://leetcode-cn.com/problems/arithmetic-subarrays/) | [等差子数组](https://github.com/zywaited/leetcode/tree/master/1601_1650/1630/) | 2 |
 | [1631](https://leetcode-cn.com/problems/path-with-minimum-effort/) | [最小体力消耗路径](https://github.com/zywaited/leetcode/tree/master/1601_1650/1631/) |  |
+| [1642](https://leetcode-cn.com/problems/furthest-building-you-can-reach/) | [可以到达的最远建筑](https://github.com/zywaited/leetcode/tree/master/1601_1650/1642/) | 1 |
 | [1679](https://leetcode-cn.com/problems/max-number-of-k-sum-pairs/) | [K 和数对的最大数目](https://github.com/zywaited/leetcode/tree/master/1651_1700/1679/) | 1 |
 | [1680](https://leetcode-cn.com/problems/concatenation-of-consecutive-binary-numbers/) | [连接连续二进制数字](https://github.com/zywaited/leetcode/tree/master/1651_1700/1680/) | 1 |
 | [1690](https://leetcode-cn.com/problems/stone-game-vii/) | [石子游戏 VII](https://github.com/zywaited/leetcode/tree/master/1651_1700/1690/) | 1 |
