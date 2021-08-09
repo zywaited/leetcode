@@ -119,6 +119,7 @@
 | [1707](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/) | [与数组中元素的最大异或值](https://github.com/zywaited/leetcode/tree/master/1701_1750/1707/) | 1            |
 | [1713](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence/) | [得到子序列的最少操作次数](https://github.com/zywaited/leetcode/tree/master/1701_1750/1713/) | 1            |
 | [1723](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | [完成所有工作的最短时间](https://github.com/zywaited/leetcode/tree/master/1701_1750/1723/) | 1            |
+| [5841](https://leetcode-cn.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [找出到每个位置为止最长的有效障碍赛跑路线](https://github.com/zywaited/leetcode/tree/master/5801_5850/5841/) | 1            |
 | [LCP4](https://leetcode-cn.com/problems/broken-board-dominoes/) | [ 覆盖](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/4/) | 1            |
 | [LCP5](https://leetcode-cn.com/problems/coin-bonus/)         | [发 LeetCoin](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/5/) | 1            |
 | [LCP9](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/) | [最小跳跃次数](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/9/) | 1            |
