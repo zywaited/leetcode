@@ -185,6 +185,7 @@
 | [861](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [翻转矩阵后的得分](https://github.com/zywaited/leetcode/tree/master/851_900/861/) | 2 |
 | [863](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/) | [二叉树中所有距离为 K 的结点](https://github.com/zywaited/leetcode/tree/master/851_900/863/) | 1 |
 | [877](https://leetcode-cn.com/problems/stone-game/)          | [石子游戏](https://github.com/zywaited/leetcode/tree/master/851_900/877) | 2              |
+| [898](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays/) | [子数组按位或操作](https://github.com/zywaited/leetcode/tree/master/851_900/898) | 3 |
 | [901](https://leetcode-cn.com/problems/online-stock-span/)   | [股票价格跨度](https://github.com/zywaited/leetcode/tree/master/901_950/901/) | 1 |
 | [907](https://leetcode-cn.com/problems/sum-of-subarray-minimums/) | [子数组的最小值之和](https://github.com/zywaited/leetcode/tree/master/901_950/907/) | 1 |
 | [930](https://leetcode-cn.com/problems/binary-subarrays-with-sum/) | [和相同的二元子数组](https://github.com/zywaited/leetcode/tree/master/901_950/930/) | 2 |
