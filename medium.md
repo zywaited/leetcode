@@ -146,6 +146,7 @@
 | [477](https://leetcode-cn.com/problems/total-hamming-distance/) | [汉明距离总和](https://github.com/zywaited/leetcode/tree/master/451_500/477/) | 1 |
 | [491](https://leetcode-cn.com/problems/increasing-subsequences/) | [递增子序列](https://github.com/zywaited/leetcode/tree/master/401_450/491/) | 1              |
 | [503](https://leetcode-cn.com/problems/next-greater-element-ii/) | [下一个更大元素 II](https://github.com/zywaited/leetcode/tree/master/501_550/503/) | 1              |
+| [516](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays/) | [最长回文子序列](https://github.com/zywaited/leetcode/tree/master/501_550/516/) | 1 |
 | [523](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [连续的子数组和](https://github.com/zywaited/leetcode/tree/master/501_550/523/) | 1 |
 | [525](https://leetcode-cn.com/problems/contiguous-array/) | [连续数组](https://github.com/zywaited/leetcode/tree/master/501_550/525/) | 1 |
 | [529](https://leetcode-cn.com/problems/minesweeper/)         | [扫雷游戏](https://github.com/zywaited/leetcode/tree/master/501_550/529/) | 1              |
