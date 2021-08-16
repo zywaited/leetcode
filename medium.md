@@ -155,6 +155,7 @@
 | [556](https://leetcode-cn.com/problems/next-greater-element-iii/) | [下一个更大元素 III](https://github.com/zywaited/leetcode/tree/master/551_600/556/) | 1              |
 | [560](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [和为k的子数组](https://github.com/zywaited/leetcode/tree/master/551_600/560/) | 1              |
 | [567](https://leetcode-cn.com/problems/permutation-in-string/) | [字符串的排列](https://github.com/zywaited/leetcode/tree/master/551_600/567/) | 2              |
+| [576](https://leetcode-cn.com/problems/out-of-boundary-paths/) | [出界的路径数](https://github.com/zywaited/leetcode/tree/master/551_600/576/) | 1 |
 | [581](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | [最短无序连续子数组](https://github.com/zywaited/leetcode/tree/master/551_600/581/) | 1 |
 | [647](https://leetcode-cn.com/problems/palindromic-substrings/) | [回文子串](https://github.com/zywaited/leetcode/tree/master/601_650/647/) | 1              |
 | [649](https://leetcode-cn.com/problems/dota2-senate/s) | [Dota2 参议院](https://github.com/zywaited/leetcode/tree/master/601_650/649/) | 1 |
