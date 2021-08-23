@@ -118,6 +118,7 @@
 | [1563](https://leetcode-cn.com/problems/stone-game-v/)       | [石子游戏 V](https://github.com/zywaited/leetcode/tree/master/1551_1600/1563/) | 1            |
 | [1579](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [保证图可完全遍历](https://github.com/zywaited/leetcode/tree/master/1551_1600/1579/) | 1            |
 | [1632](https://leetcode-cn.com/problems/rank-transform-of-a-matrix/) | [矩阵转换后的秩](https://github.com/zywaited/leetcode/tree/master/1601_1650/1632/) | 1            |
+| [1649](https://leetcode-cn.com/problems/create-sorted-array-through-instructions/) | [通过指令创建有序数组](https://github.com/zywaited/leetcode/tree/master/1601_1650/1649/) | 1            |
 | [1707](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/) | [与数组中元素的最大异或值](https://github.com/zywaited/leetcode/tree/master/1701_1750/1707/) | 1            |
 | [1713](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence/) | [得到子序列的最少操作次数](https://github.com/zywaited/leetcode/tree/master/1701_1750/1713/) | 1            |
 | [1723](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | [完成所有工作的最短时间](https://github.com/zywaited/leetcode/tree/master/1701_1750/1723/) | 1            |
