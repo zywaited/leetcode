@@ -177,6 +177,7 @@
 | [767](https://leetcode-cn.com/problems/reorganize-string/) | [重构字符串](https://github.com/zywaited/leetcode/tree/master/751_800/767/) | 1 |
 | [781](https://leetcode-cn.com/problems/rabbits-in-forest/) | [森林中的兔子](https://github.com/zywaited/leetcode/tree/master/751_800/781/) | 1 |
 | [785](https://leetcode-cn.com/problems/is-graph-bipartite/)  | [判断二分图](https://github.com/zywaited/leetcode/tree/master/751_800/785/) | 1              |
+| [787](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | [K 站中转内最便宜的航班](https://github.com/zywaited/leetcode/tree/master/751_800/787/) | 2 |
 | [789](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [逃脱阻碍者](https://github.com/zywaited/leetcode/tree/master/751_800/789/) | 1 |
 | [802](https://leetcode-cn.com/problems/find-eventual-safe-states/) | [找到最终的安全状态](https://github.com/zywaited/leetcode/tree/master/801_850/802) | 1              |
 | [820](https://leetcode-cn.com/problems/short-encoding-of-words/) | [单词的压缩编码](https://github.com/zywaited/leetcode/tree/master/801_850/820) | 3              |
