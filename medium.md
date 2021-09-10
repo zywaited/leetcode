@@ -294,6 +294,7 @@
 | [1829](https://leetcode-cn.com/problems/maximum-xor-for-each-query/) | [每个查询的最大异或值](https://github.com/zywaited/leetcode/tree/master/1801_1850/1829/) | 1 |
 | [1838](https://leetcode-cn.com/problems/frequency-of-the-most-frequent-element/) | [最高频元素的频数](https://github.com/zywaited/leetcode/tree/master/1801_1850/1838/) | 1 |
 | [1871](https://leetcode-cn.com/problems/jump-game-vii/) | [跳跃游戏 VII](https://github.com/zywaited/leetcode/tree/master/1801_1850/1871/) | 2 |
+| [1894](https://leetcode-cn.com/problems/ipo/) | [找到需要补充粉笔的学生编号](https://github.com/zywaited/leetcode/tree/master/1801_1850/1894/) | 2 |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5301_5350/5341/) | 1              |
 | [LCP3](https://leetcode-cn.com/problems/programmable-robot/) | [ 机器人大冒险](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/3/) | 1              |
