@@ -95,6 +95,7 @@
 | [213](https://leetcode-cn.com/problems/house-robber-ii/)     | [打家劫舍 II](https://github.com/zywaited/leetcode/tree/master/201_250/213/) | 1              |
 | [215](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [数组中的第K个最大元素](https://github.com/zywaited/leetcode/tree/master/201_250/215/) | 4              |
 | [216](https://leetcode-cn.com/problems/combination-sum-iii/) | [组合总和III](https://github.com/zywaited/leetcode/tree/master/201_250/216/) | 1              |
+| [220](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [存在重复元素 III](https://github.com/zywaited/leetcode/tree/master/201_250/220/) | 1 |
 | [221](https://leetcode-cn.com/problems/maximal-square/)      | [最大正方形](https://github.com/zywaited/leetcode/tree/master/201_250/221/) | 2              |
 | [222](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | [完全二叉树的节点个数](https://github.com/zywaited/leetcode/tree/master/201_250/222/) | 1 |
 | [227](https://leetcode-cn.com/problems/basic-calculator-ii/) | [基本计算器 II](https://github.com/zywaited/leetcode/tree/master/201_250/227/) | 1 |
