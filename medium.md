@@ -158,6 +158,7 @@
 | [567](https://leetcode-cn.com/problems/permutation-in-string/) | [字符串的排列](https://github.com/zywaited/leetcode/tree/master/551_600/567/) | 2              |
 | [576](https://leetcode-cn.com/problems/out-of-boundary-paths/) | [出界的路径数](https://github.com/zywaited/leetcode/tree/master/551_600/576/) | 1 |
 | [581](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | [最短无序连续子数组](https://github.com/zywaited/leetcode/tree/master/551_600/581/) | 1 |
+| [583](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | [两个字符串的删除操作](https://github.com/zywaited/leetcode/tree/master/551_600/583/) | 1 |
 | [647](https://leetcode-cn.com/problems/palindromic-substrings/) | [回文子串](https://github.com/zywaited/leetcode/tree/master/601_650/647/) | 1              |
 | [649](https://leetcode-cn.com/problems/dota2-senate/s) | [Dota2 参议院](https://github.com/zywaited/leetcode/tree/master/601_650/649/) | 1 |
 | [659](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/) | [分割数组为连续子序列](https://github.com/zywaited/leetcode/tree/master/651_700/659/) | 1 |
