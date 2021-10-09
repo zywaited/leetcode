@@ -50,6 +50,7 @@
 | [329](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/) | [矩阵中的最长递增路径](https://github.com/zywaited/leetcode/tree/master/301_350/329/) | 1            |
 | [330](https://leetcode-cn.com/problems/patching-array/)      | [按要求补齐数组](https://github.com/zywaited/leetcode/tree/master/301_350/330/) | 1            |
 | [336](https://leetcode-cn.com/problems/palindrome-pairs/)    | [回文对](https://github.com/zywaited/leetcode/tree/master/301_350/336/) | 1            |
+| [352](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/) | [将数据流变为多个不相交区间](https://github.com/zywaited/leetcode/tree/master/301_350/352/) | 2            |
 | [354](https://leetcode-cn.com/problems/russian-doll-envelopes/) | [俄罗斯套娃信封问题](https://github.com/zywaited/leetcode/tree/master/301_350/354/) | 2            |
 | [363](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [矩形区域不超过 K 的最大数值和](https://github.com/zywaited/leetcode/tree/master/351_400/363/) | 1            |
 | [403](https://leetcode-cn.com/problems/frog-jump/)           | [青蛙过河](https://github.com/zywaited/leetcode/tree/master/401_450/403/) | 2            |
