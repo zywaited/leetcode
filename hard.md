@@ -65,6 +65,7 @@
 | [493](https://leetcode-cn.com/problems/reverse-pairs/)       | [翻转对](https://github.com/zywaited/leetcode/tree/master/451_500/493/) | 2            |
 | [502](https://leetcode-cn.com/problems/ipo/)                 | [IPO](https://github.com/zywaited/leetcode/tree/master/501_550/502/) | 1            |
 | [514](https://leetcode-cn.com/problems/freedom-trail/)       | [自由之路](https://github.com/zywaited/leetcode/tree/master/501_550/514/) | 1            |
+| [546](https://leetcode-cn.com/problems/remove-boxes/)        | [移除盒子](https://github.com/zywaited/leetcode/tree/master/501_550/546/) | 1            |
 | [552](https://leetcode-cn.com/problems/student-attendance-record-ii/) | [学生出勤记录 II](https://github.com/zywaited/leetcode/tree/master/551_600/552/) | 1            |
 | [600](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/) | [不含连续1的非负整数](https://github.com/zywaited/leetcode/tree/master/551_600/600/) | 1            |
 | [630](https://leetcode-cn.com/problems/course-schedule-iii/) | [课程表 III](https://github.com/zywaited/leetcode/tree/master/601_650/630/) | 1            |
