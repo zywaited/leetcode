@@ -21,6 +21,7 @@
 | [33](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | [搜索旋转排序数组](https://github.com/zywaited/leetcode/tree/master/1_50/33/) | 1              |
 | [34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [在排序数组中查找元素的第一个和最后一个位置](https://github.com/zywaited/leetcode/tree/master/1_50/34/) | 2              |
 | [36](https://leetcode-cn.com/problems/valid-sudoku/)         | [有效的数独](https://github.com/zywaited/leetcode/tree/master/1_50/36/) | 1              |
+| [38](https://leetcode-cn.com/problems/count-and-say/) | [外观数列](https://github.com/zywaited/leetcode/tree/master/1_50/38/) | 1 |
 | [39](https://leetcode-cn.com/problems/combination-sum)       | [组合总和](https://github.com/zywaited/leetcode/tree/master/1_50/39/) | 1              |
 | [40](https://leetcode-cn.com/problems/combination-sum-ii)    | [组合总和 II](https://github.com/zywaited/leetcode/tree/master/1_50/40/) | 1              |
 | [43](https://leetcode-cn.com/problems/multiply-strings/)     | [43. 字符串相乘](https://github.com/zywaited/leetcode/tree/master/1_50/43/) | 1              |
