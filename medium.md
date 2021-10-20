@@ -93,6 +93,7 @@
 | [208](https://leetcode-cn.com/problems/implement-trie-prefix-tree) | [实现 Trie (前缀树)](https://github.com/zywaited/leetcode/tree/master/201_250/208/)(同时实现Go echo框架路由前缀树) | 2              |
 | [209](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | [长度最小的子数组](https://github.com/zywaited/leetcode/tree/master/201_250/209/) | 2              |
 | [210](https://leetcode-cn.com/problems/course-schedule-ii/)  | [课程表 II](https://github.com/zywaited/leetcode/tree/master/201_250/210/) | 1              |
+| [211](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/) | [添加与搜索单词 - 数据结构设计](https://github.com/zywaited/leetcode/tree/master/201_250/211/)) | 1 |
 | [213](https://leetcode-cn.com/problems/house-robber-ii/)     | [打家劫舍 II](https://github.com/zywaited/leetcode/tree/master/201_250/213/) | 1              |
 | [215](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [数组中的第K个最大元素](https://github.com/zywaited/leetcode/tree/master/201_250/215/) | 4              |
 | [216](https://leetcode-cn.com/problems/combination-sum-iii/) | [组合总和III](https://github.com/zywaited/leetcode/tree/master/201_250/216/) | 1              |
@@ -298,6 +299,7 @@
 | [1838](https://leetcode-cn.com/problems/frequency-of-the-most-frequent-element/) | [最高频元素的频数](https://github.com/zywaited/leetcode/tree/master/1801_1850/1838/) | 1 |
 | [1871](https://leetcode-cn.com/problems/jump-game-vii/) | [跳跃游戏 VII](https://github.com/zywaited/leetcode/tree/master/1801_1850/1871/) | 2 |
 | [1894](https://leetcode-cn.com/problems/ipo/) | [找到需要补充粉笔的学生编号](https://github.com/zywaited/leetcode/tree/master/1801_1850/1894/) | 2 |
+| [2044](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [统计按位或能得到最大值的子集数目](https://github.com/zywaited/leetcode/tree/master/2001_2050/2044/) | 1 |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5301_5350/5341/) | 1              |
 | [LCP3](https://leetcode-cn.com/problems/programmable-robot/) | [ 机器人大冒险](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/3/) | 1              |
