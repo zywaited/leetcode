@@ -299,6 +299,8 @@
 | [1838](https://leetcode-cn.com/problems/frequency-of-the-most-frequent-element/) | [最高频元素的频数](https://github.com/zywaited/leetcode/tree/master/1801_1850/1838/) | 1 |
 | [1871](https://leetcode-cn.com/problems/jump-game-vii/) | [跳跃游戏 VII](https://github.com/zywaited/leetcode/tree/master/1801_1850/1871/) | 2 |
 | [1894](https://leetcode-cn.com/problems/ipo/) | [找到需要补充粉笔的学生编号](https://github.com/zywaited/leetcode/tree/master/1801_1850/1894/) | 2 |
+| [2017](https://leetcode-cn.com/problems/grid-game/) | [网格游戏](https://github.com/zywaited/leetcode/tree/master/2001_2050/2017/) | 1 |
+| [2018](https://leetcode-cn.com/problems/check-if-word-can-be-placed-in-crossword/) | [判断单词是否能放入填字游戏内](https://github.com/zywaited/leetcode/tree/master/2001_2050/2018/) | 1 |
 | [2044](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [统计按位或能得到最大值的子集数目](https://github.com/zywaited/leetcode/tree/master/2001_2050/2044/) | 1 |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5201_5250/5214/) | 1              |
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5301_5350/5341/) | 1              |
