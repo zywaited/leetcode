@@ -191,6 +191,7 @@
 | [845](https://leetcode-cn.com/problems/longest-mountain-in-array/) | [数组中的最长山脉](https://github.com/zywaited/leetcode/tree/master/801_850/841/) | 1 |
 | [861](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [翻转矩阵后的得分](https://github.com/zywaited/leetcode/tree/master/851_900/861/) | 2 |
 | [863](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/) | [二叉树中所有距离为 K 的结点](https://github.com/zywaited/leetcode/tree/master/851_900/863/) | 1 |
+| [869](https://leetcode-cn.com/problems/reordered-power-of-2/) | [重新排序得到 2 的幂](https://github.com/zywaited/leetcode/tree/master/851_900/869/) | 1 |
 | [877](https://leetcode-cn.com/problems/stone-game/)          | [石子游戏](https://github.com/zywaited/leetcode/tree/master/851_900/877) | 2              |
 | [898](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays/) | [子数组按位或操作](https://github.com/zywaited/leetcode/tree/master/851_900/898) | 3 |
 | [901](https://leetcode-cn.com/problems/online-stock-span/)   | [股票价格跨度](https://github.com/zywaited/leetcode/tree/master/901_950/901/) | 1 |
