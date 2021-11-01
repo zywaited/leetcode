@@ -50,6 +50,7 @@
 | [327](https://leetcode-cn.com/problems/count-of-range-sum/)  | [区间和的个数](https://github.com/zywaited/leetcode/tree/master/301_350/327/) | 2            |
 | [329](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/) | [矩阵中的最长递增路径](https://github.com/zywaited/leetcode/tree/master/301_350/329/) | 1            |
 | [330](https://leetcode-cn.com/problems/patching-array/)      | [按要求补齐数组](https://github.com/zywaited/leetcode/tree/master/301_350/330/) | 1            |
+| [335](https://leetcode-cn.com/problems/self-crossing/)       | [路径交叉](https://github.com/zywaited/leetcode/tree/master/301_350/335/) | 1            |
 | [336](https://leetcode-cn.com/problems/palindrome-pairs/)    | [回文对](https://github.com/zywaited/leetcode/tree/master/301_350/336/) | 1            |
 | [352](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/) | [将数据流变为多个不相交区间](https://github.com/zywaited/leetcode/tree/master/301_350/352/) | 2            |
 | [354](https://leetcode-cn.com/problems/russian-doll-envelopes/) | [俄罗斯套娃信封问题](https://github.com/zywaited/leetcode/tree/master/301_350/354/) | 2            |
