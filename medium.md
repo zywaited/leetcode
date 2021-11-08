@@ -111,6 +111,7 @@
 | [279](https://leetcode-cn.com/problems/perfect-squares/) | [完全平方数](https://github.com/zywaited/leetcode/tree/master/251_300/279/) | 2 |
 | [287](https://leetcode-cn.com/problems/find-the-duplicate-number) | [寻找重复数](https://github.com/zywaited/leetcode/tree/master/251_300/287/) | 2              |
 | [289](https://leetcode-cn.com/problems/game-of-life/)        | [生命游戏](https://github.com/zywaited/leetcode/tree/master/251_300/289/) | 1              |
+| [299](https://leetcode-cn.com/problems/bulls-and-cows/) | [猜数字游戏](https://github.com/zywaited/leetcode/tree/master/251_300/299/) | 1 |
 | [300](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [最长上升子序列](https://github.com/zywaited/leetcode/tree/master/251_300/300/) | 3              |
 | [304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | [二维区域和检索 - 矩阵不可变](https://github.com/zywaited/leetcode/tree/master/301_350/304/) | 1 |
 | [309](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [最佳买卖股票时机含冷冻期](https://github.com/zywaited/leetcode/tree/master/301_350/309/) | 1              |
