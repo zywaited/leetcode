@@ -64,6 +64,7 @@
 | [460](https://leetcode-cn.com/problems/lfu-cache/)           | [LFU缓存](https://github.com/zywaited/leetcode/tree/master/451_500/460/) | 1            |
 | [466](https://leetcode-cn.com/problems/count-the-repetitions/) | [统计重复个数](https://github.com/zywaited/leetcode/tree/master/451_500/466/) | 1            |
 | [480](https://leetcode-cn.com/problems/sliding-window-median/) | [滑动窗口中位数](https://github.com/zywaited/leetcode/tree/master/451_500/480/) | 1            |
+| [488](https://leetcode-cn.com/problems/zuma-game/)           | [祖玛游戏](https://github.com/zywaited/leetcode/tree/master/451_500/488/) | 1            |
 | [493](https://leetcode-cn.com/problems/reverse-pairs/)       | [翻转对](https://github.com/zywaited/leetcode/tree/master/451_500/493/) | 2            |
 | [502](https://leetcode-cn.com/problems/ipo/)                 | [IPO](https://github.com/zywaited/leetcode/tree/master/501_550/502/) | 1            |
 | [514](https://leetcode-cn.com/problems/freedom-trail/)       | [自由之路](https://github.com/zywaited/leetcode/tree/master/501_550/514/) | 1            |
