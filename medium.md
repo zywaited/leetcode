@@ -127,6 +127,7 @@
 | [355](https://leetcode-cn.com/problems/design-twitter/)      | [设计推特](https://github.com/zywaited/leetcode/tree/master/351_400/355/) | 1              |
 | [365](https://leetcode-cn.com/problems/water-and-jug-problem/) | [水壶问题](https://github.com/zywaited/leetcode/tree/master/351_400/365/) | 2              |
 | [368](https://leetcode-cn.com/problems/largest-divisible-subset/) | [最大整除子集](https://github.com/zywaited/leetcode/tree/master/351_400/368/) | 2 |
+| [375](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [猜数字大小 II](https://github.com/zywaited/leetcode/tree/master/351_400/375/) | 1 |
 | [376](https://leetcode-cn.com/problems/wiggle-subsequence/) | [摆动序列](https://github.com/zywaited/leetcode/tree/master/351_400/376/) | 1 |
 | [377](https://leetcode-cn.com/problems/combination-sum-iv/)  | [组合总和 Ⅳ](https://github.com/zywaited/leetcode/tree/master/351_400/377/) | 2              |
 | [378](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [有序矩阵中第K小的元素](https://github.com/zywaited/leetcode/tree/master/351_400/378/) | 1              |
