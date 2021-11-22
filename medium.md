@@ -188,6 +188,7 @@
 | [789](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [逃脱阻碍者](https://github.com/zywaited/leetcode/tree/master/751_800/789/) | 1 |
 | [802](https://leetcode-cn.com/problems/find-eventual-safe-states/) | [找到最终的安全状态](https://github.com/zywaited/leetcode/tree/master/801_850/802) | 1              |
 | [820](https://leetcode-cn.com/problems/short-encoding-of-words/) | [单词的压缩编码](https://github.com/zywaited/leetcode/tree/master/801_850/820) | 3              |
+| [825](https://leetcode-cn.com/problems/friends-of-appropriate-ages/) | [适龄的朋友](https://github.com/zywaited/leetcode/tree/master/801_850/825) | 2 |
 | [826](https://leetcode-cn.com/problems/most-profit-assigning-work/) | [安排工作以达到最大收益](https://github.com/zywaited/leetcode/tree/master/801_850/826) | 1 |
 | [841](https://leetcode-cn.com/problems/keys-and-rooms/)      | [钥匙和房间](https://github.com/zywaited/leetcode/tree/master/801_850/841) | 1              |
 | [842](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | [将数组拆分成斐波那契序列](https://github.com/zywaited/leetcode/tree/master/801_850/842/) | 1 |
