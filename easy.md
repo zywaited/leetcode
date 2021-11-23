@@ -64,6 +64,7 @@
 | [733](https://leetcode-cn.com/problems/flood-fill/)          | [图像渲染](https://github.com/zywaited/leetcode/tree/master/651_700/733/) | 1            |
 | [746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [使用最小花费爬楼梯](https://github.com/zywaited/leetcode/tree/master/651_700/746/) | 1            |
 | [836](https://leetcode-cn.com/problems/rectangle-overlap/)   | [矩形重叠](https://github.com/zywaited/leetcode/tree/master/801_850/836/) | 2            |
+| [859](https://leetcode-cn.com/problems/buddy-strings/)       | [亲密字符串](https://github.com/zywaited/leetcode/tree/master/851_900/859/) | 1            |
 | [860](https://leetcode-cn.com/problems/lemonade-change/)     | [柠檬水找零](https://github.com/zywaited/leetcode/tree/master/851_900/860/) | 1            |
 | [876](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [链表的中间结点](https://github.com/zywaited/leetcode/tree/master/851_900/876/) | 2            |
 | [888](https://leetcode-cn.com/problems/fair-candy-swap/)     | [公平的糖果棒交换](https://github.com/zywaited/leetcode/tree/master/851_900/888/) | 1            |
