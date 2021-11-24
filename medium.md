@@ -142,6 +142,7 @@
 | [413](https://leetcode-cn.com/problems/arithmetic-slices/) | [等差数列划分](https://github.com/zywaited/leetcode/tree/master/401_450/413/) | 2 |
 | [416](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [分割等和子集](https://github.com/zywaited/leetcode/tree/master/401_450/416/) | 1              |
 | [421](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [数组中两个数的最大异或值](https://github.com/zywaited/leetcode/tree/master/401_450/421/) | 1 |
+| [423](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/) | [从英文中重建数字](https://github.com/zywaited/leetcode/tree/master/401_450/423/) | 1 |
 | [424](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | [替换后的最长重复字符](https://github.com/zywaited/leetcode/tree/master/401_450/424/) | 1 |
 | [433](https://leetcode-cn.com/problems/minimum-genetic-mutation/) | [最小基因变化](https://github.com/zywaited/leetcode/tree/master/401_450/433/) | 1 |
 | [435](https://leetcode-cn.com/problems/non-overlapping-intervals/) | [无重叠区间](https://github.com/zywaited/leetcode/tree/master/401_450/435/) | 1 |
