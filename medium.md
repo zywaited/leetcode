@@ -190,6 +190,7 @@
 | [794](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/) | [有效的井字游戏](https://github.com/zywaited/leetcode/tree/master/751_800/794/) | 1 |
 | [799](https://leetcode-cn.com/problems/champagne-tower/) | [香槟塔](https://github.com/zywaited/leetcode/tree/master/751_800/799/) | 1 |
 | [802](https://leetcode-cn.com/problems/find-eventual-safe-states/) | [找到最终的安全状态](https://github.com/zywaited/leetcode/tree/master/801_850/802) | 1              |
+| [807](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/) | [807. 保持城市天际线](https://github.com/zywaited/leetcode/tree/master/801_850/807/) | 1 |
 | [820](https://leetcode-cn.com/problems/short-encoding-of-words/) | [单词的压缩编码](https://github.com/zywaited/leetcode/tree/master/801_850/820) | 3              |
 | [825](https://leetcode-cn.com/problems/friends-of-appropriate-ages/) | [适龄的朋友](https://github.com/zywaited/leetcode/tree/master/801_850/825) | 2 |
 | [826](https://leetcode-cn.com/problems/most-profit-assigning-work/) | [安排工作以达到最大收益](https://github.com/zywaited/leetcode/tree/master/801_850/826) | 1 |
