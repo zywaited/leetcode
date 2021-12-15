@@ -72,7 +72,7 @@
 | [552](https://leetcode-cn.com/problems/student-attendance-record-ii/) | [学生出勤记录 II](https://github.com/zywaited/leetcode/tree/master/551_600/552/) | 1            |
 | [600](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/) | [不含连续1的非负整数](https://github.com/zywaited/leetcode/tree/master/551_600/600/) | 1            |
 | [629](https://leetcode-cn.com/problems/k-inverse-pairs-array/) | [K个逆序对数组](https://github.com/zywaited/leetcode/tree/master/601_650/629/) | 2            |
-| [630](https://leetcode-cn.com/problems/course-schedule-iii/) | [课程表 III](https://github.com/zywaited/leetcode/tree/master/601_650/630/) | 1            |
+| [630](https://leetcode-cn.com/problems/course-schedule-iii/) | [课程表 III](https://github.com/zywaited/leetcode/tree/master/601_650/630/) | 2            |
 | [632](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists/) | [最小区间](https://github.com/zywaited/leetcode/tree/master/601_650/632/) | 1            |
 | [639](https://leetcode-cn.com/problems/decode-ways-ii/)      | [解码方法 2](https://github.com/zywaited/leetcode/tree/master/601_650/639/) | 1            |
 | [664](https://leetcode-cn.com/problems/strange-printer/)     | [奇怪的打印机](https://github.com/zywaited/leetcode/tree/master/651_700/664/) | 1            |
