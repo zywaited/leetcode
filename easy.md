@@ -103,6 +103,7 @@
 | [1576](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [替换所有的问号](https://github.com/zywaited/leetcode/tree/master/1501_2000/1551_1600/1576/) | 1            |
 | [1614](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/) | [括号的最大嵌套深度](https://github.com/zywaited/leetcode/tree/master/1501_2000/1601_1650/1614/) | 1            |
 | [1640](https://leetcode-cn.com/problems/check-array-formation-through-concatenation/) | [能否连接形成数组](https://github.com/zywaited/leetcode/tree/master/1501_2000/1601_1650/1640/) | 1            |
+| [1995](https://leetcode-cn.com/problems/count-special-quadruplets/) | [统计特殊四元组](https://github.com/zywaited/leetcode/tree/master/1501_2000/1951_2000/1995/) | 2            |
 | [5213](https://leetcode-cn.com/problems/play-with-chips/)    | [玩筹码](https://github.com/zywaited/leetcode/tree/master/5001_5500/5201_5250/5213/) | 1            |
 | [5340](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [统计有序矩阵中的负数](https://github.com/zywaited/leetcode/tree/master/5001_5500/5301_5350/5340/) | 1            |
 | [LCP1](https://leetcode-cn.com/problems/guess-numbers/)      | [猜数字](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/1/) | 1            |
