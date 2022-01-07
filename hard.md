@@ -71,6 +71,7 @@
 | [514](https://leetcode-cn.com/problems/freedom-trail/)       | [自由之路](https://github.com/zywaited/leetcode/tree/master/501_1000/501_550/514/) | 1            |
 | [546](https://leetcode-cn.com/problems/remove-boxes/)        | [移除盒子](https://github.com/zywaited/leetcode/tree/master/501_1000/501_550/546/) | 1            |
 | [552](https://leetcode-cn.com/problems/student-attendance-record-ii/) | [学生出勤记录 II](https://github.com/zywaited/leetcode/tree/master/501_1000/551_600/552/) | 1            |
+| [568](https://leetcode-cn.com/problems/maximum-vacation-days/) | [最大休假天数](https://github.com/zywaited/leetcode/tree/master/501_1000/551_600/568/) | 1            |
 | [600](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/) | [不含连续1的非负整数](https://github.com/zywaited/leetcode/tree/master/501_1000/551_600/600/) | 1            |
 | [629](https://leetcode-cn.com/problems/k-inverse-pairs-array/) | [K个逆序对数组](https://github.com/zywaited/leetcode/tree/master/501_1000/601_650/629/) | 2            |
 | [630](https://leetcode-cn.com/problems/course-schedule-iii/) | [课程表 III](https://github.com/zywaited/leetcode/tree/master/501_1000/601_650/630/) | 2            |
