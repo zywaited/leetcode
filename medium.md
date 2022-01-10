@@ -114,6 +114,7 @@
 | [299](https://leetcode-cn.com/problems/bulls-and-cows/)                                                      | [猜数字游戏](https://github.com/zywaited/leetcode/tree/master/1_500/251_300/299/)                             | 1 |
 | [300](https://leetcode-cn.com/problems/longest-increasing-subsequence/)                                      | [最长上升子序列](https://github.com/zywaited/leetcode/tree/master/1_500/251_300/300/)                           | 3              |
 | [304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)                                        | [二维区域和检索 - 矩阵不可变](https://github.com/zywaited/leetcode/tree/master/1_500/301_350/304/)                   | 1 |
+| [306](https://leetcode-cn.com/problems/additive-number/) | [累加数](https://github.com/zywaited/leetcode/tree/master/1_500/301_350/306/) | 1 |
 | [309](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)                       | [最佳买卖股票时机含冷冻期](https://github.com/zywaited/leetcode/tree/master/1_500/301_350/309/)                      | 1              |
 | [313](https://leetcode-cn.com/problems/super-ugly-number/)                                                   | [超级丑数](https://github.com/zywaited/leetcode/tree/master/1_500/301_350/313/)                              | 1 |
 | [318](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/)                                     | [最大单词长度乘积](https://github.com/zywaited/leetcode/tree/master/1_500/301_350/318/)                          | 1 |
