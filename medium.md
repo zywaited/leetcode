@@ -319,6 +319,7 @@
 | [2017](https://leetcode-cn.com/problems/grid-game/)          | [网格游戏](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2017/) | 1              |
 | [2018](https://leetcode-cn.com/problems/check-if-word-can-be-placed-in-crossword/) | [判断单词是否能放入填字游戏内](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2018/) | 1              |
 | [2029](https://leetcode-cn.com/problems/stone-game-ix/)      | [石子游戏 IX](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2029/) | 1              |
+| [2034](https://leetcode-cn.com/problems/stock-price-fluctuation/) | [股票价格波动](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2034/) | 1              |
 | [2044](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [统计按位或能得到最大值的子集数目](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2044/) | 1              |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5001_5500/5201_5250/5214/) | 1              |
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5001_5500/5301_5350/5341/) | 1              |
