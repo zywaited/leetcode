@@ -137,6 +137,7 @@
 | [1872](https://leetcode-cn.com/problems/stone-game-viii/)    | [石子游戏 VIII](https://github.com/zywaited/leetcode/tree/master/1501_2000/1851_1900/1872) | 1            |
 | [2030](https://leetcode-cn.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/) | [含特定字母的最小子序列](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2030/) | 1            |
 | [2045](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/) | [到达目的地的第二短时间](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2045/) | 1            |
+| [2050](https://leetcode-cn.com/problems/parallel-courses-iii/) | [并行课程 III](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2050/) | 1            |
 | [2076](https://leetcode-cn.com/problems/process-restricted-friend-requests/) | [处理含限制条件的好友请求](https://github.com/zywaited/leetcode/tree/master/2001_2500/2051_2100/2076/) | 1            |
 | [2106](https://leetcode-cn.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [摘水果](https://github.com/zywaited/leetcode/tree/master/2001_2500/2101_2150/2106/) | 1            |
 | [5841](https://leetcode-cn.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [找出到每个位置为止最长的有效障碍赛跑路线](https://github.com/zywaited/leetcode/tree/master/5501_6000/5801_5850/5841/) | 1            |
