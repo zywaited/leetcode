@@ -316,6 +316,7 @@
 | [1838](https://leetcode-cn.com/problems/frequency-of-the-most-frequent-element/) | [最高频元素的频数](https://github.com/zywaited/leetcode/tree/master/1501_2000/1801_1850/1838/) | 1              |
 | [1871](https://leetcode-cn.com/problems/jump-game-vii/)      | [跳跃游戏 VII](https://github.com/zywaited/leetcode/tree/master/1501_2000/1801_1850/1871/) | 2              |
 | [1894](https://leetcode-cn.com/problems/ipo/)                | [找到需要补充粉笔的学生编号](https://github.com/zywaited/leetcode/tree/master/1501_2000/1801_1850/1894/) | 2              |
+| [1996](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game/) | [游戏中弱角色的数量](https://github.com/zywaited/leetcode/tree/master/1501_2000/1951_2000/1996/) | 1              |
 | [2017](https://leetcode-cn.com/problems/grid-game/)          | [网格游戏](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2017/) | 1              |
 | [2018](https://leetcode-cn.com/problems/check-if-word-can-be-placed-in-crossword/) | [判断单词是否能放入填字游戏内](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2018/) | 1              |
 | [2029](https://leetcode-cn.com/problems/stone-game-ix/)      | [石子游戏 IX](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2029/) | 1              |
