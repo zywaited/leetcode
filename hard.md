@@ -93,6 +93,7 @@
 | [982](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/) | [按位与为零的三元组](https://github.com/zywaited/leetcode/tree/master/501_1000/951_1000/982/) | 2            |
 | [992](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | [K 个不同整数的子数组](https://github.com/zywaited/leetcode/tree/master/501_1000/951_1000/992/) | 1            |
 | [995](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [K 连续位的最小翻转次数](https://github.com/zywaited/leetcode/tree/master/501_1000/951_1000/995/) | 1            |
+| [1001](https://leetcode-cn.com/problems/grid-illumination/)  | [网格照明](https://github.com/zywaited/leetcode/tree/master/1001_1500/1001_1050/1001/) | 1            |
 | [1012](https://leetcode-cn.com/problems/numbers-with-repeated-digits/) | [至少有 1 位重复的数字](https://github.com/zywaited/leetcode/tree/master/1001_1500/1001_1050/1012/) | 1            |
 | [1028](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) | [从先序遍历还原二叉树](https://github.com/zywaited/leetcode/tree/master/1001_1500/1001_1050/1028/) | 1            |
 | [1036](https://leetcode-cn.com/problems/escape-a-large-maze/) | [逃离大迷宫](https://github.com/zywaited/leetcode/tree/master/1001_1500/1001_1050/1036/) | 1            |
