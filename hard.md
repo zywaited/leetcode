@@ -142,6 +142,7 @@
 | [2076](https://leetcode-cn.com/problems/process-restricted-friend-requests/) | [处理含限制条件的好友请求](https://github.com/zywaited/leetcode/tree/master/2001_2500/2051_2100/2076/) | 1            |
 | [2106](https://leetcode-cn.com/problems/maximum-fruits-harvested-after-at-most-k-steps/) | [摘水果](https://github.com/zywaited/leetcode/tree/master/2001_2500/2101_2150/2106/) | 1            |
 | [2157](https://leetcode-cn.com/problems/groups-of-strings/)  | [字符串分组](https://github.com/zywaited/leetcode/tree/master/2001_2500/2151_2200/2157/) | 1            |
+| [2167](https://leetcode-cn.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/) | [移除所有载有违禁货物车厢所需的最少时间](https://github.com/zywaited/leetcode/tree/master/2001_2500/2151_2200/2167/) | 1            |
 | [5841](https://leetcode-cn.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [找出到每个位置为止最长的有效障碍赛跑路线](https://github.com/zywaited/leetcode/tree/master/5501_6000/5801_5850/5841/) | 1            |
 | [LCP4](https://leetcode-cn.com/problems/broken-board-dominoes/) | [ 覆盖](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/4/) | 1            |
 | [LCP5](https://leetcode-cn.com/problems/coin-bonus/)         | [发 LeetCoin](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/5/) | 1            |
