@@ -309,6 +309,7 @@
 | [1695](https://leetcode-cn.com/problems/maximum-erasure-value/) | [删除子数组的最大得分](https://github.com/zywaited/leetcode/tree/master/1501_2000/1651_1700/1695/) | 1              |
 | [1696](https://leetcode-cn.com/problems/jump-game-vi/)       | [跳跃游戏 VI](https://github.com/zywaited/leetcode/tree/master/1501_2000/1651_1700/1696/) | 2              |
 | [1705](https://leetcode-cn.com/problems/maximum-number-of-eaten-apples/) | [吃苹果的最大数目](https://github.com/zywaited/leetcode/tree/master/1501_2000/1701_1750/1705/) | 1              |
+| [1706](https://leetcode-cn.com/problems/where-will-the-ball-fall/) | [球会落何处](https://github.com/zywaited/leetcode/tree/master/1501_2000/1701_1750/1706/) | 1              |
 | [1711](https://leetcode-cn.com/problems/count-good-meals/)   | [大餐计数](https://github.com/zywaited/leetcode/tree/master/1501_2000/1701_1750/1711/) | 1              |
 | [1734](https://leetcode-cn.com/problems/decode-xored-permutation/) | [解码异或后的排列](https://github.com/zywaited/leetcode/tree/master/1501_2000/1701_1750/1734/) | 1              |
 | [1738](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/) | [找出第 K 大的异或坐标值](https://github.com/zywaited/leetcode/tree/master/1501_2000/1701_1750/1738/) | 1              |
