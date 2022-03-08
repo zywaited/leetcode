@@ -325,6 +325,7 @@
 | [2029](https://leetcode-cn.com/problems/stone-game-ix/)      | [石子游戏 IX](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2029/) | 1              |
 | [2034](https://leetcode-cn.com/problems/stock-price-fluctuation/) | [股票价格波动](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2034/) | 1              |
 | [2044](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [统计按位或能得到最大值的子集数目](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2044/) | 1              |
+| [2055](https://leetcode-cn.com/problems/plates-between-candles/) | [蜡烛之间的盘子](https://github.com/zywaited/leetcode/tree/master/2001_2500/2051_2100/2055/) | 1              |
 | [2104](https://leetcode-cn.com/problems/sum-of-subarray-ranges/) | [子数组范围和](https://github.com/zywaited/leetcode/tree/master/2001_2500/2101_2150/2104/) | 1              |
 | [2166](https://leetcode-cn.com/problems/design-bitset/)      | [设计位集](https://github.com/zywaited/leetcode/tree/master/2001_2500/2151_2200/2166/) | 2              |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5001_5500/5201_5250/5214/) | 1              |
