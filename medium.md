@@ -324,6 +324,7 @@
 | [2018](https://leetcode-cn.com/problems/check-if-word-can-be-placed-in-crossword/) | [判断单词是否能放入填字游戏内](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2018/) | 1              |
 | [2029](https://leetcode-cn.com/problems/stone-game-ix/)      | [石子游戏 IX](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2029/) | 1              |
 | [2034](https://leetcode-cn.com/problems/stock-price-fluctuation/) | [股票价格波动](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2034/) | 1              |
+| [2039](https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/) | [网络空闲的时刻](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2039/) | 1              |
 | [2044](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [统计按位或能得到最大值的子集数目](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2044/) | 1              |
 | [2049](https://leetcode-cn.com/problems/sort-the-jumbled-numbers/) | [统计最高分的节点数目](https://github.com/zywaited/leetcode/tree/master/2001_2500/2001_2050/2049/) | 1              |
 | [2055](https://leetcode-cn.com/problems/plates-between-candles/) | [蜡烛之间的盘子](https://github.com/zywaited/leetcode/tree/master/2001_2500/2051_2100/2055/) | 1              |
