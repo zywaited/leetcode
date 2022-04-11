@@ -55,6 +55,7 @@
 | [352](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/) | [将数据流变为多个不相交区间](https://github.com/zywaited/leetcode/tree/master/1_500/301_350/352/) | 2            |
 | [354](https://leetcode-cn.com/problems/russian-doll-envelopes/) | [俄罗斯套娃信封问题](https://github.com/zywaited/leetcode/tree/master/1_500/301_350/354/) | 2            |
 | [363](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [矩形区域不超过 K 的最大数值和](https://github.com/zywaited/leetcode/tree/master/1_500/351_400/363/) | 1            |
+| [381](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [O(1) 时间插入、删除和获取随机元素 - 允许重复](https://github.com/zywaited/leetcode/tree/master/1_500/351_400/381/) | 1            |
 | [403](https://leetcode-cn.com/problems/frog-jump/)           | [青蛙过河](https://github.com/zywaited/leetcode/tree/master/1_500/401_450/403/) | 2            |
 | [407](https://leetcode-cn.com/problems/trapping-rain-water-ii/) | [接雨水 II](https://github.com/zywaited/leetcode/tree/master/1_500/401_450/407/) | 1            |
 | [410](https://leetcode-cn.com/problems/split-array-largest-sum/) | [分割数组的最大值](https://github.com/zywaited/leetcode/tree/master/1_500/401_450/410/) | 1            |
