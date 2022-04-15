@@ -331,6 +331,7 @@
 | [2104](https://leetcode-cn.com/problems/sum-of-subarray-ranges/) | [子数组范围和](https://github.com/zywaited/leetcode/tree/master/2001_2500/2101_2150/2104/) | 1              |
 | [2166](https://leetcode-cn.com/problems/design-bitset/)      | [设计位集](https://github.com/zywaited/leetcode/tree/master/2001_2500/2151_2200/2166/) | 2              |
 | [2191](https://leetcode-cn.com/problems/sort-the-jumbled-numbers/) | [将杂乱无章的数字排序](https://github.com/zywaited/leetcode/tree/master/2001_2500/2151_2200/2191/) | 1              |
+| [2233](https://leetcode-cn.com/problems/maximum-product-after-k-increments/) | [K 次增加后的最大乘积](https://github.com/zywaited/leetcode/tree/master/2001_2500/2201_2250/2233/) | 1              |
 | [5214](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [最长定差子序列](https://github.com/zywaited/leetcode/tree/master/5001_5500/5201_5250/5214/) | 1              |
 | [5341](https://leetcode-cn.com/problems/product-of-the-last-k-numbers/) | [最后 K 个数的乘积](https://github.com/zywaited/leetcode/tree/master/5001_5500/5301_5350/5341/) | 1              |
 | [LCP3](https://leetcode-cn.com/problems/programmable-robot/) | [ 机器人大冒险](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/3/) | 1              |
