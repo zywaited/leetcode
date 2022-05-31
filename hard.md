@@ -168,4 +168,5 @@
 | [Interview17.21](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)                               | [直方图的水量](https://github.com/zywaited/leetcode/tree/master/Interview/17_1_50/21/)                   | 3      |
 | [Interview17.25](https://leetcode-cn.com/problems/word-rectangle-lcci/)                                    | [单词矩阵](https://github.com/zywaited/leetcode/tree/master/Interview/17_1_50/25/)                     | 1      |
 | [Offer15](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)                                | [数组中的逆序对](https://github.com/zywaited/leetcode/tree/master/Offer/51_100/51/)                       | 1      |
+| [Offer114](https://leetcode.cn/problems/Jf1JuT/)                                                           | [外星文字典](https://github.com/zywaited/leetcode/tree/master/Offer/101_150/114/)                       | 1      |
 
