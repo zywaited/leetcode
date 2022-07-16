@@ -85,6 +85,7 @@
 | [691](https://leetcode.cn/problems/stickers-to-spell-word/)                                                | [贴纸拼词](https://github.com/zywaited/leetcode/tree/master/501_1000/651_700/691/)                     | 1      |
 | [726](https://leetcode-cn.com/problems/number-of-atoms/)                                                   | [原子的数量](https://github.com/zywaited/leetcode/tree/master/501_1000/701_750/726/)                    | 1      |
 | [736](https://leetcode.cn/problems/parse-lisp-expression/)                                                 | [Lisp 语法解析](https://github.com/zywaited/leetcode/tree/master/501_1000/701_750/736/)                | 1      |
+| [745](https://leetcode.cn/problems/prefix-and-suffix-search/)                                              | [前缀和后缀搜索](https://github.com/zywaited/leetcode/tree/master/501_1000/701_750/745/)                  | 1      |
 | [749](https://leetcode-cn.com/problems/contain-virus/)                                                     | [隔离病毒](https://github.com/zywaited/leetcode/tree/master/501_1000/701_750/749/)                     | 1      |
 | [798](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/)                              | [得分最高的最小轮调](https://github.com/zywaited/leetcode/tree/master/501_1000/751_800/798/)                | 2      |
 | [815](https://leetcode-cn.com/problems/bus-routes/)                                                        | [公交路线](https://github.com/zywaited/leetcode/tree/master/501_1000/801_850/815/)                     | 1      |
