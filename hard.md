@@ -97,6 +97,7 @@
 | [887](https://leetcode-cn.com/problems/super-egg-drop/)                                                    | [鸡蛋掉落](https://github.com/zywaited/leetcode/tree/master/501_1000/851_900/887/)                     | 1      |
 | [924](https://leetcode-cn.com/problems/minimize-malware-spread/)                                           | [尽量减少恶意软件的传播](https://github.com/zywaited/leetcode/tree/master/501_1000/901_950/924/)              | 1      |
 | [928](https://leetcode-cn.com/problems/minimize-malware-spread-ii/)                                        | [尽量减少恶意软件的传播 II](https://github.com/zywaited/leetcode/tree/master/501_1000/901_950/928/)           | 1      |
+| [952](https://leetcode.cn/problems/largest-component-size-by-common-factor/)                               | [按公因数计算最大组件大小](https://github.com/zywaited/leetcode/tree/master/501_1000/951_1000/952/)            | 1      |
 | [968](https://leetcode-cn.com/problems/binary-tree-cameras/)                                               | [监控二叉树](https://github.com/zywaited/leetcode/tree/master/501_1000/951_1000/968/)                   | 1      |
 | [982](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero/)                            | [按位与为零的三元组](https://github.com/zywaited/leetcode/tree/master/501_1000/951_1000/982/)               | 2      |
 | [992](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)                               | [K 个不同整数的子数组](https://github.com/zywaited/leetcode/tree/master/501_1000/951_1000/992/)             | 1      |
