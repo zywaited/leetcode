@@ -87,6 +87,7 @@
 | [736](https://leetcode.cn/problems/parse-lisp-expression/)                                                 | [Lisp 语法解析](https://github.com/zywaited/leetcode/tree/master/501_1000/701_750/736/)                | 1      |
 | [745](https://leetcode.cn/problems/prefix-and-suffix-search/)                                              | [前缀和后缀搜索](https://github.com/zywaited/leetcode/tree/master/501_1000/701_750/745/)                  | 1      |
 | [749](https://leetcode-cn.com/problems/contain-virus/)                                                     | [隔离病毒](https://github.com/zywaited/leetcode/tree/master/501_1000/701_750/749/)                     | 1      |
+| [749](https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/)                                          | [最多能完成排序的块 II](https://github.com/zywaited/leetcode/tree/master/501_1000/751_800/768/)             | 1      |
 | [798](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/)                              | [得分最高的最小轮调](https://github.com/zywaited/leetcode/tree/master/501_1000/751_800/798/)                | 2      |
 | [815](https://leetcode-cn.com/problems/bus-routes/)                                                        | [公交路线](https://github.com/zywaited/leetcode/tree/master/501_1000/801_850/815/)                     | 1      |
 | [834](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)                                          | [树中距离之和](https://github.com/zywaited/leetcode/tree/master/501_1000/801_850/834/)                   | 1      |
