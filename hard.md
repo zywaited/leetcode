@@ -162,6 +162,7 @@
 | [2234](https://leetcode-cn.com/problems/maximum-total-beauty-of-the-gardens/)                              | [花园的最大总美丽值](https://github.com/zywaited/leetcode/tree/master/2001_2500/2201_2250/2234/)            | 2      |
 | [2321](https://leetcode.cn/problems/maximum-score-of-spliced-array/)                                       | [拼接数组的最大分数](https://github.com/zywaited/leetcode/tree/master/2001_2500/2301_2350/2321/)            | 1      |
 | [2360](https://leetcode.cn/problems/longest-cycle-in-a-graph/)                                             | [图中的最长环](https://github.com/zywaited/leetcode/tree/master/2001_2500/2351_2400/2360/)               | 1      |
+| [2375](https://leetcode.cn/problems/count-special-integers/)                                               | [统计特殊整数](https://github.com/zywaited/leetcode/tree/master/2001_2500/2351_2400/2376/)               | 1      |
 | [5841](https://leetcode-cn.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)          | [找出到每个位置为止最长的有效障碍赛跑路线](https://github.com/zywaited/leetcode/tree/master/5501_6000/5801_5850/5841/) | 1      |
 | [LCP4](https://leetcode-cn.com/problems/broken-board-dominoes/)                                            | [ 覆盖](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/4/)                                | 1      |
 | [LCP5](https://leetcode-cn.com/problems/coin-bonus/)                                                       | [发 LeetCoin](https://github.com/zywaited/leetcode/tree/master/LCP/1_50/5/)                         | 1      |
