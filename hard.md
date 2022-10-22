@@ -89,6 +89,7 @@
 | [749](https://leetcode-cn.com/problems/contain-virus/)                                                     | [隔离病毒](https://github.com/zywaited/leetcode/tree/master/501_1000/701_750/749/)                     | 1      |
 | [749](https://leetcode.cn/problems/max-chunks-to-make-sorted-ii/)                                          | [最多能完成排序的块 II](https://github.com/zywaited/leetcode/tree/master/501_1000/751_800/768/)             | 1      |
 | [798](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/)                              | [得分最高的最小轮调](https://github.com/zywaited/leetcode/tree/master/501_1000/751_800/798/)                | 2      |
+| [801](https://leetcode.cn/problems/minimum-swaps-to-make-sequences-increasing/)                            | [使序列递增的最小交换次数](https://github.com/zywaited/leetcode/tree/master/501_1000/801_850/801/)             | 1      |
 | [815](https://leetcode-cn.com/problems/bus-routes/)                                                        | [公交路线](https://github.com/zywaited/leetcode/tree/master/501_1000/801_850/815/)                     | 1      |
 | [834](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)                                          | [树中距离之和](https://github.com/zywaited/leetcode/tree/master/501_1000/801_850/834/)                   | 1      |
 | [862](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k/)                             | [和至少为 K 的最短子数组](https://github.com/zywaited/leetcode/tree/master/501_1000/851_900/862/)            | 1      |
