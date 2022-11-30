@@ -92,6 +92,7 @@
 | [801](https://leetcode.cn/problems/minimum-swaps-to-make-sequences-increasing/)                            | [使序列递增的最小交换次数](https://github.com/zywaited/leetcode/tree/master/501_1000/801_850/801/)             | 1      |
 | [815](https://leetcode-cn.com/problems/bus-routes/)                                                        | [公交路线](https://github.com/zywaited/leetcode/tree/master/501_1000/801_850/815/)                     | 1      |
 | [834](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)                                          | [树中距离之和](https://github.com/zywaited/leetcode/tree/master/501_1000/801_850/834/)                   | 1      |
+| [859](https://leetcode.cn/problems/maximum-frequency-stack/description/)                                   | [最大频率栈](https://github.com/zywaited/leetcode/tree/master/501_1000/851_900/859/)                    | 1      |
 | [862](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k/)                             | [和至少为 K 的最短子数组](https://github.com/zywaited/leetcode/tree/master/501_1000/851_900/862/)            | 1      |
 | [871](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/)                                 | [最低加油次数](https://github.com/zywaited/leetcode/tree/master/501_1000/851_900/871/)                   | 2      |
 | [878](https://leetcode-cn.com/problems/nth-magical-number/)                                                | [第 N 个神奇数字](https://github.com/zywaited/leetcode/tree/master/501_1000/851_900/878/)                | 1      |
