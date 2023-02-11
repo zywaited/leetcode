@@ -164,6 +164,7 @@
 | [2167](https://leetcode-cn.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/)         | [移除所有载有违禁货物车厢所需的最少时间](https://github.com/zywaited/leetcode/tree/master/2001_2500/2151_2200/2167/)  | 1      |
 | [2193](https://leetcode-cn.com/problems/minimum-number-of-moves-to-make-palindrome/)                       | [得到回文串的最少操作次数](https://github.com/zywaited/leetcode/tree/master/2001_2500/2151_2200/2193/)         | 1      |
 | [2234](https://leetcode-cn.com/problems/maximum-total-beauty-of-the-gardens/)                              | [花园的最大总美丽值](https://github.com/zywaited/leetcode/tree/master/2001_2500/2201_2250/2234/)            | 2      |
+| [2306](https://leetcode.cn/problems/naming-a-company/)                                                     | [公司命名](https://github.com/zywaited/leetcode/tree/master/2001_2500/2301_2350/2306/)                 | 1      |
 | [2321](https://leetcode.cn/problems/maximum-score-of-spliced-array/)                                       | [拼接数组的最大分数](https://github.com/zywaited/leetcode/tree/master/2001_2500/2301_2350/2321/)            | 1      |
 | [2360](https://leetcode.cn/problems/longest-cycle-in-a-graph/)                                             | [图中的最长环](https://github.com/zywaited/leetcode/tree/master/2001_2500/2351_2400/2360/)               | 1      |
 | [2375](https://leetcode.cn/problems/count-special-integers/)                                               | [统计特殊整数](https://github.com/zywaited/leetcode/tree/master/2001_2500/2351_2400/2376/)               | 1      |
